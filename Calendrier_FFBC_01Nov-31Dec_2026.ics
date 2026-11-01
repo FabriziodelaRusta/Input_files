@@ -1,0 +1,2000 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fabrizio de la Rusta//Calendrier FFBC//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mon_calendrier_FFBC_2027
+X-WR-CALDESC:Calendrier FFBC (85 événements sélectionnés du 2026-11-01 au 2027-10-31)
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffbc-9471-20261105@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261105T133000
+DTEND;TZID=Europe/Brussels:20261105T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 42 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 42\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9269-20261108@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261108T080000
+DTEND;TZID=Europe/Brussels:20261108T120000
+SUMMARY:🌲 [VTT] Le chemin des Sangliers - SERAING
+LOCATION:Complexe sportif du Bois Abbaye\, 51-53 Avenue des Puddleurs  4100
+  SERAING\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=51-53 Avenue des Puddle
+ urs  4100 SERAING
+DESCRIPTION:📌 ÉVÉNEMENT : Le chemin des Sangliers\n🚴 Club organisateur : 
+ 3709 - Cycling team aux Assemblées\n📍 Lieu de départ : Complexe sportif du
+  Bois Abbaye\n🏠 Adresse : 51-53 Avenue des Puddleurs  4100 SERAING\n🗺️ Pr
+ ovince : Liège\n\n--- PARCOURS & CIRCUITS ---\n• VTT: 55 km | D+ : 980 | Dé
+ part: 08h00 - 10h00 | Ravitaillement: 3\n• VTT: 45 km | D+ : 740 | Départ: 
+ 08h00 - 11h00 | Ravitaillement: 3\n• VTT: 35 km | D+ : 530 | Départ: 08h00 
+ - 11h00 | Ravitaillement: 2\n• VTT: 25 km | D+ : 400 | Départ: 08h00 - 11h0
+ 0 | Ravitaillement: 2\n• VTT: 10 km | D+ : 110 | Départ: 08h00 - 11h00\n\nℹ
+ ️ Remarque : Vestiaires - Douches H/D-Lavage vélo-Parking\nNL:Vanoirbeek V:
+  0471/580828- Tarifs  2 à 7€\ninfos parcours: www.aux-assemblees.com\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=5
+ 1-53 Avenue des Puddleurs  4100 SERAING\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-8995-20261111@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261111T080000
+DTEND;TZID=Europe/Brussels:20261111T120000
+SUMMARY:🌲 [VTT] La Gesvoise - Gesves
+LOCATION:Buvette terrain football de Gesves\, 12 rue de la Pichelotte 5340 
+ Gesves\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=12 rue de la Pichelotte
+  5340 Gesves
+DESCRIPTION:📌 ÉVÉNEMENT : La Gesvoise\n🚴 Club organisateur : 3701 - Team 
+ Faulx-Namur\n📍 Lieu de départ : Buvette terrain football de Gesves\n🏠 Adr
+ esse : 12 rue de la Pichelotte 5340 Gesves\n🗺️ Province : Namur\n\n--- PAR
+ COURS & CIRCUITS ---\n• VTT: 43 km | D+ : 880 | Départ: 08h00 - 10h30 | Rav
+ itaillement: 2 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• VTT: 36 km | D
+ + : 700 | Départ: 08h00 - 10h30 | Ravitaillement: 2 | Tarif: FFBC : 6\,00€ 
+ / NON FFBC : 7\,50€\n• VTT: 26 km | D+ : 530 | Départ: 08h00 - 10h30 | Ravi
+ taillement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• VTT: 20 km | D+
+  : 350 | Départ: 08h00 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 5\,00€ /
+  NON FFBC : 6\,50€\n\nℹ️ Remarque : Douches\,  vestiaires\,  buvette\npetit
+ e restauration\nPré inscription du 07/11 au 10/11\n\n🗺️ Itinéraire Google 
+ Maps : https://www.google.com/maps/search/?api=1&query=12 rue de la Pichelo
+ tte 5340 Gesves\n\n🔗 Source : Fédération Francophone Belge du Cyclotourism
+ e (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RP
+ A)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9271-20261111@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261111T080000
+DTEND;TZID=Europe/Brussels:20261111T120000
+SUMMARY:🚴 [Route] Randonnée de l'Enfance - MONS
+LOCATION:Cité de l’Enfance\, 21 21\, Chaussée de Beaumont 7000 MONS\, Haina
+ ut
+URL:https://www.google.com/maps/search/?api=1&query=21 21\, Chaussée de Bea
+ umont 7000 MONS
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée de l'Enfance\n🚴 Club organisateur : 8
+ 504 - LES DRAGONS AUDAX MONS\n📍 Lieu de départ : Cité de l’Enfance\n🏠 Adr
+ esse : 21 21\, Chaussée de Beaumont 7000 MONS\n🗺️ Province : Hainaut\n\n--
+ - PARCOURS & CIRCUITS ---\n• ROUTE: 70 km | D+ : N.A | Départ: 08h00 - 09h0
+ 0 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 
+ 50 km | D+ : N.A | Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC 
+ : 4\,50€\n\nℹ️ Remarque : En collaboration avec le Rotary Club de Mons\nPar
+ cours disponibles uniquement sur trace GPS\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query=21 21\, Chaussée de Beaumon
+ t 7000 MONS\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9472-20261112@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261112T133000
+DTEND;TZID=Europe/Brussels:20261112T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 43 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 43\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9882-20261115@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261115T080000
+DTEND;TZID=Europe/Brussels:20261115T120000
+SUMMARY:🪨 [Gravel] La balade des voisins - BAILLEUL
+LOCATION:Maison de Village\, 3 Rue des Victimes 7730 BAILLEUL\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=3 Rue des Victimes 7730
+  BAILLEUL
+DESCRIPTION:📌 ÉVÉNEMENT : La balade des voisins\n🚴 Club organisateur : 26
+ 02 - Cyclos Val d'Escaut\n📍 Lieu de départ : Maison de Village\n🏠 Adresse
+  : 3 Rue des Victimes 7730 BAILLEUL\n🗺️ Province : Hainaut\n\n--- PARCOURS
+  & CIRCUITS ---\n• ROUTE: 58 km | D+ : N.A | Départ: 08h00 - 10h00 | Ravita
+ illement: 1 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• GRAVEL: 48 km | D
+ + : N.A | Départ: 08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 2\,00€ 
+ / NON FFBC : 3\,50€\n• ROUTE: 28 km | D+ : N.A | Départ: 08h00 - 10h00 | Ra
+ vitaillement: 1 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• MARCHE: 13 km
+  | D+ : N.A | Départ: 08h00 - 10h00\n• MARCHE: 8 km | D+ : N.A | Départ: 08
+ h00 - 10h00\n• MARCHE: 5 km | D+ : N.A | Départ: 08h00 - 10h00\n\nℹ️ Remarq
+ ue : Randonnée organisée dans le cadre \nd'un petit déjeuner solidaire - \n
+ Parcours points-noeuds ou liens openrunner\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query=3 Rue des Victimes 7730 BAI
+ LLEUL\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / 
+ Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,MARCHE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9473-20261119@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261119T133000
+DTEND;TZID=Europe/Brussels:20261119T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 44 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 44\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9039-20261122@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261122T080000
+DTEND;TZID=Europe/Brussels:20261122T120000
+SUMMARY:🪨 [Gravel] La Gadouzienne - ENGHIEN
+LOCATION:Centre Sportif Nautisport\, 36 Chaussée de Soignies 7850 ENGHIEN\,
+  Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=36 Chaussée de Soignies
+  7850 ENGHIEN
+DESCRIPTION:📌 ÉVÉNEMENT : La Gadouzienne\n🚴 Club organisateur : 8527 - CY
+ CLO BOL D'AIR ENGHIEN\n📍 Lieu de départ : Centre Sportif Nautisport\n🏠 Ad
+ resse : 36 Chaussée de Soignies 7850 ENGHIEN\n🗺️ Province : Hainaut\n\n---
+  PARCOURS & CIRCUITS ---\n• VTT: 65 km | D+ : N.A | Départ: 08h00 - 10h00 |
+  Ravitaillement: 2 | Tarif: FFBC : 6\,50€ / NON FFBC : 8\,00€\n• GRAVEL: 60
+  km | D+ : N.A | Départ: 08h00 - 10h00 | Tarif: FFBC : 5\,00€ / NON FFBC : 
+ 6\,50€\n• VTT: 55 km | D+ : N.A | Départ: 08h00 - 10h00 | Ravitaillement: 2
+  | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• VTT: 45 km | D+ : N.A | Dépa
+ rt: 08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 5\,50€ / NON FFBC : 7
+ \,00€\n• VTT: 30 km | D+ : N.A | Départ: 08h00 - 10h30 | Ravitaillement: 1 
+ | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n\nℹ️ Remarque : Circuit : Parc 
+ + Bois d'Enghien et Silly\nRestauration et Ravitos appréciés\nDouches. Bike
+ -wash. Parking\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/
+ search/?api=1&query=36 Chaussée de Soignies 7850 ENGHIEN\n\n🔗 Source : Féd
+ ération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calend
+ rier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9474-20261126@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261126T133000
+DTEND;TZID=Europe/Brussels:20261126T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 45 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 45\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9475-20261203@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261203T133000
+DTEND;TZID=Europe/Brussels:20261203T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 46 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 46\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9476-20261210@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261210T133000
+DTEND;TZID=Europe/Brussels:20261210T173000
+SUMMARY:🚴 [Route] Sortie du Jeudi n° 47 - HAUTRAGE  Centre
+LOCATION:Maison Villageoise\, 44 Place d'Hautrage 7334 HAUTRAGE  Centre\, H
+ ainaut
+URL:https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 733
+ 4 HAUTRAGE  Centre
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Jeudi n° 47\n🚴 Club organisateur : 98
+ 16 - CYCLO SENIORS\n📍 Lieu de départ : Maison Villageoise\n🏠 Adresse : 44
+  Place d'Hautrage 7334 HAUTRAGE  Centre\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• EASY: 45 km | D+ : N.A | Départ: 13h30 - 13h30\n• EA
+ SY: 35 km | D+ : N.A | Départ: 13h35 - 13h35\n\nℹ️ Remarque : Randonnée du 
+ jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=4
+ 4 Place d'Hautrage 7334 HAUTRAGE  Centre\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9274-20261213@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261213T083000
+DTEND;TZID=Europe/Brussels:20261213T123000
+SUMMARY:🌲 [VTT] VTT de la Ferme Fleurie - Hollain
+LOCATION:La Ferme fleurie\, 169 Rue de Tournai 7620 Hollain\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=169 Rue de Tournai 7620
+  Hollain
+DESCRIPTION:📌 ÉVÉNEMENT : VTT de la Ferme Fleurie\n🚴 Club organisateur : 
+ 1159 - Les Cent Amis de Bléharies\n📍 Lieu de départ : La Ferme fleurie\n🏠
+  Adresse : 169 Rue de Tournai 7620 Hollain\n🗺️ Province : Hainaut\n\n--- P
+ ARCOURS & CIRCUITS ---\n• VTT: 45 km | D+ : N.A | Départ: 08h30 - 10h00 | R
+ avitaillement: 1\n• VTT: 30 km | D+ : N.A | Départ: 08h30 - 10h00 | Ravitai
+ llement: 1\n• VTT: 20 km | D+ : N.A | Départ: 08h30 - 10h00 | Ravitaillemen
+ t: 1\n• MARCHE: 10 km | D+ : N.A | Départ: 08h30 - 10h00\n• MARCHE: 5 km | 
+ D+ : N.A | Départ: 08h30 - 10h00\n\nℹ️ Remarque : BIKE WASH / DOUCHES \nPOT
+ AGE ET PETITE RESTAURATION\n\n🗺️ Itinéraire Google Maps : https://www.goog
+ le.com/maps/search/?api=1&query=169 Rue de Tournai 7620 Hollain\n\n🔗 Sourc
+ e : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱
+  Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,MARCHE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9041-20261226@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261226T180000
+DTEND;TZID=Europe/Brussels:20261226T220000
+SUMMARY:🥾 [Marche] MARCHE DE LA ST SYLVESTRE - MONS
+LOCATION:Auberge de jeunesse\, 2 Rampe du Château 7000 MONS\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=2 Rampe du Château 7000
+  MONS
+DESCRIPTION:📌 ÉVÉNEMENT : MARCHE DE LA ST SYLVESTRE\n🚴 Club organisateur 
+ : 8504 - LES DRAGONS AUDAX MONS\n📍 Lieu de départ : Auberge de jeunesse\n�
+ � Adresse : 2 Rampe du Château 7000 MONS\n🗺️ Province : Hainaut\n\n--- PAR
+ COURS & CIRCUITS ---\n• MARCHE: 10 km | D+ : N.A | Départ: 18h00 - 20h00 | 
+ Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Marche nocturne d
+ e la St Sylvestre\n\n🗺️ Itinéraire Google Maps : https://www.google.com/ma
+ ps/search/?api=1&query=2 Rampe du Château 7000 MONS\n\n🔗 Source : Fédérati
+ on Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier 
+ préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,MARCHE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9011-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 01 - Oostende - Virton - OOSTENDE Diagonales Randonnée U
+ LTRA "Randonneur"
+LOCATION:Centre\, x Gare 8400 OOSTENDE\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE
+DESCRIPTION:📌 ÉVÉNEMENT : 01 - Oostende - Virton\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Gare 84
+ 00 OOSTENDE\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGO
+ NALE: 320 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NO
+ N FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 24h /\nPeut être ro
+ ulée toute l'année /\n1ère diagonale = + 4 €\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE\n\n�
+ � Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liber
+ té)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9012-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 02 - Oostende - Manderfeld - OOSTENDE Diagonales Randonn
+ ée ULTRA "Randonneur"
+LOCATION:Centre\, x Gare 8400 OOSTENDE\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE
+DESCRIPTION:📌 ÉVÉNEMENT : 02 - Oostende - Manderfeld\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Gar
+ e 8400 OOSTENDE\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• D
+ IAGONALE: 320 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ 
+ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 24h\nPeut être 
+ roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com
+ /maps/search/?api=1&query=x Gare 8400 OOSTENDE\n\n🔗 Source : Fédération Fr
+ ancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépa
+ ré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9013-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 03 - Oostende - Maaseik - OOSTENDE Diagonales
+LOCATION:Centre\, x Gare 8400 OOSTENDE\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE
+DESCRIPTION:📌 ÉVÉNEMENT : 03 - Oostende - Maaseik\n🚴 Club organisateur : 
+ 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Gare 8
+ 400 OOSTENDE\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 240 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 16h\nPeut être rou
+ lée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/ma
+ ps/search/?api=1&query=x Gare 8400 OOSTENDE\n\n🔗 Source : Fédération Franc
+ ophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé 
+ par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9014-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 04 - Oostende - Chimay - OOSTENDE Diagonales
+LOCATION:Centre\, x Gare 8400 OOSTENDE\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE
+DESCRIPTION:📌 ÉVÉNEMENT : 04 - Oostende - Chimay\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Gare 84
+ 00 OOSTENDE\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGO
+ NALE: 195 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NO
+ N FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h\n\n🗺️ Itinérai
+ re Google Maps : https://www.google.com/maps/search/?api=1&query=x Gare 840
+ 0 OOSTENDE\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FF
+ BC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9015-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 05 - Chimay - Manderfeld - CHIMAY Diagonales
+LOCATION:Place\, x Centre 6460 CHIMAY\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY
+DESCRIPTION:📌 ÉVÉNEMENT : 05 - Chimay - Manderfeld\n🚴 Club organisateur :
+  2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Place\n🏠 Adresse : x Centre
+  6460 CHIMAY\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h\n\n🗺️ Itinéra
+ ire Google Maps : https://www.google.com/maps/search/?api=1&query=x Centre 
+ 6460 CHIMAY\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9016-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 06 - Chimay - Maaseik - CHIMAY Diagonales
+LOCATION:Place\, x Centre 6460 CHIMAY\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY
+DESCRIPTION:📌 ÉVÉNEMENT : 06 - Chimay - Maaseik\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Place\n🏠 Adresse : x Centre 64
+ 60 CHIMAY\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGONA
+ LE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON 
+ FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h\n\n🗺️ Itinéraire
+  Google Maps : https://www.google.com/maps/search/?api=1&query=x Centre 646
+ 0 CHIMAY\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9017-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 07 - Chimay - Turnhout - CHIMAY Diagonales
+LOCATION:Place\, x Centre 6460 CHIMAY\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY
+DESCRIPTION:📌 ÉVÉNEMENT : 07 - Chimay - Turnhout\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Place\n🏠 Adresse : x Centre 6
+ 460 CHIMAY\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGON
+ ALE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON
+  FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h\nPeut être roulé
+ e toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps
+ /search/?api=1&query=x Centre 6460 CHIMAY\n\n🔗 Source : Fédération Francop
+ hone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé pa
+ r Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9018-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 08 - Mouscron - Turnhout - MOUSCRON Diagonales
+LOCATION:Gare\, x Place de la gare 7700 MOUSCRON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700
+  MOUSCRON
+DESCRIPTION:📌 ÉVÉNEMENT : 08 - Mouscron - Turnhout\n🚴 Club organisateur :
+  2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Gare\n🏠 Adresse : x Place d
+ e la gare 7700 MOUSCRON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS 
+ ---\n• DIAGONALE: 175 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC :
+  2\,50€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 12h\n\n
+ 🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&quer
+ y=x Place de la gare 7700 MOUSCRON\n\n🔗 Source : Fédération Francophone Be
+ lge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabri
+ zio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9019-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 09 - Mouscron - Maaseik - MOUSCRON Diagonales
+LOCATION:Gare\, x Place de la gare 7700 MOUSCRON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700
+  MOUSCRON
+DESCRIPTION:📌 ÉVÉNEMENT : 09 - Mouscron - Maaseik\n🚴 Club organisateur : 
+ 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Gare\n🏠 Adresse : x Place de
+  la gare 7700 MOUSCRON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS -
+ --\n• DIAGONALE: 220 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 
+ 2\,50€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 15h\nPeu
+ t être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.goo
+ gle.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9020-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 10 - Mouscron - Virton - MOUSCRON Diagonales
+LOCATION:Gare\, x Place de la gare 7700 MOUSCRON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700
+  MOUSCRON
+DESCRIPTION:📌 ÉVÉNEMENT : 10 - Mouscron - Virton\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Gare\n🏠 Adresse : x Place de 
+ la gare 7700 MOUSCRON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS --
+ -\n• DIAGONALE: 270 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2
+ \,50€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - 19h\nPeut être 
+ roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com
+ /maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON\n\n🔗 Source : F
+ édération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cale
+ ndrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9021-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 11 - Mouscron - Manderfeld - MOUSCRON Diagonales
+LOCATION:Gare\, x Place de la gare 7700 MOUSCRON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700
+  MOUSCRON
+DESCRIPTION:📌 ÉVÉNEMENT : 11 - Mouscron - Manderfeld\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Gare\n🏠 Adresse : x Place
+  de la gare 7700 MOUSCRON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUIT
+ S ---\n• DIAGONALE: 285 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC
+  : 2\,50€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 20h\n
+ Peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.
+ google.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON\n\n🔗 
+ Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté
+ )\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9022-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 12 - Virton - Maaseik - VIRTON Diagonales
+LOCATION:Centre\, x Place 6760 VIRTON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON
+DESCRIPTION:📌 ÉVÉNEMENT : 12 - Virton - Maaseik\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 67
+ 60 VIRTON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGONA
+ LE: 240 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON 
+ FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 16h\nPeut être roulée
+  toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/
+ search/?api=1&query=x Place 6760 VIRTON\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9023-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 13 - Virton - Turnhout - VIRTON Diagonales
+LOCATION:Centre\, x Place 6760 VIRTON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON
+DESCRIPTION:📌 ÉVÉNEMENT : 13 - Virton - Turnhout\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 6
+ 760 VIRTON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGON
+ ALE: 255 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON
+  FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 18h\nPeut être roulé
+ e toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps
+ /search/?api=1&query=x Place 6760 VIRTON\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9024-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 14 - Manderfeld - Turnhout - MANDERFELD Diagonales
+LOCATION:Centre\, x Place 4760 MANDERFELD\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD
+DESCRIPTION:📌 ÉVÉNEMENT : 14 - Manderfeld - Turnhout\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Pla
+ ce 4760 MANDERFELD\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n
+ • DIAGONALE: 195 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,5
+ 0€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h\nPeut êt
+ re roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.
+ com/maps/search/?api=1&query=x Place 4760 MANDERFELD\n\n🔗 Source : Fédérat
+ ion Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier
+  préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9025-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 15 - Chimay - Ostende - CHIMAY Diagonales
+LOCATION:Place\, x Centre 6460 CHIMAY\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY
+DESCRIPTION:📌 ÉVÉNEMENT : 15 - Chimay - Ostende\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Place\n🏠 Adresse : x Centre 64
+ 60 CHIMAY\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGONA
+ LE: 195 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON 
+ FFBC : 4\,00€\n\nℹ️ Remarque : parcours libre - délai 13h\n\n🗺️ Itinéraire
+  Google Maps : https://www.google.com/maps/search/?api=1&query=x Centre 646
+ 0 CHIMAY\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9026-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 16 - Turnhout - Mouscron - TURNHOUT Diagonales
+LOCATION:place\, x centre 2300 TURNHOUT\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT
+DESCRIPTION:📌 ÉVÉNEMENT : 16 - Turnhout - Mouscron\n🚴 Club organisateur :
+  2208 - FFBC - DIAGONALES\n📍 Lieu de départ : place\n🏠 Adresse : x centre
+  2300 TURNHOUT\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DI
+ AGONALE: 175 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ /
+  NON FFBC : 4\,00€\n\nℹ️ Remarque : parcours libre - délai 12 h\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=x cent
+ re 2300 TURNHOUT\n\n🔗 Source : Fédération Francophone Belge du Cyclotouris
+ me (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (R
+ PA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9027-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 17 - Virton - Ostende - VIRTON Diagonales Randonnée ULTR
+ A "Randonneur"
+LOCATION:Centre\, x Place 6760 VIRTON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON
+DESCRIPTION:📌 ÉVÉNEMENT : 17 - Virton - Ostende\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 67
+ 60 VIRTON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGONA
+ LE: 320 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON 
+ FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 24h - Peut être roulé
+ e\n toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/ma
+ ps/search/?api=1&query=x Place 6760 VIRTON\n\n🔗 Source : Fédération Franco
+ phone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé p
+ ar Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9028-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 18 - Maaseik - Oostende - MAASEIK Diagonales
+LOCATION:Centre\, x Place 3680 MAASEIK\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK
+DESCRIPTION:📌 ÉVÉNEMENT : 18 - Maaseik - Oostende\n🚴 Club organisateur : 
+ 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 
+ 3680 MAASEIK\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 240 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 16h Peut être roul
+ ée \ntoute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/m
+ aps/search/?api=1&query=x Place 3680 MAASEIK\n\n🔗 Source : Fédération Fran
+ cophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé
+  par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9029-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 19 - Virton - Mouscron - VIRTON Diagonales
+LOCATION:Centre\, x Place 6760 VIRTON\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON
+DESCRIPTION:📌 ÉVÉNEMENT : 19 - Virton - Mouscron\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 6
+ 760 VIRTON\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGON
+ ALE: 270 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON
+  FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - 19h Peut être roulée toute
+  \nl'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/sear
+ ch/?api=1&query=x Place 6760 VIRTON\n\n🔗 Source : Fédération Francophone B
+ elge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabr
+ izio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9030-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 20 - Turnhout - Chimay - TURNHOUT Diagonales
+LOCATION:place\, x centre 2300 TURNHOUT\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT
+DESCRIPTION:📌 ÉVÉNEMENT : 20 - Turnhout - Chimay\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : place\n🏠 Adresse : x centre 2
+ 300 TURNHOUT\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h Peut être roul
+ ée \ntoute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/m
+ aps/search/?api=1&query=x centre 2300 TURNHOUT\n\n🔗 Source : Fédération Fr
+ ancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépa
+ ré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9031-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 21 - Manderfeld - Mouscron - MANDERFELD Diagonales
+LOCATION:Centre\, x Place 4760 MANDERFELD\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD
+DESCRIPTION:📌 ÉVÉNEMENT : 21 - Manderfeld - Mouscron\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Pla
+ ce 4760 MANDERFELD\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n
+ • DIAGONALE: 285 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,5
+ 0€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 20h Peut êtr
+ e roulée \ntoute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google
+ .com/maps/search/?api=1&query=x Place 4760 MANDERFELD\n\n🔗 Source : Fédéra
+ tion Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrie
+ r préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9032-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 22 - Manderfeld - Oostende - MANDERFELD Diagonales Rando
+ nnée ULTRA "Randonneur"
+LOCATION:Centre\, x Place 4760 MANDERFELD\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD
+DESCRIPTION:📌 ÉVÉNEMENT : 22 - Manderfeld - Oostende\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Pla
+ ce 4760 MANDERFELD\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n
+ • DIAGONALE: 320 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,5
+ 0€ / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 24h Peut êtr
+ e roulée \ntoute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google
+ .com/maps/search/?api=1&query=x Place 4760 MANDERFELD\n\n🔗 Source : Fédéra
+ tion Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrie
+ r préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9033-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 23 - Manderfeld - Chimay - MANDERFELD Diagonales
+LOCATION:Centre\, x Place 4760 MANDERFELD\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD
+DESCRIPTION:📌 ÉVÉNEMENT : 23 - Manderfeld - Chimay\n🚴 Club organisateur :
+  2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place
+  4760 MANDERFELD\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• 
+ DIAGONALE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€
+  / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h -\n Peut ê
+ tre roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google
+ .com/maps/search/?api=1&query=x Place 4760 MANDERFELD\n\n🔗 Source : Fédéra
+ tion Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrie
+ r préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9034-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 24 - Maaseik - Chimay - MAASEIK Diagonales
+LOCATION:Centre\, x Place 3680 MAASEIK\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK
+DESCRIPTION:📌 ÉVÉNEMENT : 24 - Maaseik - Chimay\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 36
+ 80 MAASEIK\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGON
+ ALE: 190 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON
+  FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h  - \nPeut être r
+ oulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/
+ maps/search/?api=1&query=x Place 3680 MAASEIK\n\n🔗 Source : Fédération Fra
+ ncophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépar
+ é par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9035-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 25 - Maaseik - Mouscron - MAASEIK Diagonales
+LOCATION:Centre\, x Place 3680 MAASEIK\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK
+DESCRIPTION:📌 ÉVÉNEMENT : 25 - Maaseik - Mouscron\n🚴 Club organisateur : 
+ 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 
+ 3680 MAASEIK\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 220 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 15h -\nPeut être r
+ oulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/
+ maps/search/?api=1&query=x Place 3680 MAASEIK\n\n🔗 Source : Fédération Fra
+ ncophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépar
+ é par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9626-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 26 - Maaseik - Virton - MAASEIK Diagonales
+LOCATION:Centre\, x Place 3680 MAASEIK\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK
+DESCRIPTION:📌 ÉVÉNEMENT : 26 - Maaseik - Virton\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Centre\n🏠 Adresse : x Place 36
+ 80 MAASEIK\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAGON
+ ALE: 240 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / NON
+  FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 16h -\nPeut être rou
+ lée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/ma
+ ps/search/?api=1&query=x Place 3680 MAASEIK\n\n🔗 Source : Fédération Franc
+ ophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé 
+ par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9627-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 27 - Turnhout - Virton - TURNHOUT Diagonales
+LOCATION:place\, x centre 2300 TURNHOUT\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT
+DESCRIPTION:📌 ÉVÉNEMENT : 27 - Turnhout - Virton\n🚴 Club organisateur : 2
+ 208 - FFBC - DIAGONALES\n📍 Lieu de départ : place\n🏠 Adresse : x centre 2
+ 300 TURNHOUT\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• DIAG
+ ONALE: 255 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€ / N
+ ON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 18h -\nPeut être r
+ oulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/
+ maps/search/?api=1&query=x centre 2300 TURNHOUT\n\n🔗 Source : Fédération F
+ rancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prép
+ aré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9628-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 28 - Turnhout - Manderfeld - TURNHOUT Diagonales
+LOCATION:place\, x centre 2300 TURNHOUT\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT
+DESCRIPTION:📌 ÉVÉNEMENT : 28 - Turnhout - Manderfeld\n🚴 Club organisateur
+  : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : place\n🏠 Adresse : x cent
+ re 2300 TURNHOUT\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• 
+ DIAGONALE: 195 km | D+ : N.A | Départ: 06h00 - 06h00 | Tarif: FFBC : 2\,50€
+  / NON FFBC : 4\,00€\n\nℹ️ Remarque : Parcours libre - délai 13h -\nPeut êt
+ re roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.
+ com/maps/search/?api=1&query=x centre 2300 TURNHOUT\n\n🔗 Source : Fédérati
+ on Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier 
+ préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9797-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 31 - Diagonales - Triangle n° 1 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 31 - Diagonales - Triangle n° 1\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 800 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Ostend
+ e-Virton-Maaseik-Ostende /\nParcours libre - délai 65h /\nDépart libre sur 
+ le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.googl
+ e.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗 So
+ urce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\
+ n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9798-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 32 - Diagonales - Triangle n° 2 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 32 - Diagonales - Triangle n° 2\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 675 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Chimay
+ -Turnhout-Manderfeld-Chimay /\nParcours libre - délai 46h /\nDépart libre s
+ ur le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9799-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 33 - Diagonales - Triangles n° 3 - Sur le parcours Diago
+ nales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 33 - Diagonales - Triangles n° 3\n🚴 Club organi
+ sateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n�
+ � Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n
+ --- PARCOURS & CIRCUITS ---\n• DIAGONALE: 730 km | D+ : N.A | Départ: 06h00
+  - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Mousc
+ ron-Virton-Maaseik-Mouscron /\nParcours libre - délai 61h /\nDépart libre s
+ ur le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9800-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 34 - Diagonales - Triangle n° 4 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 34 - Diagonales - Triangle n° 4\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 700 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Mouscr
+ on-Virton-Turnhout-Mouscron /\nParcours libre - délai 59h /\nDépart libre s
+ ur le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9802-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 35 - Diagonales - Triangle n° 5 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 35 - Diagonales - Triangle n° 5\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 625 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Ostend
+ e-Chimay-Maaseik-Ostende /\nParcours libre - délai 52h /\nDépart libre sur 
+ le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.googl
+ e.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗 So
+ urce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\
+ n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9803-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 36 - Diagonales - Triangle n° 6 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 36 - Diagonales - Triangle n° 6\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 705 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Ostend
+ e-Chimay-Manderfeld-Ostende /\nParcours libre - délai 59h /\nDépart libre s
+ ur le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9804-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 37 Diagonales - Triangle n° 7 - Sur le parcours Diagonal
+ es Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 37 Diagonales - Triangle n° 7\n🚴 Club organisat
+ eur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 A
+ dresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n---
+  PARCOURS & CIRCUITS ---\n• DIAGONALE: 655 km | D+ : N.A | Départ: 06h00 - 
+ 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Mouscron
+ -Manderfeld-Turnhout-Mouscron /\nParcours libre 54h /\nDépart libre sur le 
+ parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.c
+ om/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗 Sourc
+ e : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱
+  Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9618-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Achouffe - Orval - Achouffe - Sur le parcours GRAVEL Pe
+ rmanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Achouffe - Orval - Achouffe\n🚴 Club organisateu
+ r : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n🏠 Adr
+ esse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--- PAR
+ COURS & CIRCUITS ---\n• GRAVEL: 227 km | D+ : 3140 | Départ: 06h00 - 06h00 
+ | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanente: p
+ eut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.g
+ oogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n�
+ � Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liber
+ té)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9617-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Achouffe - Verviers - Achouffe - Sur le parcours GRAVEL
+  Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Achouffe - Verviers - Achouffe\n🚴 Club organisa
+ teur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n🏠 
+ Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--- 
+ PARCOURS & CIRCUITS ---\n• GRAVEL: 208 km | D+ : 4240 | Départ: 06h00 - 06h
+ 00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanente
+ : peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://ww
+ w.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n
+ \n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Li
+ berté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9619-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Mont de l'Enclus - Orval - Mont de d'Enclus 
+ GRAVEL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Parking au Sommet\, x Mont de l'Enclus 7750 Mont de d'Enclus\, Liè
+ ge
+URL:https://www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750
+  Mont de d'Enclus
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Mont de l'Enclus - Orval\n🚴 Club org
+ anisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Parking au Sommet\n🏠
+  Adresse : x Mont de l'Enclus 7750 Mont de d'Enclus\n🗺️ Province : Liège\n
+ \n--- PARCOURS & CIRCUITS ---\n• GRAVEL: 337 km | D+ : 4900 | Départ: 06h00
+  - 06h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diag
+ onale: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https
+ ://www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750 Mont de 
+ d'Enclus\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9621-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Mt de l'Enclus-Verviers - Mont de d'Enclus G
+ RAVEL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Parking au Sommet\, x Mont de l'Enclus 7750 Mont de d'Enclus\, Liè
+ ge
+URL:https://www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750
+  Mont de d'Enclus
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Mt de l'Enclus-Verviers\n🚴 Club orga
+ nisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Parking au Sommet\n🏠 
+ Adresse : x Mont de l'Enclus 7750 Mont de d'Enclus\n🗺️ Province : Liège\n\
+ n--- PARCOURS & CIRCUITS ---\n• GRAVEL: 340 km | D+ : 3000 | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diago
+ nale: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750 Mont de d
+ 'Enclus\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9620-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Orval - Mont de l'Enclus - FLORENVILLE GRAVE
+ L Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Abbaye d'Orval\, 1 Orval 6823 FLORENVILLE\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=1 Orval 6823 FLORENVILL
+ E
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Orval - Mont de l'Enclus\n🚴 Club org
+ anisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Abbaye d'Orval\n🏠 Ad
+ resse : 1 Orval 6823 FLORENVILLE\n🗺️ Province : Liège\n\n--- PARCOURS & CI
+ RCUITS ---\n• GRAVEL: 308 km | D+ : 3500 | Départ: 06h00 - 06h00 | Tarif: F
+ FBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diagonale: peut être ro
+ ulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/m
+ aps/search/?api=1&query=1 Orval 6823 FLORENVILLE\n\n🔗 Source : Fédération 
+ Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pré
+ paré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9624-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Orval - Verviers - FLORENVILLE GRAVEL Perman
+ entes Randonnée ULTRA "Randonneur"
+LOCATION:Abbaye d'Orval\, 1 Orval 6823 FLORENVILLE\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=1 Orval 6823 FLORENVILL
+ E
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Orval - Verviers\n🚴 Club organisateu
+ r : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Abbaye d'Orval\n🏠 Adresse : 
+ 1 Orval 6823 FLORENVILLE\n🗺️ Province : Liège\n\n--- PARCOURS & CIRCUITS -
+ --\n• GRAVEL: 237 km | D+ : 3410 | Départ: 06h00 - 06h00 | Tarif: FFBC : 10
+ \,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diagonale: peut être roulée tou
+ te l'année\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/sear
+ ch/?api=1&query=1 Orval 6823 FLORENVILLE\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9623-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Verviers - Orval - VERVIERS GRAVEL Permanent
+ es Randonnée ULTRA "Randonneur"
+LOCATION:Parking du Parc Rodin\, x Rue de Grandville 4800 VERVIERS\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=x Rue de Grandville 480
+ 0 VERVIERS
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Verviers - Orval\n🚴 Club organisateu
+ r : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Parking du Parc Rodin\n🏠 Adr
+ esse : x Rue de Grandville 4800 VERVIERS\n🗺️ Province : Liège\n\n--- PARCO
+ URS & CIRCUITS ---\n• GRAVEL: 201 km | D+ : 3760 | Départ: 06h00 - 06h00 | 
+ Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diagonale: peut
+  être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.goog
+ le.com/maps/search/?api=1&query=x Rue de Grandville 4800 VERVIERS\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9622-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Diagonale: Verviers-Mt de l'Enclus - VERVIERS GRAVEL Pe
+ rmanentes Randonnée ULTRA "Randonneur"
+LOCATION:Parking du Parc Rodin\, x Rue de Grandville 4800 VERVIERS\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=x Rue de Grandville 480
+ 0 VERVIERS
+DESCRIPTION:📌 ÉVÉNEMENT : Diagonale: Verviers-Mt de l'Enclus\n🚴 Club orga
+ nisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Parking du Parc Rodin\
+ n🏠 Adresse : x Rue de Grandville 4800 VERVIERS\n🗺️ Province : Liège\n\n--
+ - PARCOURS & CIRCUITS ---\n• GRAVEL: 345 km | D+ : 3520 | Départ: 06h00 - 0
+ 6h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Diagonal
+ e: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://w
+ ww.google.com/maps/search/?api=1&query=x Rue de Grandville 4800 VERVIERS\n\
+ n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Lib
+ erté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9616-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Fernelmont - Verviers - Fernelmont - Sur le parcours GR
+ AVEL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Fernelmont - Verviers - Fernelmont\n🚴 Club orga
+ nisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\
+ n🏠 Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n
+ --- PARCOURS & CIRCUITS ---\n• GRAVEL: 234 km | D+ : 1900 | Départ: 06h00 -
+  06h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Perman
+ ente: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcou
+ rs\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vél
+ o Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9667-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Les Sots du del Saux - Jurbise Permanentes
+LOCATION:non disponible\, - Place d'Herchies 7050 Jurbise\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- Place d'Herchies 7050
+  Jurbise
+DESCRIPTION:📌 ÉVÉNEMENT : Les Sots du del Saux\n🚴 Club organisateur : 850
+ 4 - LES DRAGONS AUDAX MONS\n📍 Lieu de départ : non disponible\n🏠 Adresse 
+ : - Place d'Herchies 7050 Jurbise\n🗺️ Province : Hainaut\n\n--- PARCOURS &
+  CIRCUITS ---\n• EASY: 58 km | D+ : 227 | Départ: 08h00 - 14h00 | Tarif: FF
+ BC : 1\,00€ / NON FFBC : 2\,50€\n\nℹ️ Remarque : Randonnée permanente\nInsc
+ ription en ligne\nTrace GPX\n\n🗺️ Itinéraire Google Maps : https://www.goo
+ gle.com/maps/search/?api=1&query=- Place d'Herchies 7050 Jurbise\n\n🔗 Sour
+ ce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n�
+ � Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9668-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Les sots du del Saux-Parcours long - MONS Permanentes
+LOCATION:Tennis club MONS RAECT\, 29 rue Valenciennoise 7000 MONS\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=29 rue Valenciennoise 7
+ 000 MONS
+DESCRIPTION:📌 ÉVÉNEMENT : Les sots du del Saux-Parcours long\n🚴 Club orga
+ nisateur : 8504 - LES DRAGONS AUDAX MONS\n📍 Lieu de départ : Tennis club M
+ ONS RAECT\n🏠 Adresse : 29 rue Valenciennoise 7000 MONS\n🗺️ Province : Hai
+ naut\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 91 km | D+ : 400 | Départ: 08
+ h00 - 14h00 | Tarif: FFBC : 1\,00€ / NON FFBC : 2\,50€\n\nℹ️ Remarque : Ran
+ donnée Permanente\nInscription en ligne\nTrace GPX\n\n🗺️ Itinéraire Google
+  Maps : https://www.google.com/maps/search/?api=1&query=29 rue Valenciennoi
+ se 7000 MONS\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (
+ FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9612-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Mons - Viroinval - Mons - Sur le parcours GRAVEL Perman
+ entes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Mons - Viroinval - Mons\n🚴 Club organisateur : 
+ 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n🏠 Adresse
+  : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--- PARCOUR
+ S & CIRCUITS ---\n• GRAVEL: 241 km | D+ : 2900 | Départ: 06h00 - 06h00 | Ta
+ rif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanente: peut 
+ être roulée toute l'année -\nAutre découpage: Mons - Beaumont - Mons: 97 \n
+ km et Beaumont - Vierves - Beaumont: 145 km\n\n🗺️ Itinéraire Google Maps :
+  https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le
+  parcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFB
+ C / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9611-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Mt de l'Enclus-Mons-Mt de l'Enclus - Sur le parcours GR
+ AVEL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Mt de l'Enclus-Mons-Mt de l'Enclus\n🚴 Club orga
+ nisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\
+ n🏠 Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n
+ --- PARCOURS & CIRCUITS ---\n• GRAVEL: 200 km | D+ : 1700 | Départ: 06h00 -
+  06h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Perman
+ ente: peut être roulée toute l'année -\nAutre découpage: Enclus - Ath - Enc
+ lus: 108 \nkm et Mons - Ath - Mons: 90 km\n\n🗺️ Itinéraire Google Maps : h
+ ttps://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le p
+ arcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9614-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Mt l'Enclus-Waterloo-Mt l'Enclus - Sur le parcours GRAV
+ EL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Mt l'Enclus-Waterloo-Mt l'Enclus\n🚴 Club organi
+ sateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n�
+ � Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--
+ - PARCOURS & CIRCUITS ---\n• GRAVEL: 222 km | D+ : 1650 | Départ: 06h00 - 0
+ 6h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanen
+ te: peut être roulée toute l'année -\nAutre découpage: Enclus - Enghien - E
+ nclus: \n118 km et Enghien - Nivelles - Enghien:107 km\n\n🗺️ Itinéraire Go
+ ogle Maps : https://www.google.com/maps/search/?api=1&query=- sur la trace 
+ 0000 Sur le parcours\n\n🔗 Source : Fédération Francophone Belge du Cycloto
+ urisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rust
+ a (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9830-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ourthe and Bike
+LOCATION:Au choix\, x Au choix . Sur la trace
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix . Sur la tra
+ ce
+DESCRIPTION:📌 ÉVÉNEMENT : Ourthe and Bike\n🚴 Club organisateur : 55201 - 
+ FFBC - ULTRA\n📍 Lieu de départ : Au choix\n🏠 Adresse : x Au choix . Sur l
+ a trace\n\n--- PARCOURS & CIRCUITS ---\n• VTT: 162 km | D+ : 3600 | Départ:
+  06h00 - 06h00 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : 
+ Avec l'autorisation de la Maison du Tourisme \nde La Roche-en-Ardenne / Dél
+ ai = 22 heures /\nEnvoi de la trace après inscription\n\n🗺️ Itinéraire Goo
+ gle Maps : https://www.google.com/maps/search/?api=1&query=x Au choix . Sur
+  la trace\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFB
+ C / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9666-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Sambre et Thure - MONS Permanentes
+LOCATION:Tennis club MONS RAECT\, 29 rue Valenciennoise 7000 MONS\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=29 rue Valenciennoise 7
+ 000 MONS
+DESCRIPTION:📌 ÉVÉNEMENT : Sambre et Thure\n🚴 Club organisateur : 8504 - L
+ ES DRAGONS AUDAX MONS\n📍 Lieu de départ : Tennis club MONS RAECT\n🏠 Adres
+ se : 29 rue Valenciennoise 7000 MONS\n🗺️ Province : Hainaut\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 120 km | D+ : 1150 | Départ: 08h00 - 10h00 | Tar
+ if: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Randonnée permanente
+  \nInscription en ligne\nTrace GPX\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query=29 rue Valenciennoise 7000 MONS\n\n
+ 🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libe
+ rté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9806-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Samson-Molignée-Meuse - FAULX-LES-TOMBES Permanentes
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Samson-Molignée-Meuse\n🚴 Club organisateur : 37
+ 01 - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\n🏠 Adresse : 
+ RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n\n--- PARCOURS
+  & CIRCUITS ---\n• ROUTE: 74 km | D+ : 859 | Départ: 08h00 - 10h00 | Tarif:
+  FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 59 km | D+ : 511 | Départ: 08h
+ 00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 34 km | D+ 
+ : 366 | Départ: 08h00 - 10h00 | Tarif: FFBC : 1\,50€ / NON FFBC : 3\,00€\n\
+ nℹ️ Remarque : Après pré-inscription: envoi du parcours GPX \n- herve.balth
+ azart@gmail.com - +32 477/78 00 88\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 FAULX-LES-TOM
+ BES\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vé
+ lo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9829-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Stoneman Arduenna
+LOCATION:Au choix\, x Au choix . Sur la trace
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix . Sur la tra
+ ce
+DESCRIPTION:📌 ÉVÉNEMENT : Stoneman Arduenna\n🚴 Club organisateur : 55201 
+ - FFBC - ULTRA\n📍 Lieu de départ : Au choix\n🏠 Adresse : x Au choix . Sur
+  la trace\n\n--- PARCOURS & CIRCUITS ---\n• VTT: 176 km | D+ : 3900 | Dépar
+ t: 06h00 - 06h00 | Tarif: FFBC : 17\,50€ / NON FFBC : 19\,00€\n\nℹ️ Remarqu
+ e : Pack de démarrage sans contact Stoneman\nvia le téléphone portable / Dé
+ lai 24 heures /\nUtilisez le code de réduction   BCxSTMN26\n\n🗺️ Itinérair
+ e Google Maps : https://www.google.com/maps/search/?api=1&query=x Au choix 
+ . Sur la trace\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme
+  (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA
+ )
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9826-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] Tour de Belgique "Frontières" - Sur le parcours Randonné
+ e ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Tour de Belgique "Frontières"\n🚴 Club organisat
+ eur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 A
+ dresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n---
+  PARCOURS & CIRCUITS ---\n• ROUTE: 1215 km | D+ : 10500 | Départ: 06h00 - 0
+ 6h00 | Tarif: FFBC : 8\,00€ / NON FFBC : 9\,50€\n\nℹ️ Remarque : Délai 120 
+ h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivr
+ e =\nwww.openrunner.com/route-details/17231085\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (
+ FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9827-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] Tour de Belgique - 15 villes relais - Sur le parcours Ra
+ ndonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Tour de Belgique - 15 villes relais\n🚴 Club org
+ anisateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix
+ \n🏠 Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\
+ n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 1000 km | D+ : 7000 | Départ: 06h0
+ 0 - 06h00 | Tarif: FFBC : 8\,00€ / NON FFBC : 9\,50€\n\nℹ️ Remarque : Délai
+  112h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à s
+ uivre =\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗 Source : Fédération 
+ Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pré
+ paré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9836-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] ULTRA Tour GRAVEL du Brabant Wallon - Sur le parcours G
+ RAVEL Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour GRAVEL du Brabant Wallon\n🚴 Club org
+ anisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix
+ \n🏠 Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\
+ n--- PARCOURS & CIRCUITS ---\n• GRAVEL: 292 km | D+ : 2700 | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Délai 2
+ 3h - départ sur le parcours /\nPeut être roulé toute l'année /\nwww.openrun
+ ner.com/route-details/22000101\n\n🗺️ Itinéraire Google Maps : https://www.
+ google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n
+ 🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libe
+ rté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9831-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour du Brabant Wallon - Sur le parcours Randonnée
+  ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour du Brabant Wallon\n🚴 Club organisate
+ ur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Ad
+ resse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 320 km | D+ : 2920 | Départ: 06h00 - 06h0
+ 0 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 23h - d
+ épart sur le parcours /\nPeut être roulé toute l'année / Trace =\nEnvoi de 
+ la trace après inscription\n\n🗺️ Itinéraire Google Maps : https://www.goog
+ le.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗 S
+ ource : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)
+ \n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9801-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour du Hainaut - Sur le parcours Randonnée ULTRA 
+ "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour du Hainaut\n🚴 Club organisateur : 22
+ 08 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Adresse :
+  - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 440 km | D+ : 4000 | Départ: 06h00 - 06h00 | Tar
+ if: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 34h - départ s
+ ur le parcours / Peut \nêtre roulé toute l'année / Trace à suivre = \nwww.o
+ penrunner.com/route-details/20296975\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcou
+ rs\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vél
+ o Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9805-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour du Luxembourg - Sur le parcours Randonnée ULT
+ RA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour du Luxembourg\n🚴 Club organisateur :
+  2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Adress
+ e : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- PARC
+ OURS & CIRCUITS ---\n• ROUTE: 437 km | D+ : 7500 | Départ: 06h00 - 06h00 | 
+ Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 36h - dépar
+ t sur le parcours / Peut \nêtre roulé toute l'année / Trace à suivre = \nww
+ w.openrunner.com/route-details/19245729\n\n🗺️ Itinéraire Google Maps : htt
+ ps://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le par
+ cours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / 
+ Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9825-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour province de Liège - Sur le parcours Randonnée
+  ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour province de Liège\n🚴 Club organisate
+ ur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Ad
+ resse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 415 km | D+ : 4600 | Départ: 06h00 - 06h0
+ 0 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 33h - d
+ épart sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\n
+ www.openrunner.com/route-details/21595495\n\n🗺️ Itinéraire Google Maps : h
+ ttps://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le p
+ arcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9824-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour province de Namur - Sur le parcours Randonnée
+  ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour province de Namur\n🚴 Club organisate
+ ur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Ad
+ resse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 432 km | D+ : 5800 | Départ: 06h00 - 06h0
+ 0 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 35h - d
+ épart sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\n
+ www.openrunner.com/route-details/21590812\n\n🗺️ Itinéraire Google Maps : h
+ ttps://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le p
+ arcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9898-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] ULTRA VTT Des Lacs de l'Eau d'Heure - Sur la trace Randonn
+ ée ULTRA "Randonneur"
+LOCATION:Province de Hainaut\, X Au choix 7000 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA VTT Des Lacs de l'Eau d'Heure\n🚴 Club org
+ anisateur : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Hainaut\n
+ 🏠 Adresse : X Au choix 7000 Sur la trace\n🗺️ Province : Hainaut\n\n--- PA
+ RCOURS & CIRCUITS ---\n• VTT: 174 km | D+ : 2500 | Départ: 06h00 - 06h00 | 
+ Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : délai 23 heures -
+  \nEnvoi de la trace après inscription\n\n🗺️ Itinéraire Google Maps : http
+ s://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la trace\n\
+ n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Lib
+ erté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9900-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] ULTRA VTT d'Anderlues - Sur la trace Randonnée ULTRA "Rand
+ onneur"
+LOCATION:Province de Hainaut\, X Au choix 7000 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA VTT d'Anderlues\n🚴 Club organisateur : 55
+ 201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Hainaut\n🏠 Adresse : X
+  Au choix 7000 Sur la trace\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCU
+ ITS ---\n• VTT: 165 km | D+ : 2000 | Départ: 06h00 - 06h00 | Tarif: FFBC : 
+ 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : délai 20 heures - \nEnvoi de la
+  trace après inscription\n\n🗺️ Itinéraire Google Maps : https://www.google
+ .com/maps/search/?api=1&query=X Au choix 7000 Sur la trace\n\n🔗 Source : F
+ édération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cale
+ ndrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9899-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] ULTRA VTT des Forts Liégeois - Sur la trace Randonnée ULTR
+ A "Randonneur"
+LOCATION:Province de Liège\, x Au choix 4000 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix 4000 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA VTT des Forts Liégeois\n🚴 Club organisate
+ ur : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Liège\n🏠 Adress
+ e : x Au choix 4000 Sur la trace\n🗺️ Province : Hainaut\n\n--- PARCOURS & 
+ CIRCUITS ---\n• VTT: 162 km | D+ : 2535 | Départ: 06h00 - 06h00 | Tarif: FF
+ BC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Circuit reliant les 9 fort
+ s de la ceinture \nsud de Liège lors de la 2-ème guerre/délai 21\n heures/E
+ nvoi de la trace après inscription\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query=x Au choix 4000 Sur la trace\n\n🔗 
+ Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté
+ )\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9902-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] ULTRA VTT du Pays des Collines - Sur la trace Randonnée UL
+ TRA "Randonneur"
+LOCATION:Province de Hainaut\, X Au choix 7000 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA VTT du Pays des Collines\n🚴 Club organisa
+ teur : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Hainaut\n🏠 Ad
+ resse : X Au choix 7000 Sur la trace\n🗺️ Province : Hainaut\n\n--- PARCOUR
+ S & CIRCUITS ---\n• VTT: 150 km | D+ : 1800 | Départ: 06h00 - 06h00 | Tarif
+ : FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : délai 19 heures - \nEn
+ voi de la trace après inscription\n\n🗺️ Itinéraire Google Maps : https://w
+ ww.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la trace\n\n🔗 S
+ ource : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)
+ \n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9872-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Ultra Cyclisme - Namur Permanentes Randonnée ULTRA "Rand
+ onneur"
+LOCATION:Auberge de Jeunesse de Namur\, 8 Rue Félicien Rops 5000 Namur\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=8 Rue Félicien Rops 500
+ 0 Namur
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra Cyclisme\n🚴 Club organisateur : 55106 - C
+ omité Provincial Namur\n📍 Lieu de départ : Auberge de Jeunesse de Namur\n�
+ � Adresse : 8 Rue Félicien Rops 5000 Namur\n🗺️ Province : Namur\n\n--- PAR
+ COURS & CIRCUITS ---\n• ROUTE: 433 km | D+ : 5921 | Départ: 08h00 - 18h00 |
+  Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• ROUTE: 342 km | D+ : 4623 | Dé
+ part: 08h00 - 18h00 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n\nℹ️ Remarq
+ ue : Permanente du 01/01/26 au 31/12/26\nParcours en totale autonomie\nTrac
+ e GPX via inscr. velo-liberte/calendrier\n\n🗺️ Itinéraire Google Maps : ht
+ tps://www.google.com/maps/search/?api=1&query=8 Rue Félicien Rops 5000 Namu
+ r\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo
+  Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9897-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT Bouillon - Sur la trace Randonnée ULTRA "Randonn
+ eur"
+LOCATION:Province du Luxembourg\, X Au choix 6600 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=X Au choix 6600 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT Bouillon\n🚴 Club organisateur : 55201
+  - FFBC - ULTRA\n📍 Lieu de départ : Province du Luxembourg\n🏠 Adresse : X
+  Au choix 6600 Sur la trace\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCU
+ ITS ---\n• VTT: 170 km | D+ : 3700 | Départ: 06h00 - 06h00 | Tarif: FFBC : 
+ 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : délai 24 heures - \nEnvoi de la
+  trace après inscription\n\n🗺️ Itinéraire Google Maps : https://www.google
+ .com/maps/search/?api=1&query=X Au choix 6600 Sur la trace\n\n🔗 Source : F
+ édération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cale
+ ndrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9834-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT au sud de Namur - Sur la Trace Randonnée ULTRA "
+ Randonneur"
+LOCATION:Province de Namur\, x Au choix sur la trace 5000 Sur la Trace\, Ha
+ inaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace
+  5000 Sur la Trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT au sud de Namur\n🚴 Club organisateur 
+ : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Namur\n🏠 Adresse :
+  x Au choix sur la trace 5000 Sur la Trace\n🗺️ Province : Hainaut\n\n--- P
+ ARCOURS & CIRCUITS ---\n• VTT: 154 km | D+ : 3500 | Départ: 06h00 - 06h00 |
+  Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Départ sur le pa
+ rcours /\nDélai de 21 heures /\nEnvoi de la trace après inscription\n\n🗺️ 
+ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=x 
+ Au choix sur la trace 5000 Sur la Trace\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9833-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT en Brabant Wallon - Sur la trace Randonnée ULTRA
+  "Randonneur"
+LOCATION:Brabant Wallon\, x Au choix 1400 Sur la trace\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix 1400 Sur la 
+ trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT en Brabant Wallon\n🚴 Club organisateu
+ r : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Brabant Wallon\n🏠 Adresse : 
+ x Au choix 1400 Sur la trace\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRC
+ UITS ---\n• VTT: 155 km | D+ : 2350 | Départ: 06h00 - 06h00 | Tarif: FFBC :
+  5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Délai = 20 heures /\n\nEnvoi d
+ e la trace après inscription\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=x Au choix 1400 Sur la trace\n\n🔗 Source
+  : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 
+ Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9832-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT en province de Namur - Sur la Trace Randonnée UL
+ TRA "Randonneur"
+LOCATION:Province de Namur\, x Au choix sur la trace 5000 Sur la Trace\, Ha
+ inaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace
+  5000 Sur la Trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT en province de Namur\n🚴 Club organisa
+ teur : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Namur\n🏠 Adre
+ sse : x Au choix sur la trace 5000 Sur la Trace\n🗺️ Province : Hainaut\n\n
+ --- PARCOURS & CIRCUITS ---\n• VTT: 154 km | D+ : 2400 | Départ: 06h00 - 06
+ h00 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Partielleme
+ nt balisé par commune de Burdinne/\nDélai de 20 heures /\nEnvoi de la trace
+  après inscription\n\n🗺️ Itinéraire Google Maps : https://www.google.com/m
+ aps/search/?api=1&query=x Au choix sur la trace 5000 Sur la Trace\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9613-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Viroinval - Orval - Viroinval - Sur le parcours GRAVEL 
+ Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Viroinval - Orval - Viroinval\n🚴 Club organisat
+ eur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n🏠 A
+ dresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--- P
+ ARCOURS & CIRCUITS ---\n• GRAVEL: 252 km | D+ : 4400 | Départ: 06h00 - 06h0
+ 0 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanente:
+  peut être roulée toute l'année -\nAutre découpage:Vierves - Bouillon - Vie
+ rves:\n155 km et Orval - Bouillon - Orval: 95 km\n\n🗺️ Itinéraire Google M
+ aps : https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 S
+ ur le parcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme
+  (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA
+ )
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9615-20261231@velo-liberte.be
+DTSTAMP:20261101T103440Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Waterloo - Fernelmont - Waterloo - Sur le parcours GRAV
+ EL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Waterloo - Fernelmont - Waterloo\n🚴 Club organi
+ sateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\n�
+ � Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n--
+ - PARCOURS & CIRCUITS ---\n• GRAVEL: 230 km | D+ : 2300 | Départ: 06h00 - 0
+ 6h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Permanen
+ te: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours
+ \n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo 
+ Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,3346 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fabrizio de la Rusta//Calendrier FFBC//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mon_calendrier_FFBC_2027
+X-WR-CALDESC:Calendrier FFBC (126 événements sélectionnés - Toutes les dates - Rayon max 30 km autour de 5000)
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+X-LIC-LOCATION:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffbc-9703-20260201@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260201T093000
+DTEND;TZID=Europe/Brussels:20260201T133000
+SUMMARY:🚴 [Route] Progression fédérale - 30km - Fleurus (Wanfercée-Baulet)
+  Brevet Progression Fédérale
+LOCATION:Local VCCF - Ancien hôtel de ville\, 1 Place André Renard 6224 Fle
+ urus (Wanfercée-Baulet)\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=1 Place André Renard 62
+ 24 Fleurus (Wanfercée-Baulet)
+DESCRIPTION:📌 ÉVÉNEMENT : Progression fédérale - 30km\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Local VCCF - Anc
+ ien hôtel de ville\n🏠 Adresse : 1 Place André Renard 6224 Fleurus (Wanferc
+ ée-Baulet)\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 3
+ 0 km | D+ : N.A | Départ: 09h30 - 09h30 | Tarif: FFBC : 1\,00€ / NON FFBC :
+  2\,50€\n\nℹ️ Remarque : Remise en forme en groupe\nCircuit facile\nAllure 
+ modérée (entre 20 et 22km/h)\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfer
+ cée-Baulet)\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9584-20260207@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260207T133000
+DTEND;TZID=Europe/Brussels:20260207T173000
+SUMMARY:🚴 [Route] Progression - 40km - Mont-Saint-Guibert Brevet Progressi
+ on Fédérale
+LOCATION:Centre sportif Jean Moisse\, 27/a Rue des Hayeffes 1435 Mont-Saint
+ -Guibert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=27/a Rue des Hayeffes 1
+ 435 Mont-Saint-Guibert
+DESCRIPTION:📌 ÉVÉNEMENT : Progression - 40km\n🚴 Club organisateur : 3707 
+ - Guidons Courtois\n📍 Lieu de départ : Centre sportif Jean Moisse\n🏠 Adre
+ sse : 27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n🗺️ Province : Brabant
+  Wallon\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 40 km | D+ : N.A | Départ: 1
+ 3h30 - 13h30\n\nℹ️ Remarque : Départ unique - Parcours groupé et guidé\nAll
+ ure adaptée aux moins entrainés (20-21kmh)\nParking disponible sur place\n\
+ n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&que
+ ry=27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n\n🔗 Source : Fédération 
+ Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pré
+ paré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9704-20260208@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260208T093000
+DTEND;TZID=Europe/Brussels:20260208T133000
+SUMMARY:🚴 [Route] Progression fédérale - 35km - Fleurus (Wanfercée-Baulet)
+  Brevet Progression Fédérale
+LOCATION:Local VCCF - Ancien hôtel de ville\, 1 Place André Renard 6224 Fle
+ urus (Wanfercée-Baulet)\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=1 Place André Renard 62
+ 24 Fleurus (Wanfercée-Baulet)
+DESCRIPTION:📌 ÉVÉNEMENT : Progression fédérale - 35km\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Local VCCF - Anc
+ ien hôtel de ville\n🏠 Adresse : 1 Place André Renard 6224 Fleurus (Wanferc
+ ée-Baulet)\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 3
+ 5 km | D+ : N.A | Départ: 09h30 - 09h30 | Tarif: FFBC : 1\,00€ / NON FFBC :
+  2\,50€\n\nℹ️ Remarque : Remise en forme en groupe\nCircuit facile\nAllure 
+ modérée (entre 20 et 22km/h)\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfer
+ cée-Baulet)\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9069-20260214@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260214T130000
+DTEND;TZID=Europe/Brussels:20260214T170000
+SUMMARY:🚴 [Route] Randonnée du Président - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée du Président\n🚴 Club organisateur : 3
+ 203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du 
+ Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---
+ \n• ROUTE: 46 km | D+ : 363 | Départ: 13h00 - 15h00 | Tarif: FFBC : 5\,00€ 
+ / NON FFBC : 6\,50€\n• ROUTE: 44 km | D+ : 298 | Départ: 13h00 - 15h00 | Ta
+ rif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Philanthropique (Re
+ cherche sur maladie de \nCharcot) - Pré-inscriptions - 44 km fléché - \nGPX
+  - Semi-permanente du 16 au 20/02\n\n🗺️ Itinéraire Google Maps : https://w
+ ww.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n
+ 🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libe
+ rté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9705-20260215@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260215T093000
+DTEND;TZID=Europe/Brussels:20260215T133000
+SUMMARY:🚴 [Route] Progression fédérale - 40km - Fleurus (Wanfercée-Baulet)
+  Brevet Progression Fédérale
+LOCATION:Local VCCF - Ancien hôtel de ville\, 1 Place André Renard 6224 Fle
+ urus (Wanfercée-Baulet)\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=1 Place André Renard 62
+ 24 Fleurus (Wanfercée-Baulet)
+DESCRIPTION:📌 ÉVÉNEMENT : Progression fédérale - 40km\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Local VCCF - Anc
+ ien hôtel de ville\n🏠 Adresse : 1 Place André Renard 6224 Fleurus (Wanferc
+ ée-Baulet)\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 4
+ 0 km | D+ : N.A | Départ: 09h30 - 09h30 | Tarif: FFBC : 1\,00€ / NON FFBC :
+  2\,50€\n\nℹ️ Remarque : Remise en forme en groupe\nCircuit facile\nAllure 
+ modérée (entre 20 et 22km/h)\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfer
+ cée-Baulet)\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9520-20260215@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260215T090000
+DTEND;TZID=Europe/Brussels:20260215T130000
+SUMMARY:🚴 [Route] Randonnée du Président Bis - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée du Président Bis\n🚴 Club organisateur
+  : 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue
+  du Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS
+  ---\n• ROUTE: 46 km | D+ : 363 | Départ: 09h00 - 11h00 | Tarif: FFBC : 2\,
+ 00€ / NON FFBC : 3\,50€\n• ROUTE: 44 km | D+ : 298 | Départ: 09h00 - 11h00 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Pré
+ inscriptions\nTrace au sol sur le 44 km - GPX\nFeuille de route\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=29 Rue
+  du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du C
+ yclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de l
+ a Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9750-20260218@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260218T140000
+DTEND;TZID=Europe/Brussels:20260218T180000
+SUMMARY:🚴 [Route] Start of Training 1 -BPF - Auvelais Brevet Progression F
+ édérale
+LOCATION:café l Ambassadeur\, 11 Grand'Place d'Auvelais  5060 Auvelais\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvela
+ is  5060 Auvelais
+DESCRIPTION:📌 ÉVÉNEMENT : Start of Training 1 -BPF\n🚴 Club organisateur :
+  3726 - VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : café l Ambassadeur\n🏠
+  Adresse : 11 Grand'Place d'Auvelais  5060 Auvelais\n🗺️ Province : Namur\n
+ \n--- PARCOURS & CIRCUITS ---\n• BPF: 30 km | D+ : 235 | Départ: 14h00 - 16
+ h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\,
+  Départ de tout endroit du parcours\nAuvelais-Floreffe -Moustier\npréinscri
+ ptions: info.vlsambreville@gmail.com\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvelais  5060 A
+ uvelais\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9589-20260221@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260221T133000
+DTEND;TZID=Europe/Brussels:20260221T173000
+SUMMARY:🚴 [Route] Progression - 50 km - Mont-Saint-Guibert Brevet Progress
+ ion Fédérale
+LOCATION:Centre sportif Jean Moisse\, 27/a Rue des Hayeffes 1435 Mont-Saint
+ -Guibert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=27/a Rue des Hayeffes 1
+ 435 Mont-Saint-Guibert
+DESCRIPTION:📌 ÉVÉNEMENT : Progression - 50 km\n🚴 Club organisateur : 3707
+  - Guidons Courtois\n📍 Lieu de départ : Centre sportif Jean Moisse\n🏠 Adr
+ esse : 27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n🗺️ Province : Braban
+ t Wallon\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 50 km | D+ : N.A | Départ: 
+ 13h30 - 13h30\n\nℹ️ Remarque : Départ unique - Parcours groupé et guidé\nAl
+ lure adaptée aux moins entrainés (20-21kmh)\nParking disponible sur place\n
+ \n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&qu
+ ery=27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n\n🔗 Source : Fédération
+  Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pr
+ éparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9072-20260221@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260221T110000
+DTEND;TZID=Europe/Brussels:20260221T150000
+SUMMARY:🚴 [Route] Souvenir Albert JACQUES - Gembloux
+LOCATION:Centre Sportif de Beuzet\, 34 Avenue Hélène Solvay 5030 Gembloux\,
+  Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Hélène Solvay
+  5030 Gembloux
+DESCRIPTION:📌 ÉVÉNEMENT : Souvenir Albert JACQUES\n🚴 Club organisateur : 
+ 3215 - GEMBLOUX SPRINT CLUB\n📍 Lieu de départ : Centre Sportif de Beuzet\n
+ 🏠 Adresse : 34 Avenue Hélène Solvay 5030 Gembloux\n🗺️ Province : Namur\n\
+ n--- PARCOURS & CIRCUITS ---\n• ROUTE: 50 km | D+ : 400 | Départ: 11h00 - 1
+ 4h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 35 km | D+ : 250 
+ | Départ: 11h00 - 14h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Re
+ marque : Parking - feuille de route - marquage  \nau sol - préinscription -
+  traces GPX\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/sea
+ rch/?api=1&query=34 Avenue Hélène Solvay 5030 Gembloux\n\n🔗 Source : Fédér
+ ation Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendri
+ er préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-8999-20260222@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260222T080000
+DTEND;TZID=Europe/Brussels:20260222T120000
+SUMMARY:🚴 [Route] CC Quevy Black & Bike Tour - CUESMES
+LOCATION:Black&Bike\, 17 Rue du Grand Courant\, Zoning 7033 CUESMES\, Haina
+ ut
+URL:https://www.google.com/maps/search/?api=1&query=17 Rue du Grand Courant
+ \, Zoning 7033 CUESMES
+DESCRIPTION:📌 ÉVÉNEMENT : CC Quevy Black & Bike Tour\n🚴 Club organisateur
+  : 9536 - CLUB CYCLO QUEVY A.S.B.L.\n📍 Lieu de départ : Black&Bike\n🏠 Adr
+ esse : 17 Rue du Grand Courant\, Zoning 7033 CUESMES\n🗺️ Province : Hainau
+ t\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 75 km | D+ : 280 | Départ: 08h00 
+ - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• E
+ ASY: 50 km | D+ : 297 | Départ: 08h00 - 09h30 | Ravitaillement: 1 | Tarif: 
+ FFBC : 3\,00€ / NON FFBC : 4\,50€\n• EASY: 25 km | D+ : 126 | Départ: 08h00
+  - 09h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : B&B Sh
+ op\n\nBuvette- ravitos\n\n🗺️ Itinéraire Google Maps : https://www.google.c
+ om/maps/search/?api=1&query=17 Rue du Grand Courant\, Zoning 7033 CUESMES\n
+ \n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Li
+ berté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9706-20260222@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260222T093000
+DTEND;TZID=Europe/Brussels:20260222T133000
+SUMMARY:🚴 [Route] Progression fédérale - 45km - Fleurus (Wanfercée-Baulet)
+  Brevet Progression Fédérale
+LOCATION:Local VCCF - Ancien hôtel de ville\, 1 Place André Renard 6224 Fle
+ urus (Wanfercée-Baulet)\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=1 Place André Renard 62
+ 24 Fleurus (Wanfercée-Baulet)
+DESCRIPTION:📌 ÉVÉNEMENT : Progression fédérale - 45km\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Local VCCF - Anc
+ ien hôtel de ville\n🏠 Adresse : 1 Place André Renard 6224 Fleurus (Wanferc
+ ée-Baulet)\n🗺️ Province : Hainaut\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 4
+ 5 km | D+ : N.A | Départ: 09h30 - 09h30 | Tarif: FFBC : 1\,00€ / NON FFBC :
+  2\,50€\n\nℹ️ Remarque : Remise en forme en groupe\nCircuit facile\nAllure 
+ modérée (entre 20 et 22km/h)\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfer
+ cée-Baulet)\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9751-20260225@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260225T140000
+DTEND;TZID=Europe/Brussels:20260225T180000
+SUMMARY:🚴 [Route] Start of Training 2 BPF - Auvelais Brevet Progression Fé
+ dérale
+LOCATION:café l Ambassadeur\, 11 Grand'Place d'Auvelais  5060 Auvelais\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvela
+ is  5060 Auvelais
+DESCRIPTION:📌 ÉVÉNEMENT : Start of Training 2 BPF\n🚴 Club organisateur : 
+ 3726 - VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : café l Ambassadeur\n🏠 
+ Adresse : 11 Grand'Place d'Auvelais  5060 Auvelais\n🗺️ Province : Namur\n\
+ n--- PARCOURS & CIRCUITS ---\n• BPF: 30 km | D+ : 235 | Départ: 14h00 - 16h
+ 00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\, 
+ Départ de tout endroit du parcours\nAuvelais-Floreffe-Moustier\n GPX seulem
+ ent-info.vlsambreville@gmail.com\n\n🗺️ Itinéraire Google Maps : https://ww
+ w.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvelais  5060 Auvel
+ ais\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vé
+ lo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9702-20260228@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260228T110000
+DTEND;TZID=Europe/Brussels:20260228T150000
+SUMMARY:🚴 [Route] Ouverture des Namuroises - Floreffe Namuroise
+LOCATION:Moulin Brasserie Abbaye de Floreffe\, 7 rue du Séminaire 5150  Flo
+ reffe\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150
+   Floreffe
+DESCRIPTION:📌 ÉVÉNEMENT : Ouverture des Namuroises\n🚴 Club organisateur :
+  55106 - Comité Provincial Namur\n📍 Lieu de départ : Moulin Brasserie Abba
+ ye de Floreffe\n🏠 Adresse : 7 rue du Séminaire 5150  Floreffe\n🗺️ Provinc
+ e : Namur\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 43 km | D+ : 358 | Départ
+ : 11h00 - 14h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• FAMILY: 20 km
+  | D+ : 124 | Départ: 11h00 - 14h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,
+ 50€\n• ETOILE: D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 3\,00€ / NO
+ N FFBC : 4\,50€\n\nℹ️ Remarque : Classique- Accueil sur place\nMarquage au 
+ sol-Feuille de route-Trace GPX\nCollation au départ\n\n🗺️ Itinéraire Googl
+ e Maps : https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire
+  5150  Floreffe\n\n🔗 Source : Fédération Francophone Belge du Cyclotourism
+ e (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RP
+ A)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9076-20260301@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260301T090000
+DTEND;TZID=Europe/Brussels:20260301T130000
+SUMMARY:🚴 [Route] Souvenir A. BELLE - MEUX
+LOCATION:Buvette du RFC MEUX\, Rue Janquart 14 5081 MEUX\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Janquart 14 5081 M
+ EUX
+DESCRIPTION:📌 ÉVÉNEMENT : Souvenir A. BELLE\n🚴 Club organisateur : 3510 -
+  MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Buvette du RFC MEUX\n🏠 Adresse
+  : Rue Janquart 14 5081 MEUX\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUI
+ TS ---\n• EASY: 50 km | D+ : N.A | Départ: 09h00 - 11h00 | Tarif: FFBC : 2\
+ ,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Parcours facile\nPossibilité d'un
+  départ groupé à 9h30\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéra
+ ire Google Maps : https://www.google.com/maps/search/?api=1&query= Rue Janq
+ uart 14 5081 MEUX\n\n🔗 Source : Fédération Francophone Belge du Cyclotouri
+ sme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (
+ RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9752-20260304@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260304T140000
+DTEND;TZID=Europe/Brussels:20260304T180000
+SUMMARY:🚴 [Route] Start of Training 3 BPF - Auvelais Brevet Progression Fé
+ dérale
+LOCATION:café l Ambassadeur\, 11 Grand'Place d'Auvelais  5060 Auvelais\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvela
+ is  5060 Auvelais
+DESCRIPTION:📌 ÉVÉNEMENT : Start of Training 3 BPF\n🚴 Club organisateur : 
+ 3726 - VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : café l Ambassadeur\n🏠 
+ Adresse : 11 Grand'Place d'Auvelais  5060 Auvelais\n🗺️ Province : Namur\n\
+ n--- PARCOURS & CIRCUITS ---\n• BPF: 53 km | D+ : 397 | Départ: 14h00 - 16h
+ 00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\, 
+ Départ de tout endroit du parcours\nAuvelais-Meux-Franière /trace GPX seule
+ ment -\npré-inscriptions:info.vlsambreville@gmail.com\n\n🗺️ Itinéraire Goo
+ gle Maps : https://www.google.com/maps/search/?api=1&query=11 Grand'Place d
+ 'Auvelais  5060 Auvelais\n\n🔗 Source : Fédération Francophone Belge du Cyc
+ lotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la 
+ Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9124-20260307@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260307T120000
+DTEND;TZID=Europe/Brussels:20260307T160000
+SUMMARY:🚴 [Route] Challenge Pont J'en Bois - JAMBES
+LOCATION:Café du Pont J'en Bois\, 10 Avenue du Bourgmestre Jean Materne  51
+ 00 JAMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue du Bourgmestr
+ e Jean Materne  5100 JAMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge Pont J'en Bois\n🚴 Club organisateur :
+  3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Café du Pont J'en Bois\n🏠 A
+ dresse : 10 Avenue du Bourgmestre Jean Materne  5100 JAMBES\n🗺️ Province :
+  Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 65 km | D+ : 673 | Départ: 
+ 12h00 - 13h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : C
+ lassique\nAccueil\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire 
+ Google Maps : https://www.google.com/maps/search/?api=1&query=10 Avenue du 
+ Bourgmestre Jean Materne  5100 JAMBES\n\n🔗 Source : Fédération Francophone
+  Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fa
+ brizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9590-20260307@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260307T133000
+DTEND;TZID=Europe/Brussels:20260307T173000
+SUMMARY:🚴 [Route] Progression - 60 km - Mont-Saint-Guibert Brevet Progress
+ ion Fédérale
+LOCATION:Centre sportif Jean Moisse\, 27/a Rue des Hayeffes 1435 Mont-Saint
+ -Guibert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=27/a Rue des Hayeffes 1
+ 435 Mont-Saint-Guibert
+DESCRIPTION:📌 ÉVÉNEMENT : Progression - 60 km\n🚴 Club organisateur : 3707
+  - Guidons Courtois\n📍 Lieu de départ : Centre sportif Jean Moisse\n🏠 Adr
+ esse : 27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n🗺️ Province : Braban
+ t Wallon\n\n--- PARCOURS & CIRCUITS ---\n• BPF: 60 km | D+ : N.A | Départ: 
+ 13h30 - 13h30\n\nℹ️ Remarque : Départ unique - Parcours groupé et guidé\nAl
+ lure adaptée aux moins entrainés (20-21kmh)\nParking disponible sur place\n
+ \n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&qu
+ ery=27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n\n🔗 Source : Fédération
+  Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pr
+ éparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9765-20260315@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260315T090000
+DTEND;TZID=Europe/Brussels:20260315T130000
+SUMMARY:🚴 [Route] La Terwagne - Challenge namurois - VEDRIN Namuroise
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La Terwagne - Challenge namurois\n🚴 Club organi
+ sateur : 3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 
+ Adresse : Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n-
+ -- PARCOURS & CIRCUITS ---\n• ROUTE: 80 km | D+ : 615 | Départ: 09h00 - 11h
+ 00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE:
+  55 km | D+ : 399 | Départ: 09h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC
+  : 3\,50€\n• ROUTE: 30 km | D+ : 140 | Départ: 09h00 - 11h00 | Tarif: FFBC 
+ : 2\,00€ / NON FFBC : 3\,50€\n• ETOILE: D+ : N.A | Départ: 09h00 - 11h00 | 
+ Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\nAccuei
+ l\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : ht
+ tps://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier\, 8 5
+ 020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FF
+ BC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9867-20260318@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260318T140000
+DTEND;TZID=Europe/Brussels:20260318T180000
+SUMMARY:🚴 [Route] Start of Training 4 BPF - Auvelais Brevet Progression Fé
+ dérale
+LOCATION:café l Ambassadeur\, 11 Grand'Place d'Auvelais  5060 Auvelais\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvela
+ is  5060 Auvelais
+DESCRIPTION:📌 ÉVÉNEMENT : Start of Training 4 BPF\n🚴 Club organisateur : 
+ 3726 - VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : café l Ambassadeur\n🏠 
+ Adresse : 11 Grand'Place d'Auvelais  5060 Auvelais\n🗺️ Province : Namur\n\
+ n--- PARCOURS & CIRCUITS ---\n• BPF: 53 km | D+ : 395 | Départ: 14h00 - 16h
+ 00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : PARCOURS CLA
+ SSIQUE \nAuvealis-Meux-Franiere trace GPX seulement\npré-inscriptions:info.
+ vlsambreville@gmail.com\n\n🗺️ Itinéraire Google Maps : https://www.google.
+ com/maps/search/?api=1&query=11 Grand'Place d'Auvelais  5060 Auvelais\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9630-20260319@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260319T083000
+DTEND;TZID=Europe/Brussels:20260319T123000
+SUMMARY:🚴 [Route] Souvenir Jacques Wartique - Spy Brevet à Dénivelé
+LOCATION:Café Le Régent\, 59 Rue Haute 5190 Spy\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=59 Rue Haute 5190 Spy
+DESCRIPTION:📌 ÉVÉNEMENT : Souvenir Jacques Wartique\n🚴 Club organisateur 
+ : 3222 - CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : Café Le Régent\n🏠 Adres
+ se : 59 Rue Haute 5190 Spy\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS
+  ---\n• BAD: 90 km | D+ : 1096 | Départ: 08h30 - 10h00 | Ravitaillement: 1 
+ | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 55 km | D+ : 600 | Dép
+ art: 08h30 - 11h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 50 
+ km | D+ : 400 | Départ: 08h30 - 11h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4
+ \,50€\n\nℹ️ Remarque : Classique - Semi-permanente du 15 au 20/03\nPreinscr
+ iption souhaitée - Accueil sur place\nMarquage au sol - GPX - Feuilles de r
+ oute\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?ap
+ i=1&query=59 Rue Haute 5190 Spy\n\n🔗 Source : Fédération Francophone Belge
+  du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio
+  de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9883-20260321@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260321T073000
+DTEND;TZID=Europe/Brussels:20260321T113000
+SUMMARY:🚴 [Route] Les Lacs de l'Eau d'Heure - Falisolle Brevet à Dénivelé 
+ Brevet Cyclo-côteur belge
+LOCATION:salle communale\, - rue Vigneron 5060 Falisolle\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=- rue Vigneron 5060 Fal
+ isolle
+DESCRIPTION:📌 ÉVÉNEMENT : Les Lacs de l'Eau d'Heure\n🚴 Club organisateur 
+ : 3726 - VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : salle communale\n🏠 A
+ dresse : - rue Vigneron 5060 Falisolle\n🗺️ Province : Namur\n\n--- PARCOUR
+ S & CIRCUITS ---\n• BCCB: 155 km | D+ : 2021 | Départ: 07h30 - 09h00 | Ravi
+ taillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 118 km | D
+ + : 1489 | Départ: 07h30 - 09h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€
+  / NON FFBC : 6\,00€\n• BAD: 102 km | D+ : 1273 | Départ: 08h00 - 09h30 | R
+ avitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 71 km
+  | D+ : 804 | Départ: 08h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,
+ 00€ / NON FFBC : 4\,50€\n• ROUTE: 48 km | D+ : 572 | Départ: 09h00 - 11h00 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Sem
+ i Permanente du 22/03 au 25/03\nPréinscription Accueil Petite restauration\
+ nMarquage au sol -Trace GPX - Feuille de route\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=- rue Vigneron 5060 Fal
+ isolle\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC /
+  Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9108-20260322@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260322T083000
+DTEND;TZID=Europe/Brussels:20260322T123000
+SUMMARY:🚴 [Route] Sortie du Président - FAULX-LES-TOMBES Namuroise
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie du Président\n🚴 Club organisateur : 3701
+  - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\n🏠 Adresse : RU
+ E DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n\n--- PARCOURS &
+  CIRCUITS ---\n• ROUTE: 70 km | D+ : 650 | Départ: 08h30 - 10h00 | Ravitail
+ lement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• FAMILY: 35 km | D+ 
+ : 350 | Départ: 08h30 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n•
+  ETOILE: D+ : N.A | Départ: 08h30 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC
+  : 3\,50€\n\nℹ️ Remarque : Pré-inscriptions - Accueil\nVaste Parking - Rand
+ o classique uniquement\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinér
+ aire Google Maps : https://www.google.com/maps/search/?api=1&query= RUE DE 
+ L EGLISE 5340 FAULX-LES-TOMBES\n\n🔗 Source : Fédération Francophone Belge 
+ du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio 
+ de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9090-20260325@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260325T110000
+DTEND;TZID=Europe/Brussels:20260325T150000
+SUMMARY:🚴 [Route] Rallye des Spirous - Spy
+LOCATION:Café Le Régent\, 59 Rue Haute 5190 Spy\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=59 Rue Haute 5190 Spy
+DESCRIPTION:📌 ÉVÉNEMENT : Rallye des Spirous\n🚴 Club organisateur : 3222 
+ - CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : Café Le Régent\n🏠 Adresse : 59
+  Rue Haute 5190 Spy\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n•
+  ROUTE: 50 km | D+ : 410 | Départ: 11h00 - 15h00 | Tarif: FFBC : 3\,00€ / N
+ ON FFBC : 4\,50€\n\nℹ️ Remarque : Classique - Semi-permanente du 26 au 27/0
+ 3\nPréinscription souhaitée - Accueil sur place \nMarquage au sol - GPX - F
+ euille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps
+ /search/?api=1&query=59 Rue Haute 5190 Spy\n\n🔗 Source : Fédération Franco
+ phone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé p
+ ar Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9091-20260328@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260328T073000
+DTEND;TZID=Europe/Brussels:20260328T113000
+SUMMARY:🚴 [Route] Circuits hesbignons - MEUX Namuroise
+LOCATION:Salle Noss Monjone\, 2 Rue du village 5081 MEUX\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=2 Rue du village 5081 M
+ EUX
+DESCRIPTION:📌 ÉVÉNEMENT : Circuits hesbignons\n🚴 Club organisateur : 3510
+  - MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Salle Noss Monjone\n🏠 Adress
+ e : 2 Rue du village 5081 MEUX\n🗺️ Province : Namur\n\n--- PARCOURS & CIRC
+ UITS ---\n• ROUTE: 120 km | D+ : 920 | Départ: 07h30 - 09h30 | Ravitailleme
+ nt: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 85 km | D+ : N.A
+  | Départ: 07h30 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON F
+ FBC : 5\,50€\n• EASY: 50 km | D+ : N.A | Départ: 07h30 - 12h00 | Ravitaille
+ ment: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• FAMILY: 30 km | D+ : 
+ N.A | Départ: 07h30 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• E
+ TOILE: D+ : N.A | Départ: 07h30 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC :
+  3\,50€\n\nℹ️ Remarque : Classique - Parking\nGalettes à la rentrée - Pas d
+ e gobelets\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google 
+ Maps : https://www.google.com/maps/search/?api=1&query=2 Rue du village 508
+ 1 MEUX\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC /
+  Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9760-20260329@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260329T073000
+DTEND;TZID=Europe/Brussels:20260329T113000
+SUMMARY:🪨 [Gravel] Circuits Hesbignons bis - MEUX GRAVEL Namuroise
+LOCATION:Salle Noss Monjone\, 2 Rue du village 5081 MEUX\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=2 Rue du village 5081 M
+ EUX
+DESCRIPTION:📌 ÉVÉNEMENT : Circuits Hesbignons bis\n🚴 Club organisateur : 
+ 3510 - MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Salle Noss Monjone\n🏠 Ad
+ resse : 2 Rue du village 5081 MEUX\n🗺️ Province : Namur\n\n--- PARCOURS & 
+ CIRCUITS ---\n• GRAVEL: 95 km | D+ : N.A | Départ: 07h30 - 09h30 | Ravitail
+ lement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• ROUTE: 80 km | D+ :
+  N.A | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / N
+ ON FFBC : 4\,50€\n• GRAVEL: 56 km | D+ : N.A | Départ: 07h30 - 10h00 | Ravi
+ taillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 40 km | 
+ D+ : N.A | Départ: 07h30 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€
+ \n• GRAVEL: 25 km | D+ : N.A | Départ: 07h30 - 10h30 | Tarif: FFBC : 2\,00€
+  / NON FFBC : 3\,50€\n\nℹ️ Remarque : Accueil sur place\nParcours différent
+ s du samedi \nBIKE Wasch pour gravel\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=2 Rue du village 5081 MEUX\n\n🔗 
+ Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté
+ )\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9766-20260401@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260401T120000
+DTEND;TZID=Europe/Brussels:20260401T160000
+SUMMARY:🚴 [Route] Challenge Pont J'en Bois - JAMBES
+LOCATION:Café du Pont J'en Bois\, 10 Avenue du Bourgmestre Jean Materne  51
+ 00 JAMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue du Bourgmestr
+ e Jean Materne  5100 JAMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge Pont J'en Bois\n🚴 Club organisateur :
+  3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Café du Pont J'en Bois\n🏠 A
+ dresse : 10 Avenue du Bourgmestre Jean Materne  5100 JAMBES\n🗺️ Province :
+  Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 65 km | D+ : N.A | Départ: 
+ 12h00 - 13h30 | Ravitaillement: 1 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50
+ €\n\nℹ️ Remarque : Classique\nAccueil - ravito au départ\nTrace au sol - GP
+ X - Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com
+ /maps/search/?api=1&query=10 Avenue du Bourgmestre Jean Materne  5100 JAMBE
+ S\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo
+  Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9100-20260404@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260404T073000
+DTEND;TZID=Europe/Brussels:20260404T113000
+SUMMARY:🪨 [Gravel] Au Phil des bosses - MOUSTIER/s/SAMBRE Brevet à Dénivel
+ é Brevet Cyclo-côteur belge GRAVEL
+LOCATION:buvette du tennis de table\, 4B rue de la Fabrique 5190 MOUSTIER/s
+ /SAMBRE\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=4B rue de la Fabrique 5
+ 190 MOUSTIER/s/SAMBRE
+DESCRIPTION:📌 ÉVÉNEMENT : Au Phil des bosses\n🚴 Club organisateur : 3222 
+ - CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : buvette du tennis de table\n🏠 
+ Adresse : 4B rue de la Fabrique 5190 MOUSTIER/s/SAMBRE\n🗺️ Province : Namu
+ r\n\n--- PARCOURS & CIRCUITS ---\n• BCCB: 155 km | D+ : 2300 | Départ: 07h3
+ 0 - 09h00 | Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n•
+  BAD: 125 km | D+ : 1800 | Départ: 07h30 - 09h30 | Ravitaillement: 2 | Tari
+ f: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 85 km | D+ : 1100 | Départ: 07
+ h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\
+ n• GRAVEL: 55 km | D+ : 600 | Départ: 07h30 - 10h00 | Tarif: FFBC : 3\,00€ 
+ / NON FFBC : 4\,50€\n• ROUTE: 50 km | D+ : 480 | Départ: 07h30 - 10h00 | Ta
+ rif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classique-Semi-perm
+ anente du 05 au 10/04 - \nPréinscription souhaitée/Accueil sur place - \nro
+ utes: fléchés- Feuille de route-gravel: GPX\n\n🗺️ Itinéraire Google Maps :
+  https://www.google.com/maps/search/?api=1&query=4B rue de la Fabrique 5190
+  MOUSTIER/s/SAMBRE\n\n🔗 Source : Fédération Francophone Belge du Cyclotour
+ isme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta 
+ (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9045-20260408@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260408T100000
+DTEND;TZID=Europe/Brussels:20260408T140000
+SUMMARY:🚴 [Route] Triptyque Jean-Marie DE GROOTE (H) - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Triptyque Jean-Marie DE GROOTE (H)\n🚴 Club orga
+ nisateur : 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse 
+ : 29 Rue du Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & 
+ CIRCUITS ---\n• ROUTE: 60 km | D+ : 473 | Départ: 10h00 - 13h00 | Tarif: FF
+ BC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Préinscription
+ s - Assistance GPS\nMarquage au sol - GPX - Feuille de route\nCollation au 
+ départ\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?
+ api=1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Fran
+ cophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé
+  par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9483-20260412@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260412T080000
+DTEND;TZID=Europe/Brussels:20260412T120000
+SUMMARY:🚴 [Route] Fille de Meuse - NAMUR
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : Fille de Meuse\n🚴 Club organisateur : 3620 - Cy
+ clo Club Invictus\n📍 Lieu de départ : Stations de Plein Air - Madeleine Mé
+ lot\n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n🗺️ Province : Namur\n
+ \n--- PARCOURS & CIRCUITS ---\n• ROUTE: 83 km | D+ : 937 | Départ: 08h00 - 
+ 11h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROU
+ TE: 58 km | D+ : 645 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: F
+ FBC : 4\,00€ / NON FFBC : 5\,50€\n\nℹ️ Remarque : Classique - Pré-inscripti
+ on souhaitée\nAccueil - Petite restauration\nMarquage au sol-Trace GPX-Feui
+ lle de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/se
+ arch/?api=1&query=34 Avenue Baron Fallon 5000 NAMUR\n\n🔗 Source : Fédérati
+ on Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier 
+ préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9256-20260414@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260414T080000
+DTEND;TZID=Europe/Brussels:20260414T120000
+SUMMARY:🚴 [Route] Vers l'Ardenne Namuroise - NAMUR Brevet à Dénivelé
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : Vers l'Ardenne Namuroise\n🚴 Club organisateur :
+  3620 - Cyclo Club Invictus\n📍 Lieu de départ : Stations de Plein Air - Ma
+ deleine Mélot\n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n🗺️ Province
+  : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BAD: 142 km | D+ : 1905 | Départ
+ : 08h00 - 09h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,
+ 50€\n• BAD: 122 km | D+ : 1480 | Départ: 08h00 - 10h00 | Ravitaillement: 2 
+ | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 83 km | D+ : 937 | Dépar
+ t: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\
+ ,50€\n• ROUTE: 58 km | D+ : 645 | Départ: 08h00 - 11h00 | Ravitaillement: 1
+  | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n\nℹ️ Remarque : Classique - Se
+ mi permanente du 12-04 au 16-04\nPré-inscription souhaitée - Pte Restaurati
+ on\nMarquage au sol-Trace GPX-Feuille de route\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FF
+ BC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9568-20260415@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260415T120000
+DTEND;TZID=Europe/Brussels:20260415T160000
+SUMMARY:🚴 [Route] Challenge du Pont J'en Bois - JAMBES
+LOCATION:Café du Pont J'en Bois\, 10 Avenue du Bourgmestre Jean Materne  51
+ 00 JAMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue du Bourgmestr
+ e Jean Materne  5100 JAMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge du Pont J'en Bois\n🚴 Club organisateu
+ r : 3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Café du Pont J'en Bois\n�
+ � Adresse : 10 Avenue du Bourgmestre Jean Materne  5100 JAMBES\n🗺️ Provinc
+ e : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 650 | Dépar
+ t: 12h00 - 13h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque 
+ : Classique - Nouveau parcours\nAccueil\nTrace au sol - GPX - Feuille de ro
+ ute\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api
+ =1&query=10 Avenue du Bourgmestre Jean Materne  5100 JAMBES\n\n🔗 Source : 
+ Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cal
+ endrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9629-20260419@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260419T090000
+DTEND;TZID=Europe/Brussels:20260419T130000
+SUMMARY:🚴 [Route] Le Condroz Liégeois - EMPTINNE Namuroise
+LOCATION:SALLE Saint MARTIN\, 26 Rue du Relais \, 5363 EMPTINNE\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=26 Rue du Relais \, 536
+ 3 EMPTINNE
+DESCRIPTION:📌 ÉVÉNEMENT : Le Condroz Liégeois\n🚴 Club organisateur : 3213
+  - CVC CINEY\n📍 Lieu de départ : SALLE Saint MARTIN\n🏠 Adresse : 26 Rue d
+ u Relais \, 5363 EMPTINNE\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS 
+ ---\n• EASY: 70 km | D+ : N.A | Départ: 09h00 - 10h00 | Ravitaillement: 1 |
+  Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• EASY: 55 km | D+ : N.A | Dépar
+ t: 09h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\
+ ,50€\n• EASY: 35 km | D+ : N.A | Départ: 09h00 - 11h00 | Tarif: FFBC : 2\,0
+ 0€ / NON FFBC : 3\,50€\n• ETOILE: D+ : N.A | Départ: 09h00 - 13h00 | Tarif:
+  FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Challenge d
+ es Namuroises\nParcours facile pour tous\nParcours tracé - GPX -  Feuille d
+ e route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=26 Rue du Relais \, 5363 EMPTINNE\n\n🔗 Source : Fédération Fr
+ ancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépa
+ ré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9117-20260421@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260421T070000
+DTEND;TZID=Europe/Brussels:20260421T110000
+SUMMARY:🚴 [Route] LA FLECHE ANDENNAISE CLASSIC - ANDENNE Brevet à Dénivelé
+LOCATION:Complexe Sportif  ANDENNE ARENA\, Rue Docteur Melin 14 5300 ANDENN
+ E\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Docteur Melin 14 5
+ 300 ANDENNE
+DESCRIPTION:📌 ÉVÉNEMENT : LA FLECHE ANDENNAISE CLASSIC\n🚴 Club organisate
+ ur : 3210 - ASSOCIATION CYCLOS ANDENNE\n📍 Lieu de départ : Complexe Sporti
+ f  ANDENNE ARENA\n🏠 Adresse : Rue Docteur Melin 14 5300 ANDENNE\n🗺️ Provi
+ nce : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BAD: 150 km | D+ : 2000 | Dép
+ art: 07h00 - 09h30 | Ravitaillement: 3 | Tarif: FFBC : 5\,00€ / NON FFBC : 
+ 6\,50€\n• BAD: 125 km | D+ : 1600 | Départ: 07h00 - 09h30 | Ravitaillement:
+  2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 90 km | D+ : 1200 | D
+ épart: 07h00 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC 
+ : 6\,50€\n• ROUTE: 70 km | D+ : 850 | Départ: 08h00 - 10h00 | Ravitaillemen
+ t: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n\nℹ️ Remarque : Parcours f
+ inal de la Flèche Wallonne    \nMarquage au sol GPX sur 130 feuilles de rou
+ te\nsite http://www.cyclandenne.be/ à consulter\n\n🗺️ Itinéraire Google Ma
+ ps : https://www.google.com/maps/search/?api=1&query= Rue Docteur Melin 14 
+ 5300 ANDENNE\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (
+ FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9374-20260421@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260421T080000
+DTEND;TZID=Europe/Brussels:20260421T120000
+SUMMARY:🚴 [Route] La Route des Vétérans (19 au 24/04) - FAULX-LES-TOMBES B
+ revet à Dénivelé
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : La Route des Vétérans (19 au 24/04)\n🚴 Club org
+ anisateur : 3701 - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\
+ n🏠 Adresse : RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n
+ \n--- PARCOURS & CIRCUITS ---\n• BAD: 133 km | D+ : 1500 | Départ: 08h00 - 
+ 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD
+ : 84 km | D+ : 900 | Départ: 08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFB
+ C : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 45 km | D+ : 490 | Départ: 08h00 -
+  11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classiqu
+ e Semi permanente\nPré-inscription - Vaste parking\nTrace au sol - GPX - Fe
+ uille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/
+ search/?api=1&query= RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n\n🔗 Source : F
+ édération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cale
+ ndrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9764-20260426@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260426T080000
+DTEND;TZID=Europe/Brussels:20260426T120000
+SUMMARY:🪨 [Gravel] La GraVelaTTitude - Schaltin - Hamois
+LOCATION:Salle  " La Schaltinoise "\, 22 Rue Du Stade 5364 Schaltin - Hamoi
+ s\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=22 Rue Du Stade 5364 Sc
+ haltin - Hamois
+DESCRIPTION:📌 ÉVÉNEMENT : La GraVelaTTitude\n🚴 Club organisateur : 2311 -
+  Les Cycl'Amis\n📍 Lieu de départ : Salle  " La Schaltinoise "\n🏠 Adresse 
+ : 22 Rue Du Stade 5364 Schaltin - Hamois\n🗺️ Province : Namur\n\n--- PARCO
+ URS & CIRCUITS ---\n• VTT: 50 km | D+ : 900 | Départ: 08h00 - 11h00 | Ravit
+ aillement: 2 | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• GRAVEL: 40 km | 
+ D+ : 700 | Départ: 08h00 - 11h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€
+  / NON FFBC : 6\,50€\n• GRAVEL: 30 km | D+ : 450 | Départ: 08h00 - 11h00 | 
+ Ravitaillement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque
+  : 3 Distances ouvertes aux GRAVEL et VTT\nParcours fléchés - Ravito - Bike
+  Wash Bar\, Petite restauration\n\n🗺️ Itinéraire Google Maps : https://www
+ .google.com/maps/search/?api=1&query=22 Rue Du Stade 5364 Schaltin - Hamois
+ \n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo 
+ Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,VTT\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9736-20260426@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260426T080000
+DTEND;TZID=Europe/Brussels:20260426T120000
+SUMMARY:🚴 [Route] La Surprise - Schaltin - Hamois Namuroise
+LOCATION:Salle  " La Schaltinoise "\, 22 Rue Du Stade 5364 Schaltin - Hamoi
+ s\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=22 Rue Du Stade 5364 Sc
+ haltin - Hamois
+DESCRIPTION:📌 ÉVÉNEMENT : La Surprise\n🚴 Club organisateur : 2311 - Les C
+ ycl'Amis\n📍 Lieu de départ : Salle  " La Schaltinoise "\n🏠 Adresse : 22 R
+ ue Du Stade 5364 Schaltin - Hamois\n🗺️ Province : Namur\n\n--- PARCOURS & 
+ CIRCUITS ---\n• ROUTE: 72 km | D+ : 845 | Départ: 08h00 - 10h00 | Ravitaill
+ ement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 50 km | D+ : 
+ 505 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NO
+ N FFBC : 4\,50€\n• ROUTE: 30 km | D+ : 305 | Départ: 08h00 - 11h00 | Ravita
+ illement: 1 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ETOILE: D+ : N.A 
+ | Départ: 08h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Re
+ marque : 3 Parcours dans notre Condroz +\n1 Etoile - Parcours Bucolique\nMa
+ rquage au sol - trace GPX-Feuille de route\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query=22 Rue Du Stade 5364 Schalt
+ in - Hamois\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9085-20260429@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260429T120000
+DTEND;TZID=Europe/Brussels:20260429T160000
+SUMMARY:🚴 [Route] 6 ème Rando  CAP 48 - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : 6 ème Rando  CAP 48\n🚴 Club organisateur : 3212
+  - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : Rue
+  Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS &
+  CIRCUITS ---\n• ROUTE: 75 km | D+ : N.A | Départ: 12h00 - 13h30 | Tarif: F
+ FBC : 5\,00€ / NON FFBC : 6\,50€\n• ROUTE: 50 km | D+ : N.A | Départ: 12h00
+  - 13h30 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : org. p
+ hilanthropique - soutien cap48 - tarif:\n 5 € - parcours 75: ravito au dépa
+ rt - tarte \nau retour -Trace au sol-GPX-Feuille de route\n\n🗺️ Itinéraire
+  Google Maps : https://www.google.com/maps/search/?api=1&query= Rue Adolphe
+  Parmentier\, 8 5020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du 
+ Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de 
+ la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9707-20260501@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260501T073000
+DTEND;TZID=Europe/Brussels:20260501T113000
+SUMMARY:🚴 [Route] La Cammaerts - Malonne
+LOCATION:Cycles Cammaerts Cube Store Malonne\, 509 Chaussée de Charleroi  5
+ 020 Malonne\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=509 Chaussée de Charler
+ oi  5020 Malonne
+DESCRIPTION:📌 ÉVÉNEMENT : La Cammaerts\n🚴 Club organisateur : 2006 - CLUB
+  CYCLISTE CAMMAERTS\n📍 Lieu de départ : Cycles Cammaerts Cube Store Malonn
+ e\n🏠 Adresse : 509 Chaussée de Charleroi  5020 Malonne\n🗺️ Province : Nam
+ ur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 110 km | D+ : 1200 | Départ: 07
+ h30 - 10h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\
+ n• ROUTE: 80 km | D+ : 900 | Départ: 07h30 - 10h30 | Ravitaillement: 1 | Ta
+ rif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• FAMILY: 20 km | D+ : 90 | Départ:
+  07h30 - 10h30 | Tarif: FFBC : 1\,50€ / NON FFBC : 3\,00€\n\nℹ️ Remarque : 
+ Classique Accueil sur place\nD+ OpenRunner\nMarquage au sol - Parking zonin
+ g de Malonne\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/se
+ arch/?api=1&query=509 Chaussée de Charleroi  5020 Malonne\n\n🔗 Source : Fé
+ dération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calen
+ drier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9637-20260502@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260502T073000
+DTEND;TZID=Europe/Brussels:20260502T113000
+SUMMARY:🚴 [Route] Circuit des Grands Braquets - Heppignies
+LOCATION:Café "Chez Nous"\, 9 Rue du Muturnia 6220 Heppignies\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 
+ Heppignies
+DESCRIPTION:📌 ÉVÉNEMENT : Circuit des Grands Braquets\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Café "Chez Nous"
+ \n🏠 Adresse : 9 Rue du Muturnia 6220 Heppignies\n🗺️ Province : Hainaut\n\
+ n--- PARCOURS & CIRCUITS ---\n• ROUTE: 100 km | D+ : 428 | Départ: 07h30 - 
+ 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• EAS
+ Y: 77 km | D+ : 314 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FF
+ BC : 3\,50€ / NON FFBC : 5\,00€\n• EASY: 54 km | D+ : 233 | Départ: 07h30 -
+  10h00 | Tarif: FFBC : 2\,50€ / NON FFBC : 4\,00€\n• EASY: 34 km | D+ : 183
+  | Départ: 07h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ R
+ emarque : Groupe Social Ride à 8h30\nCircuits roulants - Ravitos soignés\nC
+ afé offert jusqu'à 10h - Petite restauration\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 He
+ ppignies\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9874-20260502@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260502T073000
+DTEND;TZID=Europe/Brussels:20260502T113000
+SUMMARY:🪨 [Gravel] Gembloux vers la Citadelle (Namur) - Gembloux Brevet à 
+ Dénivelé
+LOCATION:Centre Sportif de Beuzet\, 34 Avenue Hélène Solvay 5030 Gembloux\,
+  Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Hélène Solvay
+  5030 Gembloux
+DESCRIPTION:📌 ÉVÉNEMENT : Gembloux vers la Citadelle (Namur)\n🚴 Club orga
+ nisateur : 3215 - GEMBLOUX SPRINT CLUB\n📍 Lieu de départ : Centre Sportif 
+ de Beuzet\n🏠 Adresse : 34 Avenue Hélène Solvay 5030 Gembloux\n🗺️ Province
+  : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BAD: 117 km | D+ : 1460 | Départ
+ : 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,
+ 50€\n• BAD: 80 km | D+ : 865 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | 
+ Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 50 km | D+ : 300 | Dépar
+ t: 07h30 - 11h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• GRAVEL: 35 k
+ m | D+ : 300 | Départ: 07h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\
+ ,50€\n\nℹ️ Remarque : Classique - Accueil - Préinscription\nParking - douch
+ es - petite restauration - Traces GPX- marquage au sol -feuille de route\n\
+ n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&que
+ ry=34 Avenue Hélène Solvay 5030 Gembloux\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9631-20260503@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260503T073000
+DTEND;TZID=Europe/Brussels:20260503T113000
+SUMMARY:🚴 [Route] Châteaux Condruziens - Jambes Brevet à Dénivelé
+LOCATION:Réfectoire - Ecole du Parc Astrid\, 9 Parc Astrid  5100 Jambes\, N
+ amur
+URL:https://www.google.com/maps/search/?api=1&query=9 Parc Astrid  5100 Jam
+ bes
+DESCRIPTION:📌 ÉVÉNEMENT : Châteaux Condruziens\n🚴 Club organisateur : 551
+ 06 - Comité Provincial Namur\n📍 Lieu de départ : Réfectoire - Ecole du Par
+ c Astrid\n🏠 Adresse : 9 Parc Astrid  5100 Jambes\n🗺️ Province : Namur\n\n
+ --- PARCOURS & CIRCUITS ---\n• BAD: 115 km | D+ : 1327 | Départ: 07h30 - 09
+ h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 
+ 87 km | D+ : 1170 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC
+  : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 44 km | D+ : 538 | Départ: 07h30 - 
+ 11h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classique
+  - Accueil sur place\nPré-inscription \nMarquage au sol-Feuille de route-Tr
+ ace GPX\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=9 Parc Astrid  5100 Jambes\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9638-20260503@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260503T073000
+DTEND;TZID=Europe/Brussels:20260503T113000
+SUMMARY:🚴 [Route] Circuit des Grands Braquets - Heppignies
+LOCATION:Café "Chez Nous"\, 9 Rue du Muturnia 6220 Heppignies\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 
+ Heppignies
+DESCRIPTION:📌 ÉVÉNEMENT : Circuit des Grands Braquets\n🚴 Club organisateu
+ r : 1801 - Vélo Cyclo Club Fleurusien\n📍 Lieu de départ : Café "Chez Nous"
+ \n🏠 Adresse : 9 Rue du Muturnia 6220 Heppignies\n🗺️ Province : Hainaut\n\
+ n--- PARCOURS & CIRCUITS ---\n• ROUTE: 100 km | D+ : 428 | Départ: 07h30 - 
+ 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• EAS
+ Y: 77 km | D+ : 314 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FF
+ BC : 3\,50€ / NON FFBC : 5\,00€\n• EASY: 54 km | D+ : 233 | Départ: 07h30 -
+  10h00 | Tarif: FFBC : 2\,50€ / NON FFBC : 4\,00€\n• EASY: 34 km | D+ : 188
+  | Départ: 07h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ R
+ emarque : Groupe Social Ride à 8h30\nCircuits roulants - Ravitos soignés\nC
+ afé offert jusqu'à 10h - Petite restauration\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 He
+ ppignies\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9678-20260506@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260506T110000
+DTEND;TZID=Europe/Brussels:20260506T150000
+SUMMARY:🚴 [Route] Diamond challenge - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Diamond challenge\n🚴 Club organisateur : 3213 -
+  CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Monseu 5
+ 590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 50 
+ km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3
+ \,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nTombola pour les part
+ icipants au Challenge \nTirage le 07/10\n\n🗺️ Itinéraire Google Maps : htt
+ ps://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ciney\n\n
+ 🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libe
+ rté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9134-20260509@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260509T070000
+DTEND;TZID=Europe/Brussels:20260509T110000
+SUMMARY:🚴 [Route] Les monts du Viroin - VEDRIN Brevet à Dénivelé Brevet Cy
+ clo-côteur belge
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Les monts du Viroin\n🚴 Club organisateur : 3203
+  - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Bla
+ nc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n•
+  BCCB: 189 km | D+ : 2559 | Départ: 07h00 - 08h30 | Ravitaillement: 4 | Tar
+ if: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 144 km | D+ : 1840 | Départ: 
+ 07h00 - 10h00 | Ravitaillement: 3 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50
+ €\n• BAD: 109 km | D+ : 1550 | Départ: 07h00 - 11h00 | Ravitaillement: 2 | 
+ Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 92 km | D+ : 1149 | Départ
+ : 07h00 - 12h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,
+ 00€\n• ROUTE: 52 km | D+ : 565 | Départ: 07h00 - 12h00 | Tarif: FFBC : 2\,0
+ 0€ / NON FFBC : 3\,50€\n• FAMILY: 26 km | D+ : 222 | Départ: 07h00 - 12h00 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique  - Se
+ mi-permanente 10 au 15/05\nPréinscription\, Parc vélo\, Pte. restauration\n
+ Trace au sol\, GPX\, Feuille de route\n\n🗺️ Itinéraire Google Maps : https
+ ://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN
+ \n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo 
+ Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9725-20260510@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260510T073000
+DTEND;TZID=Europe/Brussels:20260510T113000
+SUMMARY:🚴 [Route] Le chemin des abbayes - VEDRIN Brevet à Dénivelé
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Le chemin des abbayes\n🚴 Club organisateur : 32
+ 03 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du B
+ lanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\
+ n• BAD: 109 km | D+ : 1373 | Départ: 07h30 - 08h30 | Ravitaillement: 2 | Ta
+ rif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 92 km | D+ : 1155 | Départ: 
+ 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00
+ €\n• BAD: 89 km | D+ : 1051 | Départ: 07h30 - 09h30 | Ravitaillement: 1 | T
+ arif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• ROUTE: 52 km | D+ : 547 | Départ
+ : 07h30 - 11h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• FAMILY: 26 km
+  | D+ : 205 | Départ: 07h30 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,
+ 50€\n\nℹ️ Remarque : Classique - Préinscriptions - Assistance GPS \nMarquag
+ e au sol - GPX - Feuille de route\n89 km et 109 km en GPX seul\n\n🗺️ Itiné
+ raire Google Maps : https://www.google.com/maps/search/?api=1&query=29 Rue 
+ du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cy
+ clotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la
+  Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9223-20260514@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260514T073000
+DTEND;TZID=Europe/Brussels:20260514T113000
+SUMMARY:🚴 [Route] LES COLS DE LA HAUTE MEUSE - BEEZ Brevet à Dénivelé
+LOCATION:Espace Massart\, 44 Avenue du château de Beez 5000 BEEZ\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=44 Avenue du château de
+  Beez 5000 BEEZ
+DESCRIPTION:📌 ÉVÉNEMENT : LES COLS DE LA HAUTE MEUSE\n🚴 Club organisateur
+  : 3208 - LES LEVRIERS ERPENT\n📍 Lieu de départ : Espace Massart\n🏠 Adres
+ se : 44 Avenue du château de Beez 5000 BEEZ\n🗺️ Province : Namur\n\n--- PA
+ RCOURS & CIRCUITS ---\n• BAD: 100 km | D+ : 1390 | Départ: 07h30 - 09h30 | 
+ Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 78 k
+ m | D+ : 910 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\
+ ,00€ / NON FFBC : 5\,50€\n• ROUTE: 46 km | D+ : 510 | Départ: 07h30 - 11h00
+  | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classique - Pa
+ rking à proximité\nBar\, café offert au départ.\nTrace au sol - GPX sur Feu
+ ille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/s
+ earch/?api=1&query=44 Avenue du château de Beez 5000 BEEZ\n\n🔗 Source : Fé
+ dération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calen
+ drier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9366-20260517@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260517T073000
+DTEND;TZID=Europe/Brussels:20260517T113000
+SUMMARY:🚴 [Route] La Belle Marchinoise - Marchin Brevet à Dénivelé
+LOCATION:Café "Chez Ruelle"\, 17 Place de Belle-Maison  4570 Marchin\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=17 Place de Belle-Maiso
+ n  4570 Marchin
+DESCRIPTION:📌 ÉVÉNEMENT : La Belle Marchinoise\n🚴 Club organisateur : 161
+ 4 - CYCLO CLUB DE MARCHIN\n📍 Lieu de départ : Café "Chez Ruelle"\n🏠 Adres
+ se : 17 Place de Belle-Maison  4570 Marchin\n🗺️ Province : Liège\n\n--- PA
+ RCOURS & CIRCUITS ---\n• BAD: 110 km | D+ : 1450 | Départ: 07h30 - 09h30 | 
+ Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 90 km 
+ | D+ : 1250 | Départ: 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,
+ 00€ / NON FFBC : 5\,50€\n• ROUTE: 70 km | D+ : 600 | Départ: 07h30 - 10h00 
+ | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 55
+  km | D+ : 500 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 
+ 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Routes de campagne en Condroz e
+ t Famenne\nen direction de Durbuy. Bistrot de terroir.\nBières spéciales et
+  petite restauration.\n\n🗺️ Itinéraire Google Maps : https://www.google.co
+ m/maps/search/?api=1&query=17 Place de Belle-Maison  4570 Marchin\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9151-20260517@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260517T080000
+DTEND;TZID=Europe/Brussels:20260517T120000
+SUMMARY:🚴 [Route] Sortie Comité Provincial - JAMBES Namuroise
+LOCATION:Hall Sportif de Jambes - Souvenir\, 8 Rue Michiels 5100  JAMBES\, 
+ Namur
+URL:https://www.google.com/maps/search/?api=1&query=8 Rue Michiels 5100  JA
+ MBES
+DESCRIPTION:📌 ÉVÉNEMENT : Sortie Comité Provincial\n🚴 Club organisateur :
+  55106 - Comité Provincial Namur\n📍 Lieu de départ : Hall Sportif de Jambe
+ s - Souvenir\n🏠 Adresse : 8 Rue Michiels 5100  JAMBES\n🗺️ Province : Namu
+ r\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 80 km | D+ : 576 | Départ: 08h00
+  - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• 
+ ROUTE: 55 km | D+ : 445 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif
+ : FFBC : 4\,00€ / NON FFBC : 5\,50€\n• FAMILY: 35 km | D+ : 247 | Départ: 0
+ 8h00 - 12h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€
+ \n• ETOILE: D+ : N.A | Départ: 08h00 - 12h00 | Tarif: FFBC : 3\,00€ / NON F
+ FBC : 4\,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nPréinscription
+  du 11 au 16/05\nMarquage au sol-Trace GPX-Feuille de route\n\n🗺️ Itinérai
+ re Google Maps : https://www.google.com/maps/search/?api=1&query=8 Rue Mich
+ iels 5100  JAMBES\n\n🔗 Source : Fédération Francophone Belge du Cyclotouri
+ sme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (
+ RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9149-20260519@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260519T073000
+DTEND;TZID=Europe/Brussels:20260519T113000
+SUMMARY:🚴 [Route] Namur- St-Hubert - Namur - JAMBES Brevet à Dénivelé Brev
+ et Cyclo-côteur belge
+LOCATION:Hall Sportif de Jambes - Souvenir\, 8 Rue Michiels 5100  JAMBES\, 
+ Namur
+URL:https://www.google.com/maps/search/?api=1&query=8 Rue Michiels 5100  JA
+ MBES
+DESCRIPTION:📌 ÉVÉNEMENT : Namur- St-Hubert - Namur\n🚴 Club organisateur :
+  55106 - Comité Provincial Namur\n📍 Lieu de départ : Hall Sportif de Jambe
+ s - Souvenir\n🏠 Adresse : 8 Rue Michiels 5100  JAMBES\n🗺️ Province : Namu
+ r\n\n--- PARCOURS & CIRCUITS ---\n• BCCB: 207 km | D+ : 3339 | Départ: 07h3
+ 0 - 08h30 | Ravitaillement: 4 | Tarif: FFBC : 7\,00€ / NON FFBC : 8\,50€\n•
+  BCCB: 178 km | D+ : 2514 | Départ: 07h30 - 09h00 | Ravitaillement: 3 | Tar
+ if: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 135 km | D+ : 2005 | Départ: 
+ 07h30 - 09h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50
+ €\n• BAD: 112 km | D+ : 1571 | Départ: 07h30 - 10h00 | Ravitaillement: 2 | 
+ Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 83 km | D+ : 1089 | Départ
+ : 07h30 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,
+ 50€\n• ROUTE: 57 km | D+ : 688 | Départ: 07h30 - 11h00 | Tarif: FFBC : 3\,0
+ 0€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classique-Semi-permanente 18/05-22/
+ 05\nPréinscription du 11/05 au 16/05\nMarquage au sol-Trace GPX-Feuille de 
+ route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?a
+ pi=1&query=8 Rue Michiels 5100  JAMBES\n\n🔗 Source : Fédération Francophon
+ e Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par F
+ abrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9676-20260520@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260520T110000
+DTEND;TZID=Europe/Brussels:20260520T150000
+SUMMARY:🚴 [Route] Du Bocq à la Meuse - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Du Bocq à la Meuse\n🚴 Club organisateur : 3213 
+ - CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Monseu 
+ 5590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 5
+ 7 km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 3\,00€ / NON FFBC :
+  4\,50€\n\nℹ️ Remarque : Classique\nAccueil\nTrace au sol - GPX - Feuille d
+ e route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=14 place Monseu 5590 Ciney\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9137-20260524@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260524T080000
+DTEND;TZID=Europe/Brussels:20260524T120000
+SUMMARY:🚴 [Route] La petite vadrouille - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La petite vadrouille\n🚴 Club organisateur : 320
+ 3 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Bl
+ anc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n
+ • ROUTE: 50 km | D+ : 433 | Départ: 08h00 - 10h00 | Tarif: FFBC : 2\,00€ / 
+ NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Préinscriptions - Assistance
+  GPS\nMarquage au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFB
+ C / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9569-20260527@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260527T120000
+DTEND;TZID=Europe/Brussels:20260527T160000
+SUMMARY:🚴 [Route] Challenge Pont J'en Bois - JAMBES
+LOCATION:Café du Pont J'en Bois\, 10 Avenue du Bourgmestre Jean Materne  51
+ 00 JAMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue du Bourgmestr
+ e Jean Materne  5100 JAMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge Pont J'en Bois\n🚴 Club organisateur :
+  3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Café du Pont J'en Bois\n🏠 A
+ dresse : 10 Avenue du Bourgmestre Jean Materne  5100 JAMBES\n🗺️ Province :
+  Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 65 km | D+ : N.A | Départ: 
+ 12h00 - 13h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : C
+ lassique\nAccueil\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire 
+ Google Maps : https://www.google.com/maps/search/?api=1&query=10 Avenue du 
+ Bourgmestre Jean Materne  5100 JAMBES\n\n🔗 Source : Fédération Francophone
+  Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fa
+ brizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9482-20260528@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260528T073000
+DTEND;TZID=Europe/Brussels:20260528T113000
+SUMMARY:🚴 [Route] Le Calvaire de Foy-Notre-Dame - NAMUR Brevet à Dénivelé 
+ Brevet Cyclo-côteur belge
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : Le Calvaire de Foy-Notre-Dame\n🚴 Club organisat
+ eur : 3620 - Cyclo Club Invictus\n📍 Lieu de départ : Stations de Plein Air
+  - Madeleine Mélot\n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n🗺️ Pro
+ vince : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BCCB: 158 km | D+ : 2482 | 
+ Départ: 07h30 - 09h00 | Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC
+  : 7\,50€\n• BAD: 135 km | D+ : 1804 | Départ: 07h30 - 09h00 | Ravitailleme
+ nt: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 98 km | D+ : 1535 
+ | Départ: 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FF
+ BC : 6\,50€\n• BAD: 80 km | D+ : 968 | Départ: 08h00 - 10h00 | Ravitailleme
+ nt: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 63 km | D+ : 680
+  | Départ: 08h00 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON F
+ FBC : 5\,50€\n\nℹ️ Remarque : Classique - Semi permanente du24/05 au 28/5  
+ \nPré-inscription souhaitée - Pte restauration\nMarquage au sol-Trace GPX-F
+ euille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps
+ /search/?api=1&query=34 Avenue Baron Fallon 5000 NAMUR\n\n🔗 Source : Fédér
+ ation Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendri
+ er préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9162-20260530@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260530T073000
+DTEND;TZID=Europe/Brussels:20260530T113000
+SUMMARY:🚴 [Route] Meux-Durbuy-Meux - MEUX Brevet à Dénivelé
+LOCATION:Buvette du RFC MEUX\, Rue Janquart 14 5081 MEUX\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Janquart 14 5081 M
+ EUX
+DESCRIPTION:📌 ÉVÉNEMENT : Meux-Durbuy-Meux\n🚴 Club organisateur : 3510 - 
+ MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Buvette du RFC MEUX\n🏠 Adresse 
+ : Rue Janquart 14 5081 MEUX\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUIT
+ S ---\n• BAD: 150 km | D+ : 1850 | Départ: 07h30 - 09h00 | Ravitaillement: 
+ 3 | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• BAD: 115 km | D+ : 1200 | D
+ épart: 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC 
+ : 6\,00€\n• ROUTE: 80 km | D+ : N.A | Départ: 07h30 - 09h30 | Ravitaillemen
+ t: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• EASY: 50 km | D+ : N.A |
+  Départ: 07h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Rem
+ arque : Galettes au retour\n  Parking  pas de gobelets aux ravitos\nTrace a
+ u sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.
+ google.com/maps/search/?api=1&query= Rue Janquart 14 5081 MEUX\n\n🔗 Source
+  : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 
+ Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9609-20260531@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260531T073000
+DTEND;TZID=Europe/Brussels:20260531T113000
+SUMMARY:🚴 [Route] La Malonnoise - Malonne
+LOCATION:Cycles Cammaerts Cube Store Malonne\, 509 Chaussée de Charleroi  5
+ 020 Malonne\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=509 Chaussée de Charler
+ oi  5020 Malonne
+DESCRIPTION:📌 ÉVÉNEMENT : La Malonnoise\n🚴 Club organisateur : 2006 - CLU
+ B CYCLISTE CAMMAERTS\n📍 Lieu de départ : Cycles Cammaerts Cube Store Malon
+ ne\n🏠 Adresse : 509 Chaussée de Charleroi  5020 Malonne\n🗺️ Province : Na
+ mur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 70 km | D+ : 450 | Départ: 07h
+ 30 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n
+ • ROUTE: 40 km | D+ : 380 | Départ: 07h30 - 10h30 | Tarif: FFBC : 2\,50€ / 
+ NON FFBC : 4\,00€\n• FAMILY: 20 km | D+ : 90 | Départ: 07h30 - 10h30 | Tari
+ f: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Accueil sur place. Fl
+ échage au sol\nD+ Openrunner \nParking zoning de Malonne\n\n🗺️ Itinéraire 
+ Google Maps : https://www.google.com/maps/search/?api=1&query=509 Chaussée 
+ de Charleroi  5020 Malonne\n\n🔗 Source : Fédération Francophone Belge du C
+ yclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de l
+ a Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9185-20260609@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260609T080000
+DTEND;TZID=Europe/Brussels:20260609T120000
+SUMMARY:🚴 [Route] Autour de Namur / NAMUROISE - Spy Namuroise
+LOCATION:Café Le Régent\, 59 Rue Haute 5190 Spy\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=59 Rue Haute 5190 Spy
+DESCRIPTION:📌 ÉVÉNEMENT : Autour de Namur / NAMUROISE\n🚴 Club organisateu
+ r : 3222 - CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : Café Le Régent\n🏠 Adr
+ esse : 59 Rue Haute 5190 Spy\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUI
+ TS ---\n• ROUTE: 80 km | D+ : 750 | Départ: 08h00 - 09h30 | Ravitaillement:
+  1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 50 km | D+ : 450 | 
+ Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 
+ 30 km | D+ : 200 | Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC 
+ : 4\,50€\n• ETOILE: D+ : N.A | Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,00€
+  / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classique - Semi-permanente du 08  au
+  09/06\nPréinscription souhaitée - Accueil sur place\nMarquage au sol - GPX
+  - Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/
+ maps/search/?api=1&query=59 Rue Haute 5190 Spy\n\n🔗 Source : Fédération Fr
+ ancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépa
+ ré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9714-20260610@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260610T110000
+DTEND;TZID=Europe/Brussels:20260610T150000
+SUMMARY:🚴 [Route] Diamond challenge - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Diamond challenge\n🚴 Club organisateur : 3213 -
+  CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Monseu 5
+ 590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 50 
+ km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3
+ \,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nTombola pour les part
+ icipants au Challenge\nTirage le 07/10\n\n🗺️ Itinéraire Google Maps : http
+ s://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ciney\n\n�
+ � Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liber
+ té)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9301-20260613@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260613T070000
+DTEND;TZID=Europe/Brussels:20260613T110000
+SUMMARY:🚴 [Route] Grand Prix de Wallonie - Sambreville Brevet à Dénivelé
+LOCATION:Pavillon BUTACIDE\, Face 22 rue François Sarteel 5060 Sambreville\
+ , Namur
+URL:https://www.google.com/maps/search/?api=1&query=Face 22 rue François Sa
+ rteel 5060 Sambreville
+DESCRIPTION:📌 ÉVÉNEMENT : Grand Prix de Wallonie\n🚴 Club organisateur : 3
+ 406 - CYCLO SARTHE AUVELAIS\n📍 Lieu de départ : Pavillon BUTACIDE\n🏠 Adre
+ sse : Face 22 rue François Sarteel 5060 Sambreville\n🗺️ Province : Namur\n
+ \n--- PARCOURS & CIRCUITS ---\n• BAD: 125 km | D+ : 1816 | Départ: 07h00 - 
+ 09h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD
+ : 95 km | D+ : 1213 | Départ: 07h00 - 09h00 | Ravitaillement: 1 | Tarif: FF
+ BC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 60 km | D+ : N.A | Départ: 08h00 
+ - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque : Classiq
+ ue\, Pré-inscription\, Feuille de route\n130 et 90 km sur trace GPX\nLa sor
+ tie Hasquin 60 km Tracé au sol et GPX\n\n🗺️ Itinéraire Google Maps : https
+ ://www.google.com/maps/search/?api=1&query=Face 22 rue François Sarteel 506
+ 0 Sambreville\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme 
+ (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9873-20260613@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260613T070000
+DTEND;TZID=Europe/Brussels:20260613T110000
+SUMMARY:🚴 [Route] La petite flèche  ARONABCHUY - Huy Brevet à Dénivelé
+LOCATION:Hall omnisports de HUY\, 82 Rue Campagne  4500 Huy\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=82 Rue Campagne  4500 H
+ uy
+DESCRIPTION:📌 ÉVÉNEMENT : La petite flèche  ARONABCHUY\n🚴 Club organisate
+ ur : 9741 - ARONA BICYCLE CLUB\n📍 Lieu de départ : Hall omnisports de HUY\
+ n🏠 Adresse : 82 Rue Campagne  4500 Huy\n🗺️ Province : Liège\n\n--- PARCOU
+ RS & CIRCUITS ---\n• BAD: 130 km | D+ : 1700 | Départ: 07h00 - 09h00 | Ravi
+ taillement: 2 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• BAD: 90 km | D+
+  : 1090 | Départ: 07h30 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 2\,50€ 
+ / NON FFBC : 4\,00€\n• ROUTE: 60 km | D+ : N.A | Départ: 07h30 - 10h00 | Ra
+ vitaillement: 1 | Tarif: FFBC : 1\,50€ / NON FFBC : 3\,00€\n\nℹ️ Remarque :
+  Restauration Douches \nAvec ou sans montée du mur de Huy\n60 et 90 KM bali
+ sés -130KM GPx\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/
+ search/?api=1&query=82 Rue Campagne  4500 Huy\n\n🔗 Source : Fédération Fra
+ ncophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépar
+ é par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9159-20260614@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260614T070000
+DTEND;TZID=Europe/Brussels:20260614T110000
+SUMMARY:🚴 [Route] La Blanmontoise - Tourinnes-St-Lambert Brevet à Dénivelé
+  Brevet Cyclo-côteur belge
+LOCATION:Terrain de football Tourinnes-St-L\, 1 Rue des Cortils 1457 Tourin
+ nes-St-Lambert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=1 Rue des Cortils 1457 
+ Tourinnes-St-Lambert
+DESCRIPTION:📌 ÉVÉNEMENT : La Blanmontoise\n🚴 Club organisateur : 9915 - C
+ . C. ST. MARTIN BLANMONT\n📍 Lieu de départ : Terrain de football Tourinnes
+ -St-L\n🏠 Adresse : 1 Rue des Cortils 1457 Tourinnes-St-Lambert\n🗺️ Provin
+ ce : Brabant Wallon\n\n--- PARCOURS & CIRCUITS ---\n• BCCB: 154 km | D+ : 2
+ 010 | Départ: 07h00 - 08h00 | Ravitaillement: 2 | Tarif: FFBC : 6\,00€ / NO
+ N FFBC : 7\,50€\n• BAD: 106 km | D+ : 1215 | Départ: 07h00 - 09h30 | Ravita
+ illement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 96 km | D+ :
+  1070 | Départ: 07h00 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / 
+ NON FFBC : 5\,50€\n• ROUTE: 50 km | D+ : 300 | Départ: 07h30 - 11h00 | Tari
+ f: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : E411 sortie10\nVestia
+ ires et douches disponibles\nParking gratuit\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=1 Rue des Cortils 1457 To
+ urinnes-St-Lambert\n\n🔗 Source : Fédération Francophone Belge du Cyclotour
+ isme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta 
+ (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9670-20260614@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260614T070000
+DTEND;TZID=Europe/Brussels:20260614T110000
+SUMMARY:🪨 [Gravel] La Blanmontoise VTT - Tourinnes-St-Lambert
+LOCATION:Terrain de football Tourinnes-St-L\, 1 Rue des Cortils 1457 Tourin
+ nes-St-Lambert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=1 Rue des Cortils 1457 
+ Tourinnes-St-Lambert
+DESCRIPTION:📌 ÉVÉNEMENT : La Blanmontoise VTT\n🚴 Club organisateur : 9915
+  - C. C. ST. MARTIN BLANMONT\n📍 Lieu de départ : Terrain de football Touri
+ nnes-St-L\n🏠 Adresse : 1 Rue des Cortils 1457 Tourinnes-St-Lambert\n🗺️ Pr
+ ovince : Brabant Wallon\n\n--- PARCOURS & CIRCUITS ---\n• GRAVEL: 100 km | 
+ D+ : 1070 | Départ: 07h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,50
+ € / NON FFBC : 6\,00€\n• GRAVEL: 75 km | D+ : 765 | Départ: 07h00 - 10h30 |
+  Ravitaillement: 1 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• VTT: 65 km
+  | D+ : 870 | Départ: 07h00 - 10h00 | Ravitaillement: 3 | Tarif: FFBC : 6\,
+ 50€ / NON FFBC : 8\,00€\n• VTT: 55 km | D+ : 610 | Départ: 07h00 - 10h00 | 
+ Ravitaillement: 3 | Tarif: FFBC : 6\,50€ / NON FFBC : 8\,00€\n• GRAVEL: 50 
+ km | D+ : 575 | Départ: 07h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 4
+ \,50€ / NON FFBC : 6\,00€\n• VTT: 40 km | D+ : 417 | Départ: 07h00 - 10h30 
+ | Ravitaillement: 2 | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• VTT: 35 k
+ m | D+ : 400 | Départ: 07h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 4\
+ ,50€ / NON FFBC : 6\,00€\n• FAMILY: 18 km | D+ : 135 | Départ: 08h00 - 12h0
+ 0 | Tarif: FFBC : 1\,50€ / NON FFBC : 3\,00€\n\nℹ️ Remarque : Sortie 10 E41
+ 1\, Walhain\, Parking\nGRAVEL en traces GPX \; Family gratuit -12ans Bike p
+ ark\, Vestiaires/Douches\, Pain-Saucisses\n\n🗺️ Itinéraire Google Maps : h
+ ttps://www.google.com/maps/search/?api=1&query=1 Rue des Cortils 1457 Touri
+ nnes-St-Lambert\n\n🔗 Source : Fédération Francophone Belge du Cyclotourism
+ e (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RP
+ A)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,VTT\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9173-20260614@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260614T073000
+DTEND;TZID=Europe/Brussels:20260614T113000
+SUMMARY:🚴 [Route] La Condruzienne - Naninne
+LOCATION:Terrain de football de Naninne\, Rue Sainte Anne 5100 Naninne\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Sainte Anne 5100 N
+ aninne
+DESCRIPTION:📌 ÉVÉNEMENT : La Condruzienne\n🚴 Club organisateur : 3415 - C
+ YCLO NANINNE\n📍 Lieu de départ : Terrain de football de Naninne\n🏠 Adress
+ e : Rue Sainte Anne 5100 Naninne\n🗺️ Province : Namur\n\n--- PARCOURS & CI
+ RCUITS ---\n• ROUTE: 76 km | D+ : 798 | Départ: 07h30 - 09h00 | Ravitaillem
+ ent: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 55 km | D+ : 59
+ 4 | Départ: 07h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ 
+ Remarque : Classique\nparcours fléchés - trace GPS et feuille de\nGPX dispo
+ nibles le jour avant\n\n🗺️ Itinéraire Google Maps : https://www.google.com
+ /maps/search/?api=1&query= Rue Sainte Anne 5100 Naninne\n\n🔗 Source : Fédé
+ ration Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendr
+ ier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9175-20260617@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260617T133000
+DTEND;TZID=Europe/Brussels:20260617T173000
+SUMMARY:🚴 [Route] Randonnée de Jean - RHISNES
+LOCATION:Café le Bistrot\, 7 Place communale 5080 RHISNES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=7 Place communale 5080 
+ RHISNES
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée de Jean\n🚴 Club organisateur : 3510 -
+  MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Café le Bistrot\n🏠 Adresse : 7
+  Place communale 5080 RHISNES\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCU
+ ITS ---\n• ROUTE: 50 km | D+ : N.A | Départ: 13h30 - 16h00 | Tarif: FFBC : 
+ 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Uniquement Trace GPX\nPré-inscr
+ iptions en ligne et inscriptions \nsur place\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=7 Place communale 5080 RH
+ ISNES\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / 
+ Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9190-20260620@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260620T073000
+DTEND;TZID=Europe/Brussels:20260620T113000
+SUMMARY:🚴 [Route] La Gauloise - Villers-Le-Bouillet Brevet à Dénivelé
+LOCATION:Hall Omnisports (ancienne buvette football)\, 5a rue du Centre 453
+ 0 Villers-Le-Bouillet\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=5a rue du Centre 4530 V
+ illers-Le-Bouillet
+DESCRIPTION:📌 ÉVÉNEMENT : La Gauloise\n🚴 Club organisateur : 3319 - CYCLO
+  VILLERS\n📍 Lieu de départ : Hall Omnisports (ancienne buvette football)\n
+ 🏠 Adresse : 5a rue du Centre 4530 Villers-Le-Bouillet\n🗺️ Province : Lièg
+ e\n\n--- PARCOURS & CIRCUITS ---\n• BAD: 135 km | D+ : 1859 | Départ: 07h30
+  - 09h00 | Ravitaillement: 2\n• BAD: 114 km | D+ : 1454 | Départ: 07h30 - 0
+ 9h00 | Ravitaillement: 2\n• BAD: 80 km | D+ : 944 | Départ: 07h30 - 10h30 |
+  Ravitaillement: 1\n• ROUTE: 54 km | D+ : 263 | Départ: 07h30 - 10h30\n\nℹ️
+  Remarque : Vers Dinant à travers les beautés\nméconnues du Condroz\n\n🗺️ 
+ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=5a
+  rue du Centre 4530 Villers-Le-Bouillet\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9177-20260620@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260620T070000
+DTEND;TZID=Europe/Brussels:20260620T110000
+SUMMARY:🚴 [Route] Randonnée des Petits Braquets - Naninne Brevet à Dénivel
+ é
+LOCATION:Terrain de football de Naninne\, Rue Sainte Anne 5100 Naninne\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Sainte Anne 5100 N
+ aninne
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée des Petits Braquets\n🚴 Club organisat
+ eur : 3415 - CYCLO NANINNE\n📍 Lieu de départ : Terrain de football de Nani
+ nne\n🏠 Adresse : Rue Sainte Anne 5100 Naninne\n🗺️ Province : Namur\n\n---
+  PARCOURS & CIRCUITS ---\n• BAD: 158 km | D+ : 2135 | Départ: 07h00 - 09h00
+  | Ravitaillement: 2 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 115
+  km | D+ : 1573 | Départ: 07h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC :
+  4\,00€ / NON FFBC : 5\,50€\n• BAD: 89 km | D+ : 1172 | Départ: 07h00 - 10h
+ 00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE:
+  53 km | D+ : 732 | Départ: 07h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC
+  : 3\,50€\n\nℹ️ Remarque : E411 sortie 16 Wierde - Terrain de foot \nparcou
+ rs fléchés - trace GPX et feuille de\nroute disponibles le jour avant\n\n🗺
+ ️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=
+  Rue Sainte Anne 5100 Naninne\n\n🔗 Source : Fédération Francophone Belge d
+ u Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio d
+ e la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9118-20260624@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260624T110000
+DTEND;TZID=Europe/Brussels:20260624T150000
+SUMMARY:🚴 [Route] Rallye du Régent - Spy
+LOCATION:Café Le Régent\, 59 Rue Haute 5190 Spy\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=59 Rue Haute 5190 Spy
+DESCRIPTION:📌 ÉVÉNEMENT : Rallye du Régent\n🚴 Club organisateur : 3222 - 
+ CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : Café Le Régent\n🏠 Adresse : 59 R
+ ue Haute 5190 Spy\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• R
+ OUTE: 50 km | D+ : 420 | Départ: 11h00 - 15h00 | Tarif: FFBC : 3\,00€ / NON
+  FFBC : 4\,50€\n\nℹ️ Remarque : Classique - Semi-permanente du 25 au 26/06\
+ nPréinscription souhaitée - Accueil sur place\nMarquage au sol - GPX - Feui
+ lle de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/se
+ arch/?api=1&query=59 Rue Haute 5190 Spy\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9184-20260627@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260627T063000
+DTEND;TZID=Europe/Brussels:20260627T103000
+SUMMARY:🚴 [Route] LA TYPIQUE - NATOYE Brevet à Dénivelé Brevet Cyclo-côteu
+ r belge RANDOCOL
+LOCATION:Hall Omnisports\, 2 Rue de l'Avenir\,  5360 NATOYE\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=2 Rue de l'Avenir\,  53
+ 60 NATOYE
+DESCRIPTION:📌 ÉVÉNEMENT : LA TYPIQUE\n🚴 Club organisateur : 3213 - CVC CI
+ NEY\n📍 Lieu de départ : Hall Omnisports\n🏠 Adresse : 2 Rue de l'Avenir\, 
+  5360 NATOYE\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BCCB: 
+ 169 km | D+ : 2307 | Départ: 06h30 - 09h00 | Ravitaillement: 3 | Tarif: FFB
+ C : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 127 km | D+ : 1594 | Départ: 06h30 -
+  09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• BA
+ D: 87 km | D+ : 1186 | Départ: 06h30 - 10h00 | Ravitaillement: 1 | Tarif: F
+ FBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 41 km | D+ : 487 | Départ: 06h30
+  - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classi
+ que\, préinscription\nVestiaires\, douches.\nTrace au sol\, GPX\, Feuille d
+ e route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=2 Rue de l'Avenir\,  5360 NATOYE\n\n🔗 Source : Fédération Fra
+ ncophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépar
+ é par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9258-20260701@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260701T100000
+DTEND;TZID=Europe/Brussels:20260701T140000
+SUMMARY:🚴 [Route] Challenge Jean-Marie DE GROOTE (L) - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge Jean-Marie DE GROOTE (L)\n🚴 Club orga
+ nisateur : 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse 
+ : 29 Rue du Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & 
+ CIRCUITS ---\n• ROUTE: 57 km | D+ : 507 | Départ: 10h00 - 13h00 | Tarif: FF
+ BC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\, Semi-permanent
+ e 02 et 03/07 \nPréinsc.\, Assistance GPS\, collation au départ\nMarquage a
+ u sol\, GPX\, Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.
+ google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 
+ Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté
+ )\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9189-20260704@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260704T080000
+DTEND;TZID=Europe/Brussels:20260704T120000
+SUMMARY:🚴 [Route] Les dénivelés mosans - VEDRIN Brevet à Dénivelé Brevet C
+ yclo-côteur belge
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Les dénivelés mosans\n🚴 Club organisateur : 321
+ 2 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : Ru
+ e Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS 
+ & CIRCUITS ---\n• BCCB: 155 km | D+ : 2100 | Départ: 08h00 - 09h00 | Ravita
+ illement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 105 km | D+ 
+ : 1357 | Départ: 08h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ /
+  NON FFBC : 5\,50€\n• ROUTE: 60 km | D+ : 600 | Départ: 08h00 - 10h00 | Tar
+ if: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Trace au sol - GPX -
+  Feuille de route \nParcours 155km guidage uniquement GPS\nDouches\n\n🗺️ I
+ tinéraire Google Maps : https://www.google.com/maps/search/?api=1&query= Ru
+ e Adolphe Parmentier\, 8 5020 VEDRIN\n\n🔗 Source : Fédération Francophone 
+ Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fab
+ rizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9484-20260705@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260705T080000
+DTEND;TZID=Europe/Brussels:20260705T120000
+SUMMARY:🚴 [Route] L'échappée de la citadelle-Philanth - NAMUR
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : L'échappée de la citadelle-Philanth\n🚴 Club org
+ anisateur : 3620 - Cyclo Club Invictus\n📍 Lieu de départ : Stations de Ple
+ in Air - Madeleine Mélot\n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n�
+ �️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 53 km | D+ : 6
+ 03 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 5\,00€ / NON
+  FFBC : 6\,50€\n• ROUTE: 34 km | D+ : 415 | Départ: 08h00 - 11h00 | Ravitai
+ llement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Préi
+ nscription-Accueil sur place -\nMarquage au sol-Trace GPX -Feuille de route
+  Petite restauration -pas de gobelet au ravito\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FF
+ BC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9885-20260705@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260705T080000
+DTEND;TZID=Europe/Brussels:20260705T120000
+SUMMARY:🌲 [VTT] La Waretoise - WARET l'EVEQUE
+LOCATION:Ecole communale\, 78 Chaussée de wavre 4217 WARET l'EVEQUE\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=78 Chaussée de wavre 42
+ 17 WARET l'EVEQUE
+DESCRIPTION:📌 ÉVÉNEMENT : La Waretoise\n🚴 Club organisateur : 2010 - Les 
+ Waretis Bikers VTT asbl\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : 
+ 78 Chaussée de wavre 4217 WARET l'EVEQUE\n🗺️ Province : Liège\n\n--- PARCO
+ URS & CIRCUITS ---\n• VTT: 50 km | D+ : 450 | Départ: 08h00 - 09h00 | Ravit
+ aillement: 3 | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• VTT: 35 km | D+ 
+ : 200 | Départ: 08h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,50€ / 
+ NON FFBC : 7\,00€\n• VTT: 15 km | D+ : 150 | Départ: 08h00 - 10h30 | Ravita
+ illement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n\nℹ️ Remarque : à p
+ artir du 50 km\, les traces sont données \nGPX.\n\n🗺️ Itinéraire Google Ma
+ ps : https://www.google.com/maps/search/?api=1&query=78 Chaussée de wavre 4
+ 217 WARET l'EVEQUE\n\n🔗 Source : Fédération Francophone Belge du Cyclotour
+ isme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta 
+ (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9375-20260707@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260707T090000
+DTEND;TZID=Europe/Brussels:20260707T130000
+SUMMARY:🚴 [Route] Les 4 mardis - Jambes
+LOCATION:Au Pont J'en Bois (ex-Taverne le 500)\, 10 Avenue Jean Materne 510
+ 0 Jambes\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 
+ 5100 Jambes
+DESCRIPTION:📌 ÉVÉNEMENT : Les 4 mardis\n🚴 Club organisateur : 3701 - Team
+  Faulx-Namur\n📍 Lieu de départ : Au Pont J'en Bois (ex-Taverne le 500)\n🏠
+  Adresse : 10 Avenue Jean Materne 5100 Jambes\n🗺️ Province : Namur\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 400 | Départ: 09h00 - 11h00 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\nAccu
+ eil\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 5100
+  Jambes\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9192-20260708@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260708T133000
+DTEND;TZID=Europe/Brussels:20260708T173000
+SUMMARY:🚴 [Route] Tour de LA BRUYERE - RHISNES
+LOCATION:Café le Bistrot\, 7 Place communale 5080 RHISNES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=7 Place communale 5080 
+ RHISNES
+DESCRIPTION:📌 ÉVÉNEMENT : Tour de LA BRUYERE\n🚴 Club organisateur : 3510 
+ - MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Café le Bistrot\n🏠 Adresse : 
+ 7 Place communale 5080 RHISNES\n🗺️ Province : Namur\n\n--- PARCOURS & CIRC
+ UITS ---\n• ROUTE: 50 km | D+ : N.A | Départ: 13h30 - 16h00 | Tarif: FFBC :
+  2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Uniquement Trace GPX\nPré-insc
+ ription en ligne et \ninscriptions sur place\n\n🗺️ Itinéraire Google Maps 
+ : https://www.google.com/maps/search/?api=1&query=7 Place communale 5080 RH
+ ISNES\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / 
+ Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9380-20260711@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260711T063000
+DTEND;TZID=Europe/Brussels:20260711T103000
+SUMMARY:🪨 [Gravel] Circuit des As - Heppignies Brevet à Dénivelé Brevet à 
+ Dénivelé VAE Brevet Cyclo-côteur belge GRAVEL
+LOCATION:Café "Chez Nous"\, 9 Rue du Muturnia 6220 Heppignies\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 
+ Heppignies
+DESCRIPTION:📌 ÉVÉNEMENT : Circuit des As\n🚴 Club organisateur : 1801 - Vé
+ lo Cyclo Club Fleurusien\n📍 Lieu de départ : Café "Chez Nous"\n🏠 Adresse 
+ : 9 Rue du Muturnia 6220 Heppignies\n🗺️ Province : Hainaut\n\n--- PARCOURS
+  & CIRCUITS ---\n• BCCB: 165 km | D+ : 2203 | Départ: 06h30 - 08h30 | Ravit
+ aillement: 3 | Tarif: FFBC : 5\,50€ / NON FFBC : 7\,00€\n• BAD-VAE: 122 km 
+ | D+ : 1593 | Départ: 06h30 - 09h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,
+ 50€ / NON FFBC : 6\,00€\n• BAD: 122 km | D+ : 1593 | Départ: 06h30 - 09h00 
+ | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• BAD: 91 k
+ m | D+ : 1110 | Départ: 06h30 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3
+ \,50€ / NON FFBC : 5\,00€\n• BAD-VAE: 91 km | D+ : 1110 | Départ: 06h30 - 0
+ 9h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• GRAV
+ EL: 80 km | D+ : 600 | Départ: 07h00 - 09h00 | Ravitaillement: 2 | Tarif: F
+ FBC : 4\,50€ / NON FFBC : 6\,00€\n• EASY: 77 km | D+ : 484 | Départ: 06h30 
+ - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• G
+ RAVEL: 60 km | D+ : 400 | Départ: 07h00 - 10h00 | Ravitaillement: 2 | Tarif
+ : FFBC : 4\,50€ / NON FFBC : 6\,00€\n• EASY: 56 km | D+ : 317 | Départ: 06h
+ 30 - 10h00 | Tarif: FFBC : 2\,50€ / NON FFBC : 4\,00€\n• GRAVEL: 40 km | D+
+  : 250 | Départ: 07h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ /
+  NON FFBC : 5\,00€\n• EASY: 35 km | D+ : 178 | Départ: 06h30 - 10h00 | Tari
+ f: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• GRAVEL: 20 km | D+ : 125 | Départ: 
+ 07h00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : B
+ CCB - Ravitos soignés\nRégions différentes selon les distances\nCafé offert
+  jusqu'à 10h -Petite restauration\n\n🗺️ Itinéraire Google Maps : https://w
+ ww.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 Heppignies\n\
+ n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Lib
+ erté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9169-20260711@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260711T070000
+DTEND;TZID=Europe/Brussels:20260711T110000
+SUMMARY:🚴 [Route] LES 5 VALLEES - ANDENNE Brevet à Dénivelé
+LOCATION:Complexe Sportif  ANDENNE ARENA\, Rue Docteur Melin 14 5300 ANDENN
+ E\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Docteur Melin 14 5
+ 300 ANDENNE
+DESCRIPTION:📌 ÉVÉNEMENT : LES 5 VALLEES\n🚴 Club organisateur : 3210 - ASS
+ OCIATION CYCLOS ANDENNE\n📍 Lieu de départ : Complexe Sportif  ANDENNE AREN
+ A\n🏠 Adresse : Rue Docteur Melin 14 5300 ANDENNE\n🗺️ Province : Namur\n\n
+ --- PARCOURS & CIRCUITS ---\n• BAD: 150 km | D+ : 1900 | Départ: 07h00 - 10
+ h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 
+ 110 km | D+ : 1500 | Départ: 07h00 - 10h00 | Ravitaillement: 2 | Tarif: FFB
+ C : 5\,00€ / NON FFBC : 6\,50€\n• ROUTE: 80 km | D+ : 1000 | Départ: 08h00 
+ - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• R
+ OUTE: 50 km | D+ : 550 | Départ: 08h00 - 10h30 | Tarif: FFBC : 3\,50€ / NON
+  FFBC : 5\,00€\n\nℹ️ Remarque : site http://www.cyclandenne.be/ à consulter
+  \nParcours fléchés. GPX sur 150 KM\nParking douches feuilles de routes\n\n
+ 🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&quer
+ y= Rue Docteur Melin 14 5300 ANDENNE\n\n🔗 Source : Fédération Francophone 
+ Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fab
+ rizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9381-20260712@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260712T063000
+DTEND;TZID=Europe/Brussels:20260712T103000
+SUMMARY:🪨 [Gravel] Circuit des As - Heppignies Brevet à Dénivelé Brevet à 
+ Dénivelé VAE GRAVEL
+LOCATION:Café "Chez Nous"\, 9 Rue du Muturnia 6220 Heppignies\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=9 Rue du Muturnia 6220 
+ Heppignies
+DESCRIPTION:📌 ÉVÉNEMENT : Circuit des As\n🚴 Club organisateur : 1801 - Vé
+ lo Cyclo Club Fleurusien\n📍 Lieu de départ : Café "Chez Nous"\n🏠 Adresse 
+ : 9 Rue du Muturnia 6220 Heppignies\n🗺️ Province : Hainaut\n\n--- PARCOURS
+  & CIRCUITS ---\n• BAD: 122 km | D+ : 1593 | Départ: 06h30 - 09h00 | Ravita
+ illement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• BAD-VAE: 122 km |
+  D+ : 1593 | Départ: 06h30 - 09h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,5
+ 0€ / NON FFBC : 6\,00€\n• BAD: 91 km | D+ : 1110 | Départ: 06h30 - 09h30 | 
+ Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• BAD-VAE: 91
+  km | D+ : 1110 | Départ: 06h30 - 09h30 | Ravitaillement: 1 | Tarif: FFBC :
+  3\,50€ / NON FFBC : 5\,00€\n• GRAVEL: 80 km | D+ : 600 | Départ: 07h00 - 0
+ 9h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• EASY
+ : 77 km | D+ : 484 | Départ: 06h30 - 10h00 | Ravitaillement: 1 | Tarif: FFB
+ C : 3\,50€ / NON FFBC : 5\,00€\n• GRAVEL: 60 km | D+ : 400 | Départ: 07h00 
+ - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• E
+ ASY: 56 km | D+ : 317 | Départ: 06h30 - 10h00 | Tarif: FFBC : 2\,50€ / NON 
+ FFBC : 4\,00€\n• GRAVEL: 40 km | D+ : 250 | Départ: 07h00 - 10h00 | Ravitai
+ llement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• EASY: 35 km | D+ :
+  178 | Départ: 06h30 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• 
+ GRAVEL: 20 km | D+ : 125 | Départ: 07h00 - 10h00 | Tarif: FFBC : 2\,00€ / N
+ ON FFBC : 3\,50€\n\nℹ️ Remarque : Régions différentes selon les distances\n
+ Petite restauration - Ravitos soignés\nCafé offert jusqu'à 10h\n\n🗺️ Itiné
+ raire Google Maps : https://www.google.com/maps/search/?api=1&query=9 Rue d
+ u Muturnia 6220 Heppignies\n\n🔗 Source : Fédération Francophone Belge du C
+ yclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de l
+ a Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9709-20260712@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260712T073000
+DTEND;TZID=Europe/Brussels:20260712T113000
+SUMMARY:🚴 [Route] Tous en Celles - VEDRIN Brevet à Dénivelé
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Tous en Celles\n🚴 Club organisateur : 3203 - VC
+  VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Blanc Bo
+ is 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BAD:
+  124 km | D+ : 1791 | Départ: 07h30 - 09h00 | Ravitaillement: 2 | Tarif: FF
+ BC : 4\,50€ / NON FFBC : 6\,00€\n• BAD: 107 km | D+ : 1281 | Départ: 07h30 
+ - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• B
+ AD: 100 km | D+ : 1066 | Départ: 07h30 - 09h30 | Ravitaillement: 2 | Tarif:
+  FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 82 km | D+ : 901 | Départ: 07h30
+  - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• 
+ ROUTE: 62 km | D+ : 745 | Départ: 07h30 - 11h30 | Ravitaillement: 1 | Tarif
+ : FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 37 km | D+ : 382 | Départ: 07
+ h30 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Cla
+ ssique - Semi-permanente 14 au 15/07\nPréinscription\, Café offert avant 9h
+ 00\nUniquement en trace GPX\, Feuille de route\n\n🗺️ Itinéraire Google Map
+ s : https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFB
+ C / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9376-20260714@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260714T090000
+DTEND;TZID=Europe/Brussels:20260714T130000
+SUMMARY:🚴 [Route] Les 4 mardis - Jambes
+LOCATION:Au Pont J'en Bois (ex-Taverne le 500)\, 10 Avenue Jean Materne 510
+ 0 Jambes\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 
+ 5100 Jambes
+DESCRIPTION:📌 ÉVÉNEMENT : Les 4 mardis\n🚴 Club organisateur : 3701 - Team
+  Faulx-Namur\n📍 Lieu de départ : Au Pont J'en Bois (ex-Taverne le 500)\n🏠
+  Adresse : 10 Avenue Jean Materne 5100 Jambes\n🗺️ Province : Namur\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 400 | Départ: 09h00 - 11h00 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\nAccu
+ eil\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 5100
+  Jambes\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9677-20260715@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260715T110000
+DTEND;TZID=Europe/Brussels:20260715T150000
+SUMMARY:🚴 [Route] Les routes Cinaciennes - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Les routes Cinaciennes\n🚴 Club organisateur : 3
+ 213 - CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Mon
+ seu 5590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUT
+ E: 55 km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 3\,00€ / NON FF
+ BC : 4\,50€\n\nℹ️ Remarque : Classique\nAccueil\nTrace au sol - GPX - Feuil
+ le de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/sea
+ rch/?api=1&query=14 place Monseu 5590 Ciney\n\n🔗 Source : Fédération Franc
+ ophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé 
+ par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9209-20260718@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260718T080000
+DTEND;TZID=Europe/Brussels:20260718T120000
+SUMMARY:🚴 [Route] Vallées condruziennes (19 au 24/7) - FAULX-LES-TOMBES Br
+ evet à Dénivelé Brevet Cyclo-côteur belge
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Vallées condruziennes (19 au 24/7)\n🚴 Club orga
+ nisateur : 3701 - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\n
+ 🏠 Adresse : RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n\
+ n--- PARCOURS & CIRCUITS ---\n• BCCB: 162 km | D+ : 2120 | Départ: 08h00 - 
+ 09h30 | Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD
+ : 130 km | D+ : 1450 | Départ: 08h00 - 10h00 | Ravitaillement: 2 | Tarif: F
+ FBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 95 km | D+ : 1070 | Départ: 08h00 
+ - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• B
+ AD: 80 km | D+ : 915 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: F
+ FBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 50 km | D+ : 530 | Départ: 08h00
+  - 11h30 | Ravitaillement: 1 | Tarif: FFBC : 2\,50€ / NON FFBC : 4\,00€\n\n
+ ℹ️ Remarque : Classique - Semi permanente\nPré-inscription - Vaste parking\
+ nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : http
+ s://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 FAULX-LES
+ -TOMBES\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9508-20260719@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260719T073000
+DTEND;TZID=Europe/Brussels:20260719T113000
+SUMMARY:🌲 [VTT] Les Crêtes Naninnoises - Naninne
+LOCATION:Terrain de football de Naninne\, Rue Sainte Anne 5100 Naninne\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Sainte Anne 5100 N
+ aninne
+DESCRIPTION:📌 ÉVÉNEMENT : Les Crêtes Naninnoises\n🚴 Club organisateur : 3
+ 415 - CYCLO NANINNE\n📍 Lieu de départ : Terrain de football de Naninne\n🏠
+  Adresse : Rue Sainte Anne 5100 Naninne\n🗺️ Province : Namur\n\n--- PARCOU
+ RS & CIRCUITS ---\n• VTT: 50 km | D+ : 974 | Départ: 07h30 - 10h00 | Ravita
+ illement: 3 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• VTT: 40 km | D+ :
+  744 | Départ: 07h30 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,50€ / N
+ ON FFBC : 6\,00€\n• VTT: 30 km | D+ : 529 | Départ: 07h30 - 10h00 | Ravitai
+ llement: 2 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• VTT: 15 km | D+ : 
+ 236 | Départ: 07h30 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 1\,50€ / NO
+ N FFBC : 3\,00€\n\nℹ️ Remarque : Bike parc gardé - vestiaires - douches\npe
+ tite restauration - Terrain de foot\nE411 - Sortie 16 Wierde\n\n🗺️ Itinéra
+ ire Google Maps : https://www.google.com/maps/search/?api=1&query= Rue Sain
+ te Anne 5100 Naninne\n\n🔗 Source : Fédération Francophone Belge du Cycloto
+ urisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rust
+ a (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9377-20260721@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260721T090000
+DTEND;TZID=Europe/Brussels:20260721T130000
+SUMMARY:🚴 [Route] Les 4 mardis - Jambes
+LOCATION:Au Pont J'en Bois (ex-Taverne le 500)\, 10 Avenue Jean Materne 510
+ 0 Jambes\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 
+ 5100 Jambes
+DESCRIPTION:📌 ÉVÉNEMENT : Les 4 mardis\n🚴 Club organisateur : 3701 - Team
+  Faulx-Namur\n📍 Lieu de départ : Au Pont J'en Bois (ex-Taverne le 500)\n🏠
+  Adresse : 10 Avenue Jean Materne 5100 Jambes\n🗺️ Province : Namur\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 400 | Départ: 09h00 - 11h30 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Randonnée class
+ ique\nAccueil sur place\nTrace au sol\, GPX et feuille de route\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=10 Ave
+ nue Jean Materne 5100 Jambes\n\n🔗 Source : Fédération Francophone Belge du
+  Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de
+  la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9570-20260725@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260725T080000
+DTEND;TZID=Europe/Brussels:20260725T120000
+SUMMARY:🚴 [Route] Les Boucles de la Meuse - VEDRIN Brevet à Dénivelé
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Les Boucles de la Meuse\n🚴 Club organisateur : 
+ 3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse :
+  Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOU
+ RS & CIRCUITS ---\n• BAD: 180 km | D+ : 2400 | Départ: 08h00 - 09h00 | Ravi
+ taillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 120 km | D
+ + : 1700 | Départ: 08h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€
+  / NON FFBC : 6\,50€\n• ROUTE: 60 km | D+ : 582 | Départ: 08h00 - 10h00 | T
+ arif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Accueil & Douches 
+ \nTrace au sol - GPX - Feuille de route\nParcours 180km guidage uniquement 
+ GPS\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api
+ =1&query= Rue Adolphe Parmentier\, 8 5020 VEDRIN\n\n🔗 Source : Fédération 
+ Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pré
+ paré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9378-20260728@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260728T090000
+DTEND;TZID=Europe/Brussels:20260728T130000
+SUMMARY:🚴 [Route] Les 4 mardis - Jambes
+LOCATION:Au Pont J'en Bois (ex-Taverne le 500)\, 10 Avenue Jean Materne 510
+ 0 Jambes\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=10 Avenue Jean Materne 
+ 5100 Jambes
+DESCRIPTION:📌 ÉVÉNEMENT : Les 4 mardis\n🚴 Club organisateur : 3701 - Team
+  Faulx-Namur\n📍 Lieu de départ : Au Pont J'en Bois (ex-Taverne le 500)\n🏠
+  Adresse : 10 Avenue Jean Materne 5100 Jambes\n🗺️ Province : Namur\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 400 | Départ: 09h00 - 11h30 
+ | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Randonnée class
+ ique\nAccueil sur place\nTrace au sol\, GPX et Feuille de route\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=10 Ave
+ nue Jean Materne 5100 Jambes\n\n🔗 Source : Fédération Francophone Belge du
+  Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de
+  la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9207-20260729@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260729T100000
+DTEND;TZID=Europe/Brussels:20260729T140000
+SUMMARY:🚴 [Route] Du fleuve au plateau hesbignon - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Du fleuve au plateau hesbignon\n🚴 Club organisa
+ teur : 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29
+  Rue du Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRC
+ UITS ---\n• ROUTE: 56 km | D+ : 490 | Départ: 10h00 - 13h00 | Tarif: FFBC :
+  2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Préinscriptions - 
+ Assistance GPS\nMarquage au sol - GPX - Feuille de route\nCollation au dépa
+ rt\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=
+ 1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Francoph
+ one Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par
+  Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9202-20260801@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260801T070000
+DTEND;TZID=Europe/Brussels:20260801T110000
+SUMMARY:🚴 [Route] Naninne-Rochefort-Naninne - Naninne Brevet à Dénivelé Br
+ evet Cyclo-côteur belge
+LOCATION:Terrain de football de Naninne\, Rue Sainte Anne 5100 Naninne\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Sainte Anne 5100 N
+ aninne
+DESCRIPTION:📌 ÉVÉNEMENT : Naninne-Rochefort-Naninne\n🚴 Club organisateur 
+ : 3415 - CYCLO NANINNE\n📍 Lieu de départ : Terrain de football de Naninne\
+ n🏠 Adresse : Rue Sainte Anne 5100 Naninne\n🗺️ Province : Namur\n\n--- PAR
+ COURS & CIRCUITS ---\n• BCCB: 184 km | D+ : 2656 | Départ: 07h00 - 09h00 | 
+ Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 128 km
+  | D+ : 1753 | Départ: 07h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 5\
+ ,00€ / NON FFBC : 6\,50€\n• BAD: 89 km | D+ : 1116 | Départ: 07h00 - 11h00 
+ | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 47
+  km | D+ : 576 | Départ: 07h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 
+ 3\,50€\n\nℹ️ Remarque : E411-sortie16 Wierde-Terrain de foot-flécha\nge-tra
+ ce GPX-feuille de route disponibles\nle jour avant-parking/douche\n\n🗺️ It
+ inéraire Google Maps : https://www.google.com/maps/search/?api=1&query= Rue
+  Sainte Anne 5100 Naninne\n\n🔗 Source : Fédération Francophone Belge du Cy
+ clotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la
+  Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9521-20260802@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260802T080000
+DTEND;TZID=Europe/Brussels:20260802T120000
+SUMMARY:🪨 [Gravel] Tour du Grand Namur - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Tour du Grand Namur\n🚴 Club organisateur : 3203
+  - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Bla
+ nc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n•
+  GRAVEL: 77 km | D+ : 1111 | Départ: 08h00 - 09h00 | Ravitaillement: 2 | Ta
+ rif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• ROUTE: 69 km | D+ : 716 | Départ:
+  08h00 - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,5
+ 0€\n• GRAVEL: 51 km | D+ : 664 | Départ: 08h00 - 10h00 | Ravitaillement: 1 
+ | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• ROUTE: 49 km | D+ : 519 | Dép
+ art: 08h00 - 10h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• FAMILY: 33
+  km | D+ : 271 | Départ: 08h00 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 
+ 3\,50€\n\nℹ️ Remarque : Classique\, Semi-permanente 03 au 07/08 \nPréinscri
+ ption\, GRAVEL en GPX seul\nTrace au sol\, GPX\, Feuille de route\n\n🗺️ It
+ inéraire Google Maps : https://www.google.com/maps/search/?api=1&query=29 R
+ ue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du
+  Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de
+  la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9214-20260808@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260808T070000
+DTEND;TZID=Europe/Brussels:20260808T110000
+SUMMARY:🚴 [Route] LA PITTORESQUE - NATOYE Brevet à Dénivelé Brevet Cyclo-c
+ ôteur belge RANDOCOL
+LOCATION:Hall Omnisports\, 2 Rue de l'Avenir\,  5360 NATOYE\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=2 Rue de l'Avenir\,  53
+ 60 NATOYE
+DESCRIPTION:📌 ÉVÉNEMENT : LA PITTORESQUE\n🚴 Club organisateur : 3213 - CV
+ C CINEY\n📍 Lieu de départ : Hall Omnisports\n🏠 Adresse : 2 Rue de l'Aveni
+ r\,  5360 NATOYE\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• BC
+ CB: 195 km | D+ : 2710 | Départ: 07h00 - 09h00 | Ravitaillement: 4 | Tarif:
+  FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BCCB: 152 km | D+ : 2060 | Départ: 07
+ h00 - 09h30 | Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\
+ n• BAD: 113 km | D+ : 1665 | Départ: 07h00 - 09h30 | Ravitaillement: 2 | Ta
+ rif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 88 km | D+ : 1073 | Départ: 
+ 07h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50
+ €\n• ROUTE: 35 km | D+ : 364 | Départ: 07h00 - 11h00 | Tarif: FFBC : 2\,00€
+  / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\, Préinscription\nvestiaire
+ s\, douches.\nTrace au sol\, GPX\, Feuille de route\n\n🗺️ Itinéraire Googl
+ e Maps : https://www.google.com/maps/search/?api=1&query=2 Rue de l'Avenir\
+ ,  5360 NATOYE\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme
+  (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA
+ )
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9197-20260812@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260812T120000
+DTEND;TZID=Europe/Brussels:20260812T160000
+SUMMARY:🚴 [Route] La Triptyque du Speedy - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La Triptyque du Speedy\n🚴 Club organisateur : 3
+ 212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : 
+ Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 60 km | D+ : 600 | Départ: 12h00 - 13h30 | Tarif
+ : FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique \nAccueil\nT
+ race au sol - GPX - Feuill\n\n🗺️ Itinéraire Google Maps : https://www.goog
+ le.com/maps/search/?api=1&query= Rue Adolphe Parmentier\, 8 5020 VEDRIN\n\n
+ 🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libe
+ rté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9737-20260815@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260815T070000
+DTEND;TZID=Europe/Brussels:20260815T110000
+SUMMARY:🚴 [Route] L'Inattendue - Schaltin - Hamois Brevet à Dénivelé Breve
+ t Cyclo-côteur belge
+LOCATION:Salle  " La Schaltinoise "\, 22 Rue Du Stade 5364 Schaltin - Hamoi
+ s\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=22 Rue Du Stade 5364 Sc
+ haltin - Hamois
+DESCRIPTION:📌 ÉVÉNEMENT : L'Inattendue\n🚴 Club organisateur : 2311 - Les 
+ Cycl'Amis\n📍 Lieu de départ : Salle  " La Schaltinoise "\n🏠 Adresse : 22 
+ Rue Du Stade 5364 Schaltin - Hamois\n🗺️ Province : Namur\n\n--- PARCOURS &
+  CIRCUITS ---\n• BCCB: 159 km | D+ : 2250 | Départ: 07h00 - 09h30 | Ravitai
+ llement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 125 km | D+ :
+  1600 | Départ: 07h00 - 09h30 | Ravitaillement: 3 | Tarif: FFBC : 5\,00€ / 
+ NON FFBC : 6\,50€\n• BAD: 101 km | D+ : 1200 | Départ: 07h00 - 09h30 | Ravi
+ taillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• BAD: 82 km | D+
+  : 950 | Départ: 07h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ /
+  NON FFBC : 4\,50€\n• ROUTE: 65 km | D+ : 800 | Départ: 07h00 - 11h00 | Rav
+ itaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• EASY: 37 km | 
+ D+ : 370 | Départ: 07h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€
+ \n\nℹ️ Remarque : Circuits découverte (BCCB: vers le Col du \nRosier) - Pet
+ ite restauration - Bar Fléchage au sol pour tous les parcours\n\n🗺️ Itinér
+ aire Google Maps : https://www.google.com/maps/search/?api=1&query=22 Rue D
+ u Stade 5364 Schaltin - Hamois\n\n🔗 Source : Fédération Francophone Belge 
+ du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio 
+ de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9541-20260815@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260815T073000
+DTEND;TZID=Europe/Brussels:20260815T113000
+SUMMARY:🪨 [Gravel] La Stéphanoise - Mont-Saint-Guibert Brevet à Dénivelé G
+ RAVEL
+LOCATION:Centre sportif Jean Moisse\, 27/a Rue des Hayeffes 1435 Mont-Saint
+ -Guibert\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=27/a Rue des Hayeffes 1
+ 435 Mont-Saint-Guibert
+DESCRIPTION:📌 ÉVÉNEMENT : La Stéphanoise\n🚴 Club organisateur : 3707 - Gu
+ idons Courtois\n📍 Lieu de départ : Centre sportif Jean Moisse\n🏠 Adresse 
+ : 27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n🗺️ Province : Brabant Wal
+ lon\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 110 km | D+ : 1000 | Départ: 0
+ 7h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€
+ \n• BAD: 85 km | D+ : 950 | Départ: 07h30 - 10h00 | Ravitaillement: 1 | Tar
+ if: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 65 km | D+ : 550 | Départ: 
+ 07h30 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50
+ €\n• GRAVEL: 55 km | D+ : 600 | Départ: 07h30 - 09h30 | Ravitaillement: 1 |
+  Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• EASY: 50 km | D+ : 350 | Dépar
+ t: 07h30 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\
+ ,50€\n\nℹ️ Remarque : Petite restauration\, boissons et douches\nGravel: GP
+ X uniquement. Pré-insc. conseillée\nSocial Ride 85km: 9h ou 65 km: 9h30\n\n
+ 🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&quer
+ y=27/a Rue des Hayeffes 1435 Mont-Saint-Guibert\n\n🔗 Source : Fédération F
+ rancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prép
+ aré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9097-20260816@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260816T080000
+DTEND;TZID=Europe/Brussels:20260816T120000
+SUMMARY:🚴 [Route] L'Eolienne - NAMUR Namuroise
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : L'Eolienne\n🚴 Club organisateur : 3620 - Cyclo 
+ Club Invictus\n📍 Lieu de départ : Stations de Plein Air - Madeleine Mélot\
+ n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n🗺️ Province : Namur\n\n--
+ - PARCOURS & CIRCUITS ---\n• ROUTE: 76 km | D+ : 860 | Départ: 08h00 - 10h0
+ 0 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 
+ 58 km | D+ : 648 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC 
+ : 4\,00€ / NON FFBC : 5\,50€\n• EASY: 30 km | D+ : 340 | Départ: 08h00 - 11
+ h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ETOILE: D+ : N.A | Départ
+ : 08h00 - 11h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Remarque :
+  Namuroise\nPréinscription souhaitée ou Accueil sur place\nMarquage au sol-
+ trace GPX-feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.goog
+ le.com/maps/search/?api=1&query=34 Avenue Baron Fallon 5000 NAMUR\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9213-20260819@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260819T120000
+DTEND;TZID=Europe/Brussels:20260819T160000
+SUMMARY:🚴 [Route] La Triptyque du Speedy - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La Triptyque du Speedy\n🚴 Club organisateur : 3
+ 212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : 
+ Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 60 km | D+ : N.A | Départ: 12h00 - 13h30 | Tarif
+ : FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Parcours différents-Tr
+ ophée au club le mieux \nreprésenté sur les 3 jours -ravito au départ \nTra
+ ce au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier\, 8 5020 VE
+ DRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / V
+ élo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9232-20260822@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260822T080000
+DTEND;TZID=Europe/Brussels:20260822T120000
+SUMMARY:🚴 [Route] Randonnée des moissons - MEUX
+LOCATION:Buvette du RFC MEUX\, Rue Janquart 14 5081 MEUX\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Janquart 14 5081 M
+ EUX
+DESCRIPTION:📌 ÉVÉNEMENT : Randonnée des moissons\n🚴 Club organisateur : 3
+ 510 - MEUX CYCLO LA BRUYERE\n📍 Lieu de départ : Buvette du RFC MEUX\n🏠 Ad
+ resse : Rue Janquart 14 5081 MEUX\n🗺️ Province : Namur\n\n--- PARCOURS & C
+ IRCUITS ---\n• ROUTE: 100 km | D+ : N.A | Départ: 08h00 - 10h00 | Ravitaill
+ ement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 60 km | D+ : 
+ N.A | Départ: 08h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• R
+ OUTE: 40 km | D+ : N.A | Départ: 08h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON
+  FFBC : 3\,50€\n\nℹ️ Remarque : Classique -  Parking\npas de gobelet au rav
+ ito\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query= Rue Janquart 14 5081 MEUX\
+ n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo L
+ iberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9220-20260823@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260823T080000
+DTEND;TZID=Europe/Brussels:20260823T120000
+SUMMARY:🪨 [Gravel] La Rando du Souvenir (24 au 29/8) - FAULX-LES-TOMBES
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : La Rando du Souvenir (24 au 29/8)\n🚴 Club organ
+ isateur : 3701 - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\n�
+ � Adresse : RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n\n
+ --- PARCOURS & CIRCUITS ---\n• ROUTE: 75 km | D+ : 720 | Départ: 08h00 - 10
+ h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• GRAVE
+ L: 50 km | D+ : 550 | Départ: 08h00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FF
+ BC : 3\,50€\n• ROUTE: 48 km | D+ : 480 | Départ: 08h00 - 10h00 | Tarif: FFB
+ C : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Semi permanente
+ \nPré-inscription - Vaste parking\nRoute:Trace au sol-GPX / Gravel: GPX uni
+ quem.\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?a
+ pi=1&query= RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n\n🔗 Source : Fédération
+  Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier pr
+ éparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9218-20260826@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260826T120000
+DTEND;TZID=Europe/Brussels:20260826T160000
+SUMMARY:🚴 [Route] La Triptyque du Speedy - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La Triptyque du Speedy\n🚴 Club organisateur : 3
+ 212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : 
+ Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 65 km | D+ : N.A | Départ: 12h00 - 13h30 | Tarif
+ : FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Parcours différents-Tr
+ ophée au club le mieux \nreprésenté sur les 3 jours - ravito au départ\nTra
+ ce au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier\, 8 5020 VE
+ DRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / V
+ élo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9877-20260829@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260829T070000
+DTEND;TZID=Europe/Brussels:20260829T110000
+SUMMARY:🚴 [Route] Circuit des trois Provinces - Sambreville
+LOCATION:Pavillon BUTACIDE\, Face 22 rue François Sarteel 5060 Sambreville\
+ , Namur
+URL:https://www.google.com/maps/search/?api=1&query=Face 22 rue François Sa
+ rteel 5060 Sambreville
+DESCRIPTION:📌 ÉVÉNEMENT : Circuit des trois Provinces\n🚴 Club organisateu
+ r : 3406 - CYCLO SARTHE AUVELAIS\n📍 Lieu de départ : Pavillon BUTACIDE\n🏠
+  Adresse : Face 22 rue François Sarteel 5060 Sambreville\n🗺️ Province : Na
+ mur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 120 km | D+ : 742 | Départ: 07
+ h00 - 09h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\
+ n• ROUTE: 90 km | D+ : 640 | Départ: 07h00 - 09h00 | Ravitaillement: 1 | Ta
+ rif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 60 km | D+ : 390 | Départ:
+  08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,5
+ 0€\n\nℹ️ Remarque : Classique\, Pré-inscription\, Feuille de route\n130 et 
+ 90 km sur trace GPX\n60 km tracé au sol et trace GPX\n\n🗺️ Itinéraire Goog
+ le Maps : https://www.google.com/maps/search/?api=1&query=Face 22 rue Franç
+ ois Sarteel 5060 Sambreville\n\n🔗 Source : Fédération Francophone Belge du
+  Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de
+  la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9905-20260830@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260830T080000
+DTEND;TZID=Europe/Brussels:20260830T120000
+SUMMARY:🌲 [VTT] L'échappée de la Citadelle - NAMUR
+LOCATION:Stations de Plein Air - Madeleine Mélot\, 34 Avenue Baron Fallon 5
+ 000 NAMUR\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Baron Fallon 
+ 5000 NAMUR
+DESCRIPTION:📌 ÉVÉNEMENT : L'échappée de la Citadelle\n🚴 Club organisateur
+  : 3620 - Cyclo Club Invictus\n📍 Lieu de départ : Stations de Plein Air - 
+ Madeleine Mélot\n🏠 Adresse : 34 Avenue Baron Fallon 5000 NAMUR\n🗺️ Provin
+ ce : Namur\n\n--- PARCOURS & CIRCUITS ---\n• VTT: 50 km | D+ : 950 | Départ
+ : 08h00 - 11h00 | Ravitaillement: 3 | Tarif: FFBC : 6\,50€ / NON FFBC : 8\,
+ 00€\n• VTT: 30 km | D+ : 707 | Départ: 08h00 - 11h00 | Ravitaillement: 2 | 
+ Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• VTT: 20 km | D+ : 450 | Départ:
+  08h00 - 11h00 | Ravitaillement: 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,5
+ 0€\n\nℹ️ Remarque : Bike-Wash - accueil et restaurations \nsur place - pré-
+ inscriptions à partir du 24/8\n- traces GPX et marquages aux poteaux\n\n🗺️
+  Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=3
+ 4 Avenue Baron Fallon 5000 NAMUR\n\n🔗 Source : Fédération Francophone Belg
+ e du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizi
+ o de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9265-20260830@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260830T080000
+DTEND;TZID=Europe/Brussels:20260830T120000
+SUMMARY:🚴 [Route] Les Cimes Mosanes - VEDRIN Brevet à Dénivelé
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Les Cimes Mosanes\n🚴 Club organisateur : 3203 -
+  VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Blanc
+  Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• B
+ AD: 99 km | D+ : 1073 | Départ: 08h00 - 09h00 | Ravitaillement: 1 | Tarif: 
+ FFBC : 3\,50€ / NON FFBC : 5\,00€\n• BAD: 80 km | D+ : 862 | Départ: 08h00 
+ - 09h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• F
+ AMILY: 46 km | D+ : 401 | Départ: 08h00 - 11h30 | Tarif: FFBC : 2\,00€ / NO
+ N FFBC : 3\,50€\n• FAMILY: 26 km | D+ : 237 | Départ: 08h00 - 12h00 | Tarif
+ : FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique\, Semi-perma
+ nente 01 au 05/09\nPréinscription\, Café offert avant 9h30 Trace au sol\, G
+ PX\, Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.co
+ m/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : 
+ Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Cal
+ endrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9739-20260908@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260908T073000
+DTEND;TZID=Europe/Brussels:20260908T113000
+SUMMARY:🚴 [Route] La Bleue/Mémorial Henri Lebrun - Spy Brevet à Dénivelé B
+ revet Cyclo-côteur belge
+LOCATION:Salle des Fêtes\, 1 Rue de l'enseignement 5190 Spy\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=1 Rue de l'enseignement
+  5190 Spy
+DESCRIPTION:📌 ÉVÉNEMENT : La Bleue/Mémorial Henri Lebrun\n🚴 Club organisa
+ teur : 3222 - CYCLO AUDAX SAMBRIEN\n📍 Lieu de départ : Salle des Fêtes\n🏠
+  Adresse : 1 Rue de l'enseignement 5190 Spy\n🗺️ Province : Namur\n\n--- PA
+ RCOURS & CIRCUITS ---\n• BCCB: 160 km | D+ : 2180 | Départ: 07h30 - 09h00 |
+  Ravitaillement: 3 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• BAD: 120 k
+ m | D+ : 1500 | Départ: 07h30 - 09h30 | Ravitaillement: 2 | Tarif: FFBC : 5
+ \,00€ / NON FFBC : 6\,50€\n• BAD: 80 km | D+ : 1000 | Départ: 07h30 - 10h00
+  | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 5
+ 5 km | D+ : 500 | Départ: 07h30 - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC :
+  4\,50€\n\nℹ️ Remarque : Classique - Semi-permanente du 06/09 au 11/09\nPré
+ inscription souhaitée - Accueil sur place \nMarquage au sol - GPX - Feuille
+  de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/searc
+ h/?api=1&query=1 Rue de l'enseignement 5190 Spy\n\n🔗 Source : Fédération F
+ rancophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prép
+ aré par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9715-20260909@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260909T110000
+DTEND;TZID=Europe/Brussels:20260909T150000
+SUMMARY:🚴 [Route] Diamond challenge - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Diamond challenge\n🚴 Club organisateur : 3213 -
+  CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Monseu 5
+ 590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 50 
+ km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3
+ \,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nTombola pour les part
+ icipants au Challenge\nTirage le 07/10\n\n🗺️ Itinéraire Google Maps : http
+ s://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ciney\n\n�
+ � Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liber
+ té)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9036-20260912@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260912T073000
+DTEND;TZID=Europe/Brussels:20260912T113000
+SUMMARY:🚴 [Route] L'Estivale - JAMBES Namuroise
+LOCATION:Brasserie "Genération 80"\, 6 Place de la Gare Fleurie 5100 JAMBES
+ \, Namur
+URL:https://www.google.com/maps/search/?api=1&query=6 Place de la Gare Fleu
+ rie 5100 JAMBES
+DESCRIPTION:📌 ÉVÉNEMENT : L'Estivale\n🚴 Club organisateur : 3208 - LES LE
+ VRIERS ERPENT\n📍 Lieu de départ : Brasserie "Genération 80"\n🏠 Adresse : 
+ 6 Place de la Gare Fleurie 5100 JAMBES\n🗺️ Province : Namur\n\n--- PARCOUR
+ S & CIRCUITS ---\n• ROUTE: 60 km | D+ : 650 | Départ: 07h30 - 11h00 | Ravit
+ aillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• FAMILY: 25 km | 
+ D+ : 160 | Départ: 07h30 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€
+ \n• ETOILE: D+ : N.A | Départ: 07h00 - 13h00 | Tarif: FFBC : 2\,00€ / NON F
+ FBC : 3\,50€\n\nℹ️ Remarque : Classique\nVaste parking\nTrace au sol - GPX 
+ sur Feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com
+ /maps/search/?api=1&query=6 Place de la Gare Fleurie 5100 JAMBES\n\n🔗 Sour
+ ce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n�
+ � Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9002-20260912@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260912T080000
+DTEND;TZID=Europe/Brussels:20260912T120000
+SUMMARY:🚴 [Route] La Guy Minsart - HELECINE (Linsmeau) Brevet à Dénivelé
+LOCATION:Salle communale de Linsmeau\, 6 rue de l'école 1357 HELECINE (Lins
+ meau)\, Brabant Wallon
+URL:https://www.google.com/maps/search/?api=1&query=6 rue de l'école 1357 H
+ ELECINE (Linsmeau)
+DESCRIPTION:📌 ÉVÉNEMENT : La Guy Minsart\n🚴 Club organisateur : 3114 - RO
+ YAL VELO CLUB HELECINE ASBL\n📍 Lieu de départ : Salle communale de Linsmea
+ u\n🏠 Adresse : 6 rue de l'école 1357 HELECINE (Linsmeau)\n🗺️ Province : B
+ rabant Wallon\n\n--- PARCOURS & CIRCUITS ---\n• BAD: 118 km | D+ : 1244 | D
+ épart: 08h00 - 10h00 | Ravitaillement: 2 | Tarif: FFBC : 4\,00€ / NON FFBC 
+ : 5\,50€\n• ROUTE: 75 km | D+ : 600 | Départ: 08h00 - 10h00 | Ravitaillemen
+ t: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 55 km | D+ : 450 
+ | Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n\nℹ️ Re
+ marque : Traces GPX disponibles sur le site du club - \nfléchage uniquement
+  pour le 55 et 75 km\n118 km: pas de fléchage\, se munir du GPX\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=6 rue 
+ de l'école 1357 HELECINE (Linsmeau)\n\n🔗 Source : Fédération Francophone B
+ elge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabr
+ izio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,BRABANT WALLON
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9103-20260913@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260913T080000
+DTEND;TZID=Europe/Brussels:20260913T120000
+SUMMARY:🚴 [Route] Mémorial Arsène Grosfils - Dave Namuroise
+LOCATION:Local de la Balle Pelote\, 1 Rue de l'école 5100 Dave\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=1 Rue de l'école 5100 D
+ ave
+DESCRIPTION:📌 ÉVÉNEMENT : Mémorial Arsène Grosfils\n🚴 Club organisateur :
+  3415 - CYCLO NANINNE\n📍 Lieu de départ : Local de la Balle Pelote\n🏠 Adr
+ esse : 1 Rue de l'école 5100 Dave\n🗺️ Province : Namur\n\n--- PARCOURS & C
+ IRCUITS ---\n• ROUTE: 55 km | D+ : 526 | Départ: 08h00 - 10h00 | Ravitaille
+ ment: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 30 km | D+ : 3
+ 57 | Départ: 08h00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ET
+ OILE: D+ : N.A | Départ: 08h00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 
+ 3\,50€\n\nℹ️ Remarque : Challenge Namuroises\nAccueil - Circuits fléchés \n
+ Trace GPX et feuille de route\n\n🗺️ Itinéraire Google Maps : https://www.g
+ oogle.com/maps/search/?api=1&query=1 Rue de l'école 5100 Dave\n\n🔗 Source 
+ : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 C
+ alendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9539-20260919@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260919T080000
+DTEND;TZID=Europe/Brussels:20260919T120000
+SUMMARY:🚴 [Route] Tour de Thudinie - Falisolle Brevet à Dénivelé
+LOCATION:salle communale\, - rue Vigneron 5060 Falisolle\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=- rue Vigneron 5060 Fal
+ isolle
+DESCRIPTION:📌 ÉVÉNEMENT : Tour de Thudinie\n🚴 Club organisateur : 3726 - 
+ VELO LOISIR SAMBREVILLE\n📍 Lieu de départ : salle communale\n🏠 Adresse : 
+ - rue Vigneron 5060 Falisolle\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCU
+ ITS ---\n• BAD: 130 km | D+ : 1460 | Départ: 08h00 - 09h00 | Ravitaillement
+ : 2 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• BAD: 94 km | D+ : 1056 | 
+ Départ: 08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC
+  : 5\,50€\n• ROUTE: 66 km | D+ : 755 | Départ: 09h00 - 11h00 | Ravitailleme
+ nt: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 40 km | D+ : 402
+  | Départ: 09h00 - 11h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ R
+ emarque : Classique\, semi-permanente: 20/09 au 25/09\nPréinscription\, nou
+ veaux parcours 97 et 125\nTrace au sol\, GPX\, Feuille de route\n\n🗺️ Itin
+ éraire Google Maps : https://www.google.com/maps/search/?api=1&query=- rue 
+ Vigneron 5060 Falisolle\n\n🔗 Source : Fédération Francophone Belge du Cycl
+ otourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la R
+ usta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9188-20260920@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260920T080000
+DTEND;TZID=Europe/Brussels:20260920T120000
+SUMMARY:🚴 [Route] Rallye d'Automne - Gembloux Namuroise
+LOCATION:Centre Sportif de Beuzet\, 34 Avenue Hélène Solvay 5030 Gembloux\,
+  Namur
+URL:https://www.google.com/maps/search/?api=1&query=34 Avenue Hélène Solvay
+  5030 Gembloux
+DESCRIPTION:📌 ÉVÉNEMENT : Rallye d'Automne\n🚴 Club organisateur : 3215 - 
+ GEMBLOUX SPRINT CLUB\n📍 Lieu de départ : Centre Sportif de Beuzet\n🏠 Adre
+ sse : 34 Avenue Hélène Solvay 5030 Gembloux\n🗺️ Province : Namur\n\n--- PA
+ RCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ : 400 | Départ: 08h00 - 10h00 | 
+ Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• ROUTE: 30 k
+ m | D+ : 250 | Départ: 08h00 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 2\
+ ,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : parking - feuille de route - marq
+ uage \nau sol - préinscription - traces GPX\n\n🗺️ Itinéraire Google Maps :
+  https://www.google.com/maps/search/?api=1&query=34 Avenue Hélène Solvay 50
+ 30 Gembloux\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (F
+ FBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9416-20260926@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260926T080000
+DTEND;TZID=Europe/Brussels:20260926T120000
+SUMMARY:🚴 [Route] SUR LES ROUTES D'ANDRE MOUTON - ANDENNE Namuroise
+LOCATION:Complexe Sportif  ANDENNE ARENA\, Rue Docteur Melin 14 5300 ANDENN
+ E\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Docteur Melin 14 5
+ 300 ANDENNE
+DESCRIPTION:📌 ÉVÉNEMENT : SUR LES ROUTES D'ANDRE MOUTON\n🚴 Club organisat
+ eur : 3210 - ASSOCIATION CYCLOS ANDENNE\n📍 Lieu de départ : Complexe Sport
+ if  ANDENNE ARENA\n🏠 Adresse : Rue Docteur Melin 14 5300 ANDENNE\n🗺️ Prov
+ ince : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 90 km | D+ : 735 | Dé
+ part: 08h00 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,50€ / NON FFBC :
+  6\,00€\n• ROUTE: 73 km | D+ : 602 | Départ: 08h00 - 10h00 | Ravitaillement
+ : 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• ROUTE: 56 km | D+ : 420 |
+  Départ: 08h00 - 10h00 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n\nℹ️ Rem
+ arque : site http://www.cyclandenne.be/ à consulter \nparcours fléchés et G
+ PX café matinal offert\nfeuilles de routes\n\n🗺️ Itinéraire Google Maps : 
+ https://www.google.com/maps/search/?api=1&query= Rue Docteur Melin 14 5300 
+ ANDENNE\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9248-20260927@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260927T080000
+DTEND;TZID=Europe/Brussels:20260927T120000
+SUMMARY:🪨 [Gravel] La 212 - Emines
+LOCATION:Centre sportif La bruyère\, 33 Rue de Rhisnes 5080 Emines\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=33 Rue de Rhisnes 5080 
+ Emines
+DESCRIPTION:📌 ÉVÉNEMENT : La 212\n🚴 Club organisateur : 3510 - MEUX CYCLO
+  LA BRUYERE\n📍 Lieu de départ : Centre sportif La bruyère\n🏠 Adresse : 33
+  Rue de Rhisnes 5080 Emines\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUIT
+ S ---\n• GRAVEL: 75 km | D+ : N.A | Départ: 08h00 - 10h00 | Ravitaillement:
+  2 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• ROUTE: 60 km | D+ : N.A | 
+ Départ: 08h30 - 11h00 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC
+  : 4\,50€\n• GRAVEL: 50 km | D+ : N.A | Départ: 08h00 - 11h00 | Ravitaillem
+ ent: 1 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Classiqu
+ e\n Départ groupé possible  RDV 9h00\nTrace au sol - GPX - Feuille de route
+ \n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&
+ query=33 Rue de Rhisnes 5080 Emines\n\n🔗 Source : Fédération Francophone B
+ elge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabr
+ izio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,GRAVEL\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9262-20260930@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20260930T100000
+DTEND;TZID=Europe/Brussels:20260930T140000
+SUMMARY:🚴 [Route] Challenge Jean-Marie DE GROOTE (B) - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Challenge Jean-Marie DE GROOTE (B)\n🚴 Club orga
+ nisateur : 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse 
+ : 29 Rue du Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & 
+ CIRCUITS ---\n• ROUTE: 60 km | D+ : 472 | Départ: 10h00 - 13h00 | Tarif: FF
+ BC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ Remarque : Classique - Préinscription
+ s - Assistance GPS \nMarquage au sol - GPX - Feuille de route\nCollation au
+  départ\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/
+ ?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Fra
+ ncophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier prépar
+ é par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9364-20261003@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261003T083000
+DTEND;TZID=Europe/Brussels:20261003T123000
+SUMMARY:🚴 [Route] LA CLÔTURE CCB - Châtelet
+LOCATION:K'fé Le Club\, 8 Rue du Pont (parking) 6200 Châtelet\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=8 Rue du Pont (parking)
+  6200 Châtelet
+DESCRIPTION:📌 ÉVÉNEMENT : LA CLÔTURE CCB\n🚴 Club organisateur : 3606 - CY
+ CLO-CLUB BOUFFIOULX\n📍 Lieu de départ : K'fé Le Club\n🏠 Adresse : 8 Rue d
+ u Pont (parking) 6200 Châtelet\n🗺️ Province : Hainaut\n\n--- PARCOURS & CI
+ RCUITS ---\n• ROUTE: 80 km | D+ : 794 | Départ: 08h30 - 09h30 | Tarif: FFBC
+  : 3\,50€ / NON FFBC : 5\,00€\n• ROUTE: 65 km | D+ : 597 | Départ: 08h30 - 
+ 09h30 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n• EASY: 40 km | D+ : 337 
+ | Départ: 08h30 - 09h30 | Tarif: FFBC : 2\,50€ / NON FFBC : 4\,00€\n\nℹ️ Re
+ marque : parking - Fléché\n\n🗺️ Itinéraire Google Maps : https://www.googl
+ e.com/maps/search/?api=1&query=8 Rue du Pont (parking) 6200 Châtelet\n\n🔗 
+ Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté
+ )\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9228-20261003@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261003T090000
+DTEND;TZID=Europe/Brussels:20261003T130000
+SUMMARY:🚴 [Route] La SAITTA CAP 48 - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La SAITTA CAP 48\n🚴 Club organisateur : 3212 - 
+ SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adresse : Rue Ad
+ olphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CI
+ RCUITS ---\n• ROUTE: 100 km | D+ : 920 | Départ: 09h00 - 10h30 | Ravitaille
+ ment: 1 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n• EASY: 50 km | D+ : 35
+ 0 | Départ: 09h00 - 10h30 | Tarif: FFBC : 3\,50€ / NON FFBC : 5\,00€\n\nℹ️ 
+ Remarque : organisation philanthropique\nAccueil - collation à l'arrivée \n
+ Trace au sol - GPX - Feuille de route\n\n🗺️ Itinéraire Google Maps : https
+ ://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier\, 8 5020
+  VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9716-20261007@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261007T110000
+DTEND;TZID=Europe/Brussels:20261007T150000
+SUMMARY:🚴 [Route] Diamond challenge - Ciney
+LOCATION:Diamond Bar\, 14 place Monseu 5590 Ciney\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ci
+ ney
+DESCRIPTION:📌 ÉVÉNEMENT : Diamond challenge\n🚴 Club organisateur : 3213 -
+  CVC CINEY\n📍 Lieu de départ : Diamond Bar\n🏠 Adresse : 14 place Monseu 5
+ 590 Ciney\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• EASY: 50 
+ km | D+ : N.A | Départ: 11h00 - 14h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3
+ \,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nTirage de la tombola\
+ nChallenge des Cyclos Emptinnois\n\n🗺️ Itinéraire Google Maps : https://ww
+ w.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ciney\n\n🔗 Sour
+ ce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n�
+ � Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9904-20261010@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261010T090000
+DTEND;TZID=Europe/Brussels:20261010T130000
+SUMMARY:🚴 [Route] Pays des Vallées - DINANT
+LOCATION:/\, / / 5500 DINANT\, Liège
+URL:https://www.google.com/maps/search/?api=1&query=/ / 5500 DINANT
+DESCRIPTION:📌 ÉVÉNEMENT : Pays des Vallées\n🚴 Club organisateur : 2413 - 
+ La Fête dans le Guidon\n📍 Lieu de départ : /\n🏠 Adresse : / / 5500 DINANT
+ \n🗺️ Province : Liège\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 60 km | D+ 
+ : N.A | Départ: 09h00 - 11h00\n• ROUTE: 40 km | D+ : N.A | Départ: 09h00 - 
+ 11h00\n\nℹ️ Remarque : 10-11 oct - Dinant - deux jours à vélo ou\nà pied et
+  une étape festival -\ninscription : www.lafetedansleguidon.be\n\n🗺️ Itiné
+ raire Google Maps : https://www.google.com/maps/search/?api=1&query=/ / 550
+ 0 DINANT\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-8994-20261010@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261010T080000
+DTEND;TZID=Europe/Brussels:20261010T120000
+SUMMARY:🚴 [Route] Vedrin-Hélécine - VEDRIN Namuroise
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Vedrin-Hélécine\n🚴 Club organisateur : 3203 - V
+ C VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du Blanc B
+ ois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROU
+ TE: 102 km | D+ : 532 | Départ: 08h00 - 09h30 | Ravitaillement: 2 | Tarif: 
+ FFBC : 4\,00€ / NON FFBC : 5\,50€\n• ROUTE: 63 km | D+ : 341 | Départ: 08h0
+ 0 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 3\,00€ / NON FFBC : 4\,50€\n•
+  ROUTE: 48 km | D+ : 267 | Départ: 08h00 - 11h30 | Ravitaillement: 1 | Tari
+ f: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 22 km | D+ : 123 | Départ: 0
+ 8h00 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ETOILE: D+ : N.A
+  | Départ: 08h00 - 12h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n\nℹ️ R
+ emarque : Classique - Préinscriptions - Assistance GPS\nMarqe au sol - GPX 
+ - Feuille de route\nCafé gratuit jusqu'à 9h30\n\n🗺️ Itinéraire Google Maps
+  : https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 502
+ 0 VEDRIN\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC
+  / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9007-20261011@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261011T080000
+DTEND;TZID=Europe/Brussels:20261011T120000
+SUMMARY:🚴 [Route] Audax Jean-Pierre HANCE - VEDRIN
+LOCATION:Salle St Eloi\, 29 Rue du Blanc Bois 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 50
+ 20 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : Audax Jean-Pierre HANCE\n🚴 Club organisateur : 
+ 3203 - VC VEDRIN\n📍 Lieu de départ : Salle St Eloi\n🏠 Adresse : 29 Rue du
+  Blanc Bois 5020 VEDRIN\n🗺️ Province : Namur\n\n--- PARCOURS & CIRCUITS --
+ -\n• ROUTE: 62 km | D+ : 400 | Départ: 08h00 - 09h00 | Tarif: FFBC : 2\,00€
+  / NON FFBC : 3\,50€\n\nℹ️ Remarque : Uniquement GPS\, Départ groupé à 9h00
+ \nRépartition progressive en sous-groupes\nTrace GPX\, Collation au départ\
+ n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&q
+ uery=29 Rue du Blanc Bois 5020 VEDRIN\n\n🔗 Source : Fédération Francophone
+  Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fa
+ brizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9037-20261024@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261024T083000
+DTEND;TZID=Europe/Brussels:20261024T123000
+SUMMARY:🚴 [Route] Clôture des Namuroises - Floreffe Namuroise
+LOCATION:Moulin Brasserie Abbaye de Floreffe\, 7 rue du Séminaire 5150  Flo
+ reffe\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150
+   Floreffe
+DESCRIPTION:📌 ÉVÉNEMENT : Clôture des Namuroises\n🚴 Club organisateur : 5
+ 5106 - Comité Provincial Namur\n📍 Lieu de départ : Moulin Brasserie Abbaye
+  de Floreffe\n🏠 Adresse : 7 rue du Séminaire 5150  Floreffe\n🗺️ Province 
+ : Namur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 89 km | D+ : 826 | Départ:
+  08h30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,5
+ 0€\n• ROUTE: 51 km | D+ : 455 | Départ: 08h30 - 11h00 | Ravitaillement: 1 |
+  Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• EASY: 37 km | D+ : 241 | Dépar
+ t: 08h30 - 12h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\
+ ,50€\n• ETOILE: D+ : N.A | Départ: 08h30 - 12h00 | Tarif: FFBC : 3\,00€ / N
+ ON FFBC : 4\,50€\n\nℹ️ Remarque : Classique - Accueil sur place\nPréinscrip
+ tion du 19/10 au 24/ 10\nMarquage au sol-Trace GPX-Feuille de route\n\n🗺️ 
+ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=7 
+ rue du Séminaire 5150  Floreffe\n\n🔗 Source : Fédération Francophone Belge
+  du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio
+  de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9038-20261025@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261025T083000
+DTEND;TZID=Europe/Brussels:20261025T123000
+SUMMARY:🚴 [Route] Couleurs d'Automne - Floreffe
+LOCATION:Moulin Brasserie Abbaye de Floreffe\, 7 rue du Séminaire 5150  Flo
+ reffe\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150
+   Floreffe
+DESCRIPTION:📌 ÉVÉNEMENT : Couleurs d'Automne\n🚴 Club organisateur : 55106
+  - Comité Provincial Namur\n📍 Lieu de départ : Moulin Brasserie Abbaye de 
+ Floreffe\n🏠 Adresse : 7 rue du Séminaire 5150  Floreffe\n🗺️ Province : Na
+ mur\n\n--- PARCOURS & CIRCUITS ---\n• ROUTE: 79 km | D+ : 536 | Départ: 08h
+ 30 - 10h00 | Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n
+ • ROUTE: 52 km | D+ : 372 | Départ: 08h30 - 11h00 | Ravitaillement: 1 | Tar
+ if: FFBC : 4\,00€ / NON FFBC : 5\,50€\n\nℹ️ Remarque : Classique - Accueil 
+ sur place\n Préinscription  du 19/10 au 24/10\nMarquage au sol-Trace GPX-Fe
+ uille de route\n\n🗺️ Itinéraire Google Maps : https://www.google.com/maps/
+ search/?api=1&query=7 rue du Séminaire 5150  Floreffe\n\n🔗 Source : Fédéra
+ tion Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrie
+ r préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9005-20261031@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261031T090000
+DTEND;TZID=Europe/Brussels:20261031T130000
+SUMMARY:🚴 [Route] La Redoutable Route du Peket - VEDRIN
+LOCATION:Ecole communale\, Rue Adolphe Parmentier\, 8 5020 VEDRIN\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier
+ \, 8 5020 VEDRIN
+DESCRIPTION:📌 ÉVÉNEMENT : La Redoutable Route du Peket\n🚴 Club organisate
+ ur : 3212 - SPEEDY CLUB NAMUR\n📍 Lieu de départ : Ecole communale\n🏠 Adre
+ sse : Rue Adolphe Parmentier\, 8 5020 VEDRIN\n🗺️ Province : Namur\n\n--- P
+ ARCOURS & CIRCUITS ---\n• ROUTE: 85 km | D+ : N.A | Départ: 09h00 - 10h30 |
+  Ravitaillement: 1 | Tarif: FFBC : 4\,00€ / NON FFBC : 5\,50€\n• EASY: 55 k
+ m | D+ : N.A | Départ: 09h00 - 10h30 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\
+ ,50€\n\nℹ️ Remarque : Classique - Parcours facile - \nAccueil - Verre de pe
+ ket offert à l'arrivée\nTrace au sol - GPX - Feuille de route\n\n🗺️ Itinér
+ aire Google Maps : https://www.google.com/maps/search/?api=1&query= Rue Ado
+ lphe Parmentier\, 8 5020 VEDRIN\n\n🔗 Source : Fédération Francophone Belge
+  du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio
+  de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-8995-20261111@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261111T080000
+DTEND;TZID=Europe/Brussels:20261111T120000
+SUMMARY:🌲 [VTT] La Gesvoise - Gesves
+LOCATION:Buvette terrain football de Gesves\, 12 rue de la Pichelotte 5340 
+ Gesves\, Namur
+URL:https://www.google.com/maps/search/?api=1&query=12 rue de la Pichelotte
+  5340 Gesves
+DESCRIPTION:📌 ÉVÉNEMENT : La Gesvoise\n🚴 Club organisateur : 3701 - Team 
+ Faulx-Namur\n📍 Lieu de départ : Buvette terrain football de Gesves\n🏠 Adr
+ esse : 12 rue de la Pichelotte 5340 Gesves\n🗺️ Province : Namur\n\n--- PAR
+ COURS & CIRCUITS ---\n• VTT: 43 km | D+ : 880 | Départ: 08h00 - 10h30 | Rav
+ itaillement: 2 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n• VTT: 36 km | D
+ + : 700 | Départ: 08h00 - 10h30 | Ravitaillement: 2 | Tarif: FFBC : 6\,00€ 
+ / NON FFBC : 7\,50€\n• VTT: 26 km | D+ : 530 | Départ: 08h00 - 10h30 | Ravi
+ taillement: 1 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n• VTT: 20 km | D+
+  : 350 | Départ: 08h00 - 10h30 | Ravitaillement: 1 | Tarif: FFBC : 5\,00€ /
+  NON FFBC : 6\,50€\n\nℹ️ Remarque : Douches\,  vestiaires\,  buvette\npetit
+ e restauration\nPré inscription du 07/11 au 10/11\n\n🗺️ Itinéraire Google 
+ Maps : https://www.google.com/maps/search/?api=1&query=12 rue de la Pichelo
+ tte 5340 Gesves\n\n🔗 Source : Fédération Francophone Belge du Cyclotourism
+ e (FFBC / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RP
+ A)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9798-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] 32 - Diagonales - Triangle n° 2 - Sur le parcours Diagon
+ ales Randonnée ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : 32 - Diagonales - Triangle n° 2\n🚴 Club organis
+ ateur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠
+  Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n-
+ -- PARCOURS & CIRCUITS ---\n• DIAGONALE: 675 km | D+ : N.A | Départ: 06h00 
+ - 06h00 | Tarif: FFBC : 8\,50€ / NON FFBC : 10\,00€\n\nℹ️ Remarque : Chimay
+ -Turnhout-Manderfeld-Chimay /\nParcours libre - délai 46h /\nDépart libre s
+ ur le parcours toute l'année\n\n🗺️ Itinéraire Google Maps : https://www.go
+ ogle.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours\n\n🔗
+  Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Libert
+ é)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9616-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🪨 [Gravel] Fernelmont - Verviers - Fernelmont - Sur le parcours GR
+ AVEL Permanentes Randonnée ULTRA "Randonneur"
+LOCATION:Une localité au choix\, - sur la trace 0000 Sur le parcours\, Lièg
+ e
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : Fernelmont - Verviers - Fernelmont\n🚴 Club orga
+ nisateur : 2205 - FFBC - GRAVEL\n📍 Lieu de départ : Une localité au choix\
+ n🏠 Adresse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Liège\n\n
+ --- PARCOURS & CIRCUITS ---\n• GRAVEL: 234 km | D+ : 1900 | Départ: 06h00 -
+  06h00 | Tarif: FFBC : 10\,00€ / NON FFBC : 11\,50€\n\nℹ️ Remarque : Perman
+ ente: peut être roulée toute l'année\n\n🗺️ Itinéraire Google Maps : https:
+ //www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcou
+ rs\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vél
+ o Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,GRAVEL\,LIÈGE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9806-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Samson-Molignée-Meuse - FAULX-LES-TOMBES Permanentes
+LOCATION:LOCAL FACE EGLISE\, RUE DE L EGLISE 5340 FAULX-LES-TOMBES\, Namur
+URL:https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 F
+ AULX-LES-TOMBES
+DESCRIPTION:📌 ÉVÉNEMENT : Samson-Molignée-Meuse\n🚴 Club organisateur : 37
+ 01 - Team Faulx-Namur\n📍 Lieu de départ : LOCAL FACE EGLISE\n🏠 Adresse : 
+ RUE DE L EGLISE 5340 FAULX-LES-TOMBES\n🗺️ Province : Namur\n\n--- PARCOURS
+  & CIRCUITS ---\n• ROUTE: 74 km | D+ : 859 | Départ: 08h00 - 10h00 | Tarif:
+  FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 59 km | D+ : 511 | Départ: 08h
+ 00 - 10h00 | Tarif: FFBC : 2\,00€ / NON FFBC : 3\,50€\n• ROUTE: 34 km | D+ 
+ : 366 | Départ: 08h00 - 10h00 | Tarif: FFBC : 1\,50€ / NON FFBC : 3\,00€\n\
+ nℹ️ Remarque : Après pré-inscription: envoi du parcours GPX \n- herve.balth
+ azart@gmail.com - +32 477/78 00 88\n\n🗺️ Itinéraire Google Maps : https://
+ www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 FAULX-LES-TOM
+ BES\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vé
+ lo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9824-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🚴 [Route] ULTRA Tour province de Namur - Sur le parcours Randonnée
+  ULTRA "Randonneur"
+LOCATION:Localité au choix\, - sur la trace 0000 Sur le parcours\, Hainaut
+URL:https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur
+  le parcours
+DESCRIPTION:📌 ÉVÉNEMENT : ULTRA Tour province de Namur\n🚴 Club organisate
+ ur : 2208 - FFBC - DIAGONALES\n📍 Lieu de départ : Localité au choix\n🏠 Ad
+ resse : - sur la trace 0000 Sur le parcours\n🗺️ Province : Hainaut\n\n--- 
+ PARCOURS & CIRCUITS ---\n• ROUTE: 432 km | D+ : 5800 | Départ: 06h00 - 06h0
+ 0 | Tarif: FFBC : 6\,00€ / NON FFBC : 7\,50€\n\nℹ️ Remarque : Délai 35h - d
+ épart sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\n
+ www.openrunner.com/route-details/21590812\n\n🗺️ Itinéraire Google Maps : h
+ ttps://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le p
+ arcours\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC 
+ / Vélo Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9872-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T080000
+DTEND;TZID=Europe/Brussels:20261231T120000
+SUMMARY:🚴 [Route] Ultra Cyclisme - Namur Permanentes Randonnée ULTRA "Rand
+ onneur"
+LOCATION:Auberge de Jeunesse de Namur\, 8 Rue Félicien Rops 5000 Namur\, Na
+ mur
+URL:https://www.google.com/maps/search/?api=1&query=8 Rue Félicien Rops 500
+ 0 Namur
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra Cyclisme\n🚴 Club organisateur : 55106 - C
+ omité Provincial Namur\n📍 Lieu de départ : Auberge de Jeunesse de Namur\n�
+ � Adresse : 8 Rue Félicien Rops 5000 Namur\n🗺️ Province : Namur\n\n--- PAR
+ COURS & CIRCUITS ---\n• ROUTE: 433 km | D+ : 5921 | Départ: 08h00 - 18h00 |
+  Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n• ROUTE: 342 km | D+ : 4623 | Dé
+ part: 08h00 - 18h00 | Tarif: FFBC : 4\,50€ / NON FFBC : 6\,00€\n\nℹ️ Remarq
+ ue : Permanente du 01/01/26 au 31/12/26\nParcours en totale autonomie\nTrac
+ e GPX via inscr. velo-liberte/calendrier\n\n🗺️ Itinéraire Google Maps : ht
+ tps://www.google.com/maps/search/?api=1&query=8 Rue Félicien Rops 5000 Namu
+ r\n\n🔗 Source : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo
+  Liberté)\n📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,ROUTE\,NAMUR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9834-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT au sud de Namur - Sur la Trace Randonnée ULTRA "
+ Randonneur"
+LOCATION:Province de Namur\, x Au choix sur la trace 5000 Sur la Trace\, Ha
+ inaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace
+  5000 Sur la Trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT au sud de Namur\n🚴 Club organisateur 
+ : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Namur\n🏠 Adresse :
+  x Au choix sur la trace 5000 Sur la Trace\n🗺️ Province : Hainaut\n\n--- P
+ ARCOURS & CIRCUITS ---\n• VTT: 154 km | D+ : 3500 | Départ: 06h00 - 06h00 |
+  Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Départ sur le pa
+ rcours /\nDélai de 21 heures /\nEnvoi de la trace après inscription\n\n🗺️ 
+ Itinéraire Google Maps : https://www.google.com/maps/search/?api=1&query=x 
+ Au choix sur la trace 5000 Sur la Trace\n\n🔗 Source : Fédération Francopho
+ ne Belge du Cyclotourisme (FFBC / Vélo Liberté)\n📱 Calendrier préparé par 
+ Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbc-9832-20261231@velo-liberte.be
+DTSTAMP:20261101T103350Z
+DTSTART;TZID=Europe/Brussels:20261231T060000
+DTEND;TZID=Europe/Brussels:20261231T100000
+SUMMARY:🌲 [VTT] Ultra VTT en province de Namur - Sur la Trace Randonnée UL
+ TRA "Randonneur"
+LOCATION:Province de Namur\, x Au choix sur la trace 5000 Sur la Trace\, Ha
+ inaut
+URL:https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace
+  5000 Sur la Trace
+DESCRIPTION:📌 ÉVÉNEMENT : Ultra VTT en province de Namur\n🚴 Club organisa
+ teur : 55201 - FFBC - ULTRA\n📍 Lieu de départ : Province de Namur\n🏠 Adre
+ sse : x Au choix sur la trace 5000 Sur la Trace\n🗺️ Province : Hainaut\n\n
+ --- PARCOURS & CIRCUITS ---\n• VTT: 154 km | D+ : 2400 | Départ: 06h00 - 06
+ h00 | Tarif: FFBC : 5\,00€ / NON FFBC : 6\,50€\n\nℹ️ Remarque : Partielleme
+ nt balisé par commune de Burdinne/\nDélai de 20 heures /\nEnvoi de la trace
+  après inscription\n\n🗺️ Itinéraire Google Maps : https://www.google.com/m
+ aps/search/?api=1&query=x Au choix sur la trace 5000 Sur la Trace\n\n🔗 Sou
+ rce : Fédération Francophone Belge du Cyclotourisme (FFBC / Vélo Liberté)\n
+ 📱 Calendrier préparé par Fabrizio de la Rusta (RPA)
+CATEGORIES:FFBC\,CYCLOTOURISME\,VTT\,HAINAUT
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
